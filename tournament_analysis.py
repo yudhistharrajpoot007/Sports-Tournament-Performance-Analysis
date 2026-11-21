@@ -1,3 +1,9 @@
+"""
+project 28:Sports Tournament Performance Analysis
+Student: Yudhisthar Rajpoot | ABES Engineering College, Ghaziabad (B.Tech, ELCE)
+Admission No: 2026B02310068
+git hub repo: https://github.com/yudhistharrajpoot007/Sports-Tournament-Performance-Analysis.git
+"""
 import sys
 from pathlib import Path
 import pandas as pd
