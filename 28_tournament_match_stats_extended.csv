@@ -1,0 +1,1010 @@
+Match_ID,Match_Date,Team,Opponent,Player_Name,Player_ID,Player_Points,Assists,Fouls,Match_Duration_Mins,Match_Type,Tournament_Round,Venue,Attendance,Result
+MA00000,2026-05-26,Eagles,Falcons,Player 50,PL050,35.0,10,2,61.0,Friendly,Semi-Final,Skyline Arena,13835,Draw
+MA00001,2026-05-20,Falcons,Eagles,Player 34,PL034,24.0,12,5,86.0,League,Round 2,Aerodrome Stadium,24903,Draw
+MA00002,2025-06-25,Falcons,Lions,Player 65,PL065,,10,5,108.0,Semi-Final,Round 1,Aerodrome Stadium,36680,Win
+MA00003,2025-08-05,Sharks,Sharks,Player 10,PL010,31.0,12,3,86.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,30204,Loss
+MA00004,2026-09-16,Panthers,Sharks,Player 10,PL010,44.0,9,2,42.0,League,Final,Shadow Ridge Field,31660,Draw
+MA00005,2025-07-29,Panthers,Sharks,Player 60,PL060,25.0,5,7,144.0,Final,Round 1,Shadow Ridge Field,43102,Win
+MA00006,2026-04-28,Titans,Warriors,Player 29,PL029,26.0,5,2,70.0,Semi-Final,Semi-Final,Olympus Coliseum,33243,Draw
+MA00007,2025-07-20,Warriors,Tigers,Player 44,PL044,10.0,6,7,130.0,Semi-Final,Final,Vanguard Grounds,34614,Win
+MA00008,2025-08-25,Titans,Titans,Player 49,PL049,34.0,12,9,176.0,Semi-Final,Quarter-Final,Olympus Coliseum,44299,Draw
+MA00009,2026-06-13,Lions,Falcons,Player 53,PL053,1.0,1,4,95.0,Final,Round 1,Savanna Park,50707,Win
+MA00010,2026-03-06,Tigers,Tigers,Player 59,PL059,32.0,8,2,35.0,League,Final,Striped Horizon Arena,25913,Draw
+MA00011,2025-09-13,Sharks,Warriors,Player 7,PL007,21.0,11,5,117.0,League,Round 1,Apex Aquatic Dome,12630,Loss
+MA00012,2026-02-20,Falcons,Warriors,Player 21,PL021,41.0,17,2,37.0,Friendly,Semi-Final,Aerodrome Stadium,14171,Draw
+MA00013,2025-03-24,Eagles,Falcons,Player 40,PL040,8.0,2,6,119.0,Final,Round 2,Skyline Arena,54721,Loss
+MA00014,2025-07-21,Tigers,Lions,Player 13,PL013,21.0,5,8,176.0,Friendly,Final,Striped Horizon Arena,11683,Win
+MA00015,2025-12-02,Panthers,Lions,Player 70,PL070,18.0,5,2,73.0,League,Final,Shadow Ridge Field,28661,Draw
+MA00016,2026-07-16,Tigers,Tigers,Player 25,PL025,37.0,13,5,81.0,League,Quarter-Final,Striped Horizon Arena,28616,Draw
+MA00017,2025-05-21,Lions,Panthers,Player 68,PL068,10.0,3,1,30.0,Semi-Final,Quarter-Final,Savanna Park,37744,Draw
+MA00018,2025-10-03,Sharks,Warriors,Player 37,PL037,18.0,8,3,,Final,Round 1,Apex Aquatic Dome,47690,Win
+MA00019,2026-01-21,Panthers,Warriors,Player 56,PL056,21.0,5,1,30.0,Friendly,Round 2,Shadow Ridge Field,12659,Draw
+MA00020,2025-06-17,Warriors,Eagles,Player 79,PL079,25.0,9,5,110.0,League,Final,Vanguard Grounds,22601,Loss
+MA00021,2025-12-18,Falcons,Tigers,Player 48,PL048,10.0,4,4,97.0,Semi-Final,Quarter-Final,Aerodrome Stadium,39704,Loss
+MA00022,2026-04-13,Lions,Panthers,Player 24,PL024,18.0,6,6,122.0,League,Round 2,Savanna Park,12025,Win
+MA00023,2025-07-01,Tigers,Tigers,Player 74,PL074,,5,7,132.0,Friendly,Final,Striped Horizon Arena,12468,Win
+MA00024,2025-06-02,Lions,Panthers,Player 12,PL012,6.0,2,1,35.0,Final,Semi-Final,Savanna Park,64794,Loss
+MA00025,2026-09-12,Sharks,Sharks,Player 9,PL009,8.0,4,9,168.0,Friendly,Quarter-Final,Apex Aquatic Dome,13652,Draw
+MA00026,2026-04-21,Eagles,Tigers,Player 5,PL005,9.0,2,2,70.0,Final,Round 1,Skyline Arena,62148,Loss
+MA00027,2025-10-22,Panthers,Eagles,Player 4,PL004,26.0,9,9,155.0,Friendly,Round 2,Shadow Ridge Field,11599,Draw
+MA00028,2025-08-05,Tigers,Panthers,Player 26,PL026,33.0,12,9,170.0,Friendly,Round 2,Striped Horizon Arena,10102,Draw
+MA00029,2025-12-23,Panthers,Titans,Player 58,PL058,30.0,6,4,81.0,Friendly,Round 2,Shadow Ridge Field,12006,Win
+MA00030,2026-07-21,Lions,Warriors,Player 53,PL053,0.0,1,7,147.0,League,Round 2,Savanna Park,31867,Draw
+MA00031,2026-04-23,Eagles,Titans,Player 28,PL028,,8,4,110.0,Friendly,Final,Skyline Arena,6994,Draw
+MA00032,2025-12-15,Sharks,Sharks,Player 68,PL068,10.0,2,5,124.0,Semi-Final,Semi-Final,Apex Aquatic Dome,36682,Draw
+MA00033,2026-03-03,Panthers,Titans,Player 11,PL011,44.0,22,5,97.0,Semi-Final,Round 2,Shadow Ridge Field,29072,Win
+MA00034,2025-04-06,Eagles,Eagles,Player 31,PL031,6.0,4,2,43.0,League,Quarter-Final,Skyline Arena,12215,Win
+MA00035,2025-01-27,Titans,Lions,Player 74,PL074,19.0,7,2,61.0,Friendly,Quarter-Final,Olympus Coliseum,12605,Loss
+MA00036,2026-04-23,Titans,Lions,Player 73,PL073,25.0,7,3,63.0,Friendly,Final,Olympus Coliseum,14915,Draw
+MA00037,2025-11-26,Sharks,Panthers,Player 2,PL002,8.0,2,3,61.0,Semi-Final,Semi-Final,Apex Aquatic Dome,37784,Loss
+MA00038,2026-08-26,Eagles,Eagles,Player 28,PL028,2.0,1,5,133.0,Friendly,Semi-Final,Skyline Arena,7606,Draw
+MA00039,2026-08-27,Tigers,Panthers,Player 63,PL063,37.0,11,5,156.0,Friendly,Round 1,Striped Horizon Arena,13350,Win
+MA00040,2026-10-14,Eagles,Tigers,Player 78,PL078,14.0,4,2,43.0,Final,Quarter-Final,Skyline Arena,56824,Draw
+MA00041,2026-08-18,Sharks,Warriors,Player 32,PL032,20.0,8,3,48.0,Semi-Final,Round 1,Apex Aquatic Dome,31313,Win
+MA00042,2026-02-06,Warriors,Falcons,Player 24,PL024,33.0,6,3,89.0,Final,Semi-Final,Vanguard Grounds,53033,Loss
+MA00043,2025-03-28,Warriors,Sharks,Player 31,PL031,17.0,7,1,40.0,League,Final,Vanguard Grounds,21968,Win
+MA00044,2026-03-08,Falcons,Eagles,Player 43,PL043,20.0,8,5,170.0,Semi-Final,Semi-Final,Aerodrome Stadium,44241,Win
+MA00045,2025-07-19,Warriors,Sharks,Player 33,PL033,24.0,11,3,71.0,Friendly,Final,Vanguard Grounds,12763,Loss
+MA00046,2026-07-26,Warriors,Eagles,Player 65,PL065,33.0,9,6,143.0,Semi-Final,Round 1,Vanguard Grounds,33939,Win
+MA00047,2025-07-04,Titans,Sharks,Player 28,PL028,6.0,5,5,103.0,Final,Final,Olympus Coliseum,56696,Draw
+MA00048,2026-08-16,Falcons,Sharks,Player 63,PL063,44.0,16,4,88.0,League,Semi-Final,Aerodrome Stadium,26794,Draw
+MA00049,2026-09-05,Titans,Eagles,Player 9,PL009,41.0,8,2,37.0,Final,Quarter-Final,Olympus Coliseum,44295,Draw
+MA00050,2025-11-15,Sharks,Titans,Player 76,PL076,27.0,15,4,98.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,29696,Draw
+MA00051,2026-10-10,Lions,Tigers,Player 57,PL057,37.0,15,4,81.0,Friendly,Round 2,Savanna Park,6946,Loss
+MA00052,2025-09-20,Lions,Sharks,Player 55,PL055,31.0,13,4,,Final,Final,Savanna Park,54001,Win
+MA00053,2025-10-21,Warriors,Panthers,Player 41,PL041,41.0,17,9,154.0,Friendly,Quarter-Final,Vanguard Grounds,7783,Draw
+MA00054,2026-09-06,Lions,Lions,Player 1,PL001,1.0,3,2,33.0,League,Final,Savanna Park,15644,Draw
+MA00055,2026-04-11,Warriors,Tigers,Player 32,PL032,21.0,12,3,85.0,Friendly,Semi-Final,Vanguard Grounds,10241,Win
+MA00056,2025-05-03,Warriors,Lions,Player 45,PL045,,5,2,34.0,Semi-Final,Final,Vanguard Grounds,34420,Win
+MA00057,2025-04-22,Falcons,Warriors,Player 43,PL043,14.0,5,4,119.0,Final,Quarter-Final,Aerodrome Stadium,53837,Draw
+MA00058,2025-12-13,Titans,Eagles,Player 19,PL019,37.0,7,6,116.0,League,Quarter-Final,Olympus Coliseum,31029,Draw
+MA00059,2026-03-18,Falcons,Panthers,Player 38,PL038,6.0,2,5,174.0,League,Quarter-Final,Aerodrome Stadium,18353,Loss
+MA00060,2026-01-14,Eagles,Eagles,Player 53,PL053,0.0,2,1,44.0,Friendly,Round 1,Skyline Arena,6932,Win
+MA00061,2025-02-02,Falcons,Titans,Player 20,PL020,29.0,9,7,135.0,Final,Quarter-Final,Aerodrome Stadium,53486,Loss
+MA00062,2025-04-17,Titans,Sharks,Player 69,PL069,41.0,16,5,152.0,Final,Quarter-Final,Olympus Coliseum,43757,Win
+MA00063,2025-02-22,Lions,Titans,Player 13,PL013,10.0,7,7,132.0,Final,Round 2,Savanna Park,47085,Win
+MA00064,2026-06-10,Sharks,Lions,Player 8,PL008,37.0,9,6,172.0,Final,Semi-Final,Apex Aquatic Dome,47637,Draw
+MA00065,2025-09-21,Tigers,Titans,Player 64,PL064,13.0,5,8,175.0,Final,Round 2,Striped Horizon Arena,43116,Draw
+MA00066,2025-09-08,Titans,Warriors,Player 45,PL045,43.0,9,2,41.0,Friendly,Round 1,Olympus Coliseum,5492,Draw
+MA00067,2026-07-28,Falcons,Tigers,Player 57,PL057,0.0,3,2,44.0,Final,Quarter-Final,Aerodrome Stadium,50811,Loss
+MA00068,2026-10-12,Eagles,Titans,Player 50,PL050,33.0,7,2,58.0,Friendly,Round 2,Skyline Arena,12888,Draw
+MA00069,2025-01-09,Titans,Sharks,Player 16,PL016,43.0,20,6,170.0,Friendly,Semi-Final,Olympus Coliseum,11474,Loss
+MA00070,2026-08-15,Warriors,Titans,Player 17,PL017,23.0,11,2,59.0,League,Round 2,Vanguard Grounds,26385,Draw
+MA00071,2025-08-10,Lions,Tigers,Player 10,PL010,37.0,9,2,52.0,Semi-Final,Quarter-Final,Savanna Park,37738,Win
+MA00072,2026-05-28,Falcons,Titans,Player 24,PL024,2.0,3,5,107.0,Final,Final,Aerodrome Stadium,63342,Loss
+MA00073,2026-03-01,Sharks,Eagles,Player 44,PL044,32.0,14,2,35.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,41979,Loss
+MA00074,2025-04-04,Lions,Falcons,Player 43,PL043,2.0,1,8,139.0,Final,Semi-Final,Savanna Park,53755,Loss
+MA00075,2025-07-25,Sharks,Lions,Player 52,PL052,34.0,15,5,99.0,League,Final,Apex Aquatic Dome,21797,Win
+MA00076,2025-09-20,Sharks,Sharks,Player 32,PL032,7.0,5,9,179.0,Semi-Final,Round 1,Apex Aquatic Dome,42607,Draw
+MA00077,2025-01-05,Titans,Titans,Player 47,PL047,37.0,8,8,162.0,Friendly,Round 2,Olympus Coliseum,14467,Loss
+MA00078,2025-09-12,Lions,Lions,Player 7,PL007,23.0,6,4,106.0,Final,Semi-Final,Savanna Park,61127,Loss
+MA00079,2025-12-22,Sharks,Titans,Player 22,PL022,9.0,7,4,76.0,Semi-Final,Final,Apex Aquatic Dome,35866,Win
+MA00080,2026-02-09,Falcons,Titans,Player 62,PL062,36.0,15,2,35.0,Friendly,Round 1,Aerodrome Stadium,12160,Win
+MA00081,2025-03-24,Falcons,Sharks,Player 58,PL058,21.0,9,2,43.0,Final,Round 1,Aerodrome Stadium,47451,Draw
+MA00082,2026-04-22,Falcons,Lions,Player 63,PL063,41.0,14,1,41.0,Friendly,Semi-Final,Aerodrome Stadium,10258,Loss
+MA00083,2025-07-30,Sharks,Eagles,Player 17,PL017,19.0,5,1,32.0,Final,Round 2,Apex Aquatic Dome,50548,Win
+MA00084,2025-12-12,Sharks,Panthers,Player 47,PL047,19.0,9,4,,Final,Round 1,Apex Aquatic Dome,49186,Loss
+MA00085,2026-08-25,Eagles,Warriors,Player 41,PL041,1.0,0,5,88.0,Friendly,Round 1,Skyline Arena,11102,Win
+MA00086,2025-12-01,Lions,Titans,Player 44,PL044,9.0,5,2,46.0,League,Final,Savanna Park,12619,Draw
+MA00087,2026-02-01,Titans,Sharks,Player 16,PL016,27.0,10,7,177.0,Final,Quarter-Final,Olympus Coliseum,42882,Draw
+MA00088,2026-08-26,Warriors,Titans,Player 17,PL017,11.0,7,10,167.0,Semi-Final,Round 2,Vanguard Grounds,31642,Draw
+MA00089,2026-05-05,Eagles,Falcons,Player 28,PL028,5.0,3,4,131.0,Friendly,Quarter-Final,Skyline Arena,6296,Loss
+MA00090,2025-09-10,Falcons,Warriors,Player 32,PL032,10.0,3,7,164.0,Semi-Final,Semi-Final,Aerodrome Stadium,42122,Draw
+MA00091,2025-04-17,Panthers,Eagles,Player 40,PL040,25.0,9,3,106.0,Final,Round 2,Shadow Ridge Field,44895,Loss
+MA00092,2025-10-13,Falcons,Lions,Player 60,PL060,16.0,6,5,91.0,League,Round 2,Aerodrome Stadium,29313,Win
+MA00093,2026-05-16,Panthers,Tigers,Player 46,PL046,33.0,12,3,60.0,Final,Round 1,Shadow Ridge Field,47366,Win
+MA00094,2025-10-05,Panthers,Warriors,Player 71,PL071,41.0,18,5,126.0,Semi-Final,Final,Shadow Ridge Field,36711,Draw
+MA00095,2025-04-24,Falcons,Falcons,Player 9,PL009,4.0,2,10,172.0,League,Round 2,Aerodrome Stadium,31596,Loss
+MA00096,2025-02-01,Titans,Warriors,Player 62,PL062,3.0,2,6,172.0,League,Final,Olympus Coliseum,30793,Loss
+MA00097,2026-08-10,Titans,Titans,Player 29,PL029,7.0,3,2,36.0,Semi-Final,Round 2,Olympus Coliseum,36199,Loss
+MA00098,2025-06-05,Warriors,Titans,Player 59,PL059,0.0,1,2,30.0,Friendly,Semi-Final,Vanguard Grounds,8423,Loss
+MA00099,2026-04-07,Sharks,Warriors,Player 43,PL043,39.0,10,2,35.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,38211,Loss
+MA00100,2026-07-15,Panthers,Lions,Player 6,PL006,33.0,6,1,54.0,Friendly,Round 2,Shadow Ridge Field,11976,Win
+MA00101,2026-03-25,Panthers,Eagles,Player 64,PL064,32.0,12,4,74.0,Final,Quarter-Final,Shadow Ridge Field,63542,Draw
+MA00102,2025-01-29,Falcons,Warriors,Player 24,PL024,41.0,10,6,112.0,Final,Semi-Final,Aerodrome Stadium,54474,Loss
+MA00103,2025-05-28,Lions,Lions,Player 21,PL021,35.0,11,4,98.0,Semi-Final,Round 2,Savanna Park,31667,Win
+MA00104,2025-03-08,Tigers,Warriors,Player 18,PL018,37.0,18,7,133.0,Friendly,Final,Striped Horizon Arena,10973,Draw
+MA00105,2025-10-16,Eagles,Sharks,Player 63,PL063,6.0,3,6,163.0,Semi-Final,Semi-Final,Skyline Arena,36277,Loss
+MA00106,2026-07-30,Titans,Falcons,Player 50,PL050,39.0,12,2,39.0,Final,Round 2,Olympus Coliseum,54424,Win
+MA00107,2025-01-27,Warriors,Titans,Player 77,PL077,30.0,12,4,136.0,Friendly,Quarter-Final,Vanguard Grounds,7468,Win
+MA00108,2025-10-16,Sharks,Titans,Player 11,PL011,6.0,1,6,121.0,Final,Semi-Final,Apex Aquatic Dome,64601,Draw
+MA00109,2025-08-20,Tigers,Titans,Player 52,PL052,6.0,4,4,89.0,Semi-Final,Round 2,Striped Horizon Arena,46020,Loss
+MA00110,2026-01-25,Titans,Eagles,Player 18,PL018,33.0,10,4,134.0,Semi-Final,Semi-Final,Olympus Coliseum,36155,Win
+MA00111,2025-01-16,Lions,Warriors,Player 59,PL059,18.0,4,4,127.0,Friendly,Round 1,Savanna Park,8583,Win
+MA00112,2026-02-25,Tigers,Sharks,Player 14,PL014,14.0,8,2,71.0,Final,Semi-Final,Striped Horizon Arena,57515,Win
+MA00113,2025-01-04,Falcons,Eagles,Player 64,PL064,1.0,0,6,138.0,Friendly,Round 1,Aerodrome Stadium,9009,Draw
+MA00114,2025-10-06,Panthers,Warriors,Player 33,PL033,18.0,7,3,90.0,Friendly,Semi-Final,Shadow Ridge Field,8326,Draw
+MA00115,2025-05-01,Tigers,Tigers,Player 69,PL069,14.0,6,3,58.0,Semi-Final,Round 1,Striped Horizon Arena,38410,Draw
+MA00116,2025-08-19,Panthers,Warriors,Player 31,PL031,13.0,5,6,177.0,League,Semi-Final,Shadow Ridge Field,30601,Win
+MA00117,2026-03-29,Sharks,Titans,Player 8,PL008,43.0,10,3,80.0,Semi-Final,Round 1,Apex Aquatic Dome,32967,Draw
+MA00118,2026-07-24,Titans,Lions,Player 18,PL018,8.0,4,6,111.0,League,Quarter-Final,Olympus Coliseum,30753,Loss
+MA00119,2025-06-06,Tigers,Falcons,Player 25,PL025,31.0,10,2,66.0,Final,Round 1,Striped Horizon Arena,62022,Win
+MA00120,2025-09-09,Warriors,Tigers,Player 16,PL016,29.0,12,6,111.0,Final,Round 1,Vanguard Grounds,52695,Loss
+MA00121,2026-08-26,Sharks,Panthers,Player 40,PL040,1.0,3,8,154.0,Semi-Final,Round 2,Apex Aquatic Dome,37135,Loss
+MA00122,2026-10-13,Titans,Warriors,Player 64,PL064,0.0,0,4,76.0,Friendly,Final,Olympus Coliseum,10722,Loss
+MA00123,2026-01-05,Warriors,Panthers,Player 27,PL027,34.0,8,8,163.0,League,Quarter-Final,Vanguard Grounds,27514,Loss
+MA00124,2025-12-07,Sharks,Lions,Player 7,PL007,23.0,5,6,100.0,League,Round 2,Apex Aquatic Dome,23128,Loss
+MA00125,2025-10-28,Warriors,Titans,Player 18,PL018,17.0,5,5,164.0,Final,Quarter-Final,Vanguard Grounds,46444,Loss
+MA00126,2026-09-22,Lions,Titans,Player 36,PL036,20.0,8,1,42.0,League,Round 1,Savanna Park,19618,Draw
+MA00127,2025-10-11,Lions,Lions,Player 73,PL073,13.0,5,4,118.0,Final,Final,Savanna Park,62331,Win
+MA00128,2025-09-18,Falcons,Panthers,Player 46,PL046,41.0,8,8,143.0,League,Final,Aerodrome Stadium,30060,Win
+MA00129,2025-10-28,Tigers,Sharks,Player 61,PL061,,8,2,83.0,Semi-Final,Final,Striped Horizon Arena,29196,Draw
+MA00130,2026-07-28,Sharks,Titans,Player 19,PL019,8.0,4,6,122.0,Final,Round 1,Apex Aquatic Dome,54297,Draw
+MA00131,2025-05-21,Tigers,Sharks,Player 18,PL018,18.0,6,6,106.0,League,Round 1,Striped Horizon Arena,14787,Loss
+MA00132,2025-01-06,Tigers,Falcons,Player 9,PL009,6.0,2,5,93.0,Semi-Final,Round 1,Striped Horizon Arena,35927,Draw
+MA00133,2025-10-07,Tigers,Tigers,Player 20,PL020,11.0,5,7,161.0,Semi-Final,Final,Striped Horizon Arena,47702,Draw
+MA00134,2025-11-29,Lions,Eagles,Player 75,PL075,29.0,17,1,52.0,Friendly,Quarter-Final,Savanna Park,13858,Loss
+MA00135,2025-01-10,Tigers,Tigers,Player 50,PL050,41.0,10,7,132.0,Friendly,Quarter-Final,Striped Horizon Arena,11689,Loss
+MA00136,2026-01-05,Titans,Tigers,Player 43,PL043,,7,2,33.0,League,Quarter-Final,Olympus Coliseum,14176,Draw
+MA00137,2025-10-05,Falcons,Panthers,Player 37,PL037,31.0,12,5,154.0,Friendly,Semi-Final,Aerodrome Stadium,8743,Draw
+MA00138,2026-03-02,Warriors,Falcons,Player 9,PL009,9.0,2,3,96.0,Friendly,Final,Vanguard Grounds,13792,Win
+MA00139,2025-09-13,Lions,Sharks,Player 25,PL025,41.0,21,2,43.0,Friendly,Semi-Final,Savanna Park,9422,Loss
+MA00140,2025-01-15,Eagles,Panthers,Player 16,PL016,33.0,15,3,67.0,Final,Round 2,Skyline Arena,62208,Loss
+MA00141,2025-01-29,Sharks,Titans,Player 66,PL066,1.0,1,6,109.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,37171,Win
+MA00142,2026-01-21,Falcons,Eagles,Player 21,PL021,31.0,10,7,120.0,League,Final,Aerodrome Stadium,14451,Draw
+MA00143,2026-02-12,Falcons,Warriors,Player 74,PL074,1.0,3,7,152.0,League,Quarter-Final,Aerodrome Stadium,12628,Draw
+MA00144,2025-06-10,Tigers,Lions,Player 20,PL020,17.0,4,7,159.0,Friendly,Semi-Final,Striped Horizon Arena,14821,Loss
+MA00145,2026-06-10,Eagles,Warriors,Player 29,PL029,28.0,5,4,109.0,Friendly,Semi-Final,Skyline Arena,12778,Loss
+MA00146,2025-10-21,Sharks,Falcons,Player 8,PL008,38.0,17,2,56.0,Final,Final,Apex Aquatic Dome,45696,Draw
+MA00147,2025-05-08,Panthers,Sharks,Player 52,PL052,27.0,8,3,75.0,Friendly,Final,Shadow Ridge Field,8674,Loss
+MA00148,2025-10-14,Falcons,Warriors,Player 12,PL012,37.0,8,7,134.0,Final,Semi-Final,Aerodrome Stadium,62313,Draw
+MA00149,2025-11-05,Eagles,Falcons,Player 27,PL027,32.0,8,4,82.0,League,Quarter-Final,Skyline Arena,31149,Draw
+MA00150,2025-03-12,Warriors,Lions,Player 77,PL077,5.0,2,6,102.0,Final,Round 1,Vanguard Grounds,62753,Win
+MA00151,2026-09-03,Titans,Lions,Player 76,PL076,25.0,7,2,39.0,Semi-Final,Round 2,Olympus Coliseum,40972,Win
+MA00152,2025-09-05,Titans,Titans,Player 7,PL007,5.0,2,6,129.0,Final,Quarter-Final,Olympus Coliseum,50307,Loss
+MA00153,2026-08-25,Falcons,Tigers,Player 32,PL032,,7,8,162.0,Final,Semi-Final,Aerodrome Stadium,46956,Draw
+MA00154,2025-07-11,Lions,Panthers,Player 46,PL046,40.0,20,8,170.0,Friendly,Final,Savanna Park,5692,Draw
+MA00155,2025-06-23,Sharks,Sharks,Player 17,PL017,30.0,9,7,134.0,Final,Semi-Final,Apex Aquatic Dome,61546,Win
+MA00156,2025-05-03,Falcons,Tigers,Player 7,PL007,1.0,2,1,43.0,Friendly,Round 1,Aerodrome Stadium,6105,Draw
+MA00157,2025-05-28,Sharks,Falcons,Player 32,PL032,37.0,14,7,165.0,Final,Semi-Final,Apex Aquatic Dome,61392,Loss
+MA00158,2026-04-01,Lions,Tigers,Player 39,PL039,37.0,9,3,98.0,League,Final,Savanna Park,30545,Loss
+MA00159,2025-05-27,Sharks,Eagles,Player 26,PL026,31.0,11,2,54.0,Friendly,Round 2,Apex Aquatic Dome,13345,Loss
+MA00160,2025-02-17,Lions,Lions,Player 68,PL068,19.0,7,2,37.0,League,Round 2,Savanna Park,26188,Win
+MA00161,2026-01-30,Sharks,Sharks,Player 41,PL041,36.0,13,3,65.0,League,Round 1,Apex Aquatic Dome,24602,Draw
+MA00162,2026-04-16,Titans,Tigers,Player 30,PL030,44.0,15,2,40.0,Friendly,Round 1,Olympus Coliseum,8786,Loss
+MA00163,2026-07-16,Sharks,Sharks,Player 8,PL008,19.0,9,5,111.0,Friendly,Quarter-Final,Apex Aquatic Dome,14256,Loss
+MA00164,2025-12-05,Lions,Eagles,Player 75,PL075,12.0,3,7,129.0,League,Final,Savanna Park,26212,Loss
+MA00165,2025-06-12,Titans,Titans,Player 49,PL049,4.0,4,2,43.0,Semi-Final,Round 2,Olympus Coliseum,29913,Loss
+MA00166,2026-08-28,Sharks,Titans,Player 70,PL070,11.0,4,6,135.0,League,Round 1,Apex Aquatic Dome,22593,Win
+MA00167,2026-03-06,Warriors,Lions,Player 62,PL062,40.0,8,4,123.0,Final,Round 2,Vanguard Grounds,43772,Win
+MA00168,2026-10-10,Lions,Lions,Player 49,PL049,29.0,6,5,149.0,Semi-Final,Round 1,Savanna Park,47164,Loss
+MA00169,2026-04-20,Lions,Sharks,Player 21,PL021,34.0,13,3,78.0,Final,Semi-Final,Savanna Park,54996,Draw
+MA00170,2025-09-04,Panthers,Sharks,Player 23,PL023,5.0,6,2,40.0,Semi-Final,Round 1,Shadow Ridge Field,30871,Loss
+MA00171,2025-03-31,Tigers,Lions,Player 20,PL020,24.0,6,2,55.0,Final,Round 2,Striped Horizon Arena,55234,Win
+MA00172,2026-03-02,Falcons,Titans,Player 54,PL054,13.0,5,2,67.0,Semi-Final,Semi-Final,Aerodrome Stadium,45044,Win
+MA00173,2025-03-01,Warriors,Lions,Player 27,PL027,6.0,3,3,81.0,Semi-Final,Final,Vanguard Grounds,38521,Loss
+MA00174,2026-07-08,Panthers,Panthers,Player 11,PL011,31.0,13,6,101.0,Semi-Final,Round 1,Shadow Ridge Field,38642,Draw
+MA00175,2025-03-01,Sharks,Titans,Player 41,PL041,7.0,3,6,171.0,League,Round 2,Apex Aquatic Dome,13132,Loss
+MA00176,2025-07-01,Falcons,Tigers,Player 5,PL005,40.0,15,5,127.0,Semi-Final,Round 2,Aerodrome Stadium,28699,Win
+MA00177,2025-10-29,Lions,Tigers,Player 9,PL009,8.0,8,4,121.0,Friendly,Round 1,Savanna Park,12470,Loss
+MA00178,2026-09-22,Sharks,Titans,Player 69,PL069,27.0,13,5,,Semi-Final,Round 2,Apex Aquatic Dome,38230,Draw
+MA00179,2025-06-21,Titans,Lions,Player 44,PL044,6.0,2,4,123.0,League,Quarter-Final,Olympus Coliseum,18297,Draw
+MA00180,2025-08-29,Eagles,Tigers,Player 20,PL020,11.0,3,2,50.0,Final,Semi-Final,Skyline Arena,54839,Draw
+MA00181,2025-08-27,Lions,Falcons,Player 53,PL053,36.0,7,6,144.0,League,Round 2,Savanna Park,19812,Draw
+MA00182,2025-03-28,Panthers,Eagles,Player 30,PL030,39.0,19,3,120.0,Final,Round 2,Shadow Ridge Field,46557,Win
+MA00183,2026-10-15,Lions,Falcons,Player 78,PL078,20.0,8,4,154.0,League,Round 2,Savanna Park,14179,Win
+MA00184,2025-11-12,Titans,Lions,Player 68,PL068,9.0,3,5,133.0,League,Final,Olympus Coliseum,23030,Win
+MA00185,2025-08-05,Eagles,Lions,Player 77,PL077,13.0,7,3,117.0,Final,Round 1,Skyline Arena,51065,Draw
+MA00186,2026-05-07,Falcons,Eagles,Player 21,PL021,25.0,12,1,41.0,Friendly,Semi-Final,Aerodrome Stadium,13275,Win
+MA00187,2025-08-09,Tigers,Sharks,Player 26,PL026,15.0,5,4,98.0,Final,Round 2,Striped Horizon Arena,59806,Win
+MA00188,2026-10-28,Tigers,Lions,Player 49,PL049,36.0,12,3,64.0,League,Semi-Final,Striped Horizon Arena,27089,Loss
+MA00189,2026-05-11,Lions,Panthers,Player 53,PL053,12.0,8,2,44.0,Final,Semi-Final,Savanna Park,45180,Win
+MA00190,2025-03-18,Lions,Panthers,Player 12,PL012,15.0,5,6,132.0,League,Round 2,Savanna Park,18696,Draw
+MA00191,2026-09-22,Warriors,Eagles,Player 58,PL058,23.0,14,5,146.0,League,Semi-Final,Vanguard Grounds,21583,Win
+MA00192,2025-05-27,Eagles,Eagles,Player 32,PL032,13.0,7,2,42.0,League,Round 1,Skyline Arena,28998,Win
+MA00193,2026-03-08,Panthers,Tigers,Player 66,PL066,20.0,7,3,66.0,Friendly,Quarter-Final,Shadow Ridge Field,9570,Draw
+MA00194,2025-02-02,Warriors,Warriors,Player 40,PL040,11.0,4,5,153.0,Friendly,Round 2,Vanguard Grounds,5270,Draw
+MA00195,2026-05-30,Panthers,Lions,Player 7,PL007,40.0,11,3,54.0,League,Round 2,Shadow Ridge Field,24258,Draw
+MA00196,2026-07-30,Tigers,Panthers,Player 46,PL046,21.0,8,4,136.0,Semi-Final,Quarter-Final,Striped Horizon Arena,30468,Loss
+MA00197,2025-06-02,Falcons,Sharks,Player 11,PL011,7.0,3,6,170.0,Friendly,Semi-Final,Aerodrome Stadium,14582,Win
+MA00198,2025-06-09,Warriors,Tigers,Player 57,PL057,7.0,5,7,167.0,Semi-Final,Final,Vanguard Grounds,43639,Draw
+MA00199,2025-05-06,Falcons,Warriors,Player 24,PL024,38.0,16,7,129.0,Semi-Final,Semi-Final,Aerodrome Stadium,39546,Loss
+MA00200,2025-03-30,Falcons,Eagles,Player 41,PL041,18.0,8,8,177.0,Semi-Final,Round 2,Aerodrome Stadium,40327,Win
+MA00201,2026-10-30,Eagles,Eagles,Player 22,PL022,14.0,5,6,118.0,Final,Quarter-Final,Skyline Arena,56270,Win
+MA00202,2026-01-11,Eagles,Titans,Player 11,PL011,15.0,4,10,163.0,League,Quarter-Final,Skyline Arena,27523,Draw
+MA00203,2026-10-08,Tigers,Sharks,Player 62,PL062,,11,4,133.0,Final,Semi-Final,Striped Horizon Arena,56300,Draw
+MA00204,2025-02-26,Tigers,Panthers,Player 17,PL017,16.0,7,3,83.0,Semi-Final,Semi-Final,Striped Horizon Arena,47991,Win
+MA00205,2025-08-19,Tigers,Tigers,Player 65,PL065,31.0,6,3,83.0,Final,Quarter-Final,Striped Horizon Arena,52775,Draw
+MA00206,2026-05-24,Lions,Tigers,Player 51,PL051,12.0,2,6,139.0,Final,Quarter-Final,Savanna Park,54265,Loss
+MA00207,2026-06-22,Eagles,Lions,Player 37,PL037,41.0,14,4,,Friendly,Semi-Final,Skyline Arena,8075,Draw
+MA00208,2026-02-23,Sharks,Eagles,Player 40,PL040,31.0,7,5,82.0,Final,Quarter-Final,Apex Aquatic Dome,58673,Draw
+MA00209,2025-07-08,Panthers,Sharks,Player 38,PL038,40.0,12,5,104.0,Friendly,Quarter-Final,Shadow Ridge Field,13120,Loss
+MA00210,2025-05-08,Panthers,Eagles,Player 34,PL034,11.0,5,3,64.0,League,Round 2,Shadow Ridge Field,18614,Win
+MA00211,2025-02-06,Tigers,Falcons,Player 41,PL041,21.0,8,4,111.0,Final,Round 2,Striped Horizon Arena,45252,Loss
+MA00212,2026-08-16,Sharks,Warriors,Player 2,PL002,14.0,6,3,57.0,Semi-Final,Semi-Final,Apex Aquatic Dome,35415,Draw
+MA00213,2026-04-10,Titans,Sharks,Player 3,PL003,,6,5,80.0,League,Round 1,Olympus Coliseum,28662,Loss
+MA00214,2026-03-02,Eagles,Sharks,Player 50,PL050,11.0,6,2,43.0,Final,Round 2,Skyline Arena,53116,Win
+MA00215,2025-12-27,Sharks,Warriors,Player 32,PL032,7.0,4,5,176.0,Final,Round 1,Apex Aquatic Dome,58964,Win
+MA00216,2026-01-10,Titans,Eagles,Player 64,PL064,17.0,9,5,100.0,Friendly,Round 2,Olympus Coliseum,9958,Draw
+MA00217,2025-02-05,Panthers,Titans,Player 8,PL008,15.0,6,3,103.0,Friendly,Quarter-Final,Shadow Ridge Field,13445,Win
+MA00218,2025-06-11,Warriors,Sharks,Player 10,PL010,24.0,9,3,82.0,Semi-Final,Round 1,Vanguard Grounds,32276,Loss
+MA00219,2025-10-11,Tigers,Eagles,Player 11,PL011,13.0,6,1,35.0,Friendly,Round 1,Striped Horizon Arena,12997,Win
+MA00220,2025-09-28,Lions,Warriors,Player 69,PL069,6.0,3,5,106.0,Semi-Final,Final,Savanna Park,32776,Draw
+MA00221,2026-01-27,Tigers,Tigers,Player 55,PL055,15.0,5,8,164.0,Final,Final,Striped Horizon Arena,59208,Loss
+MA00222,2025-09-07,Warriors,Titans,Player 38,PL038,31.0,7,3,92.0,League,Quarter-Final,Vanguard Grounds,15832,Win
+MA00223,2025-09-22,Warriors,Lions,Player 44,PL044,8.0,4,4,92.0,Semi-Final,Round 2,Vanguard Grounds,42901,Win
+MA00224,2025-05-13,Tigers,Tigers,Player 24,PL024,16.0,6,5,108.0,Final,Quarter-Final,Striped Horizon Arena,47445,Draw
+MA00225,2025-01-30,Titans,Warriors,Player 35,PL035,9.0,4,5,118.0,Semi-Final,Round 1,Olympus Coliseum,29380,Draw
+MA00226,2026-06-30,Panthers,Titans,Player 26,PL026,29.0,19,4,122.0,Semi-Final,Round 2,Shadow Ridge Field,37865,Draw
+MA00227,2026-09-19,Panthers,Titans,Player 60,PL060,36.0,13,3,69.0,Semi-Final,Final,Shadow Ridge Field,41926,Draw
+MA00228,2026-05-27,Warriors,Sharks,Player 62,PL062,40.0,17,3,59.0,Final,Round 1,Vanguard Grounds,61540,Win
+MA00229,2026-09-13,Warriors,Falcons,Player 46,PL046,35.0,14,1,34.0,Final,Final,Vanguard Grounds,53580,Loss
+MA00230,2026-02-15,Eagles,Panthers,Player 19,PL019,2.0,2,1,35.0,League,Final,Skyline Arena,17634,Win
+MA00231,2026-08-17,Eagles,Tigers,Player 21,PL021,38.0,13,2,44.0,Final,Round 2,Skyline Arena,47810,Draw
+MA00232,2025-10-09,Warriors,Lions,Player 31,PL031,40.0,16,9,162.0,Friendly,Quarter-Final,Vanguard Grounds,13533,Draw
+MA00233,2026-04-12,Eagles,Titans,Player 53,PL053,8.0,3,4,72.0,Final,Semi-Final,Skyline Arena,64318,Draw
+MA00234,2025-07-26,Lions,Falcons,Player 71,PL071,19.0,6,7,149.0,League,Round 1,Savanna Park,22179,Draw
+MA00235,2026-08-29,Warriors,Titans,Player 23,PL023,42.0,18,6,154.0,Friendly,Semi-Final,Vanguard Grounds,8109,Win
+MA00236,2026-05-13,Panthers,Falcons,Player 63,PL063,29.0,10,8,166.0,Semi-Final,Final,Shadow Ridge Field,40707,Draw
+MA00237,2026-07-27,Titans,Falcons,Player 9,PL009,11.0,4,5,178.0,Semi-Final,Quarter-Final,Olympus Coliseum,47624,Draw
+MA00238,2025-01-15,Sharks,Sharks,Player 11,PL011,22.0,10,5,98.0,League,Final,Apex Aquatic Dome,30233,Loss
+MA00239,2025-12-31,Lions,Eagles,Player 76,PL076,8.0,3,3,46.0,Final,Quarter-Final,Savanna Park,44749,Draw
+MA00240,2026-02-03,Sharks,Tigers,Player 26,PL026,21.0,9,7,155.0,Friendly,Round 1,Apex Aquatic Dome,11680,Loss
+MA00241,2025-12-09,Eagles,Titans,Player 66,PL066,5.0,3,7,126.0,Friendly,Final,Skyline Arena,14327,Loss
+MA00242,2025-10-28,Falcons,Eagles,Player 29,PL029,33.0,15,5,101.0,Semi-Final,Quarter-Final,Aerodrome Stadium,44589,Loss
+MA00243,2026-02-18,Falcons,Warriors,Player 44,PL044,6.0,6,5,170.0,Final,Quarter-Final,Aerodrome Stadium,62975,Loss
+MA00244,2025-05-30,Eagles,Panthers,Player 2,PL002,,4,6,102.0,Semi-Final,Round 2,Skyline Arena,31450,Win
+MA00245,2025-07-09,Falcons,Panthers,Player 8,PL008,12.0,5,2,76.0,Semi-Final,Quarter-Final,Aerodrome Stadium,35214,Win
+MA00246,2026-10-29,Warriors,Lions,Player 76,PL076,16.0,5,4,80.0,League,Quarter-Final,Vanguard Grounds,23814,Loss
+MA00247,2025-03-21,Sharks,Sharks,Player 34,PL034,44.0,22,5,169.0,Semi-Final,Semi-Final,Apex Aquatic Dome,33141,Win
+MA00248,2026-08-20,Falcons,Eagles,Player 61,PL061,29.0,15,3,94.0,Semi-Final,Quarter-Final,Aerodrome Stadium,30708,Loss
+MA00249,2026-09-14,Panthers,Panthers,Player 46,PL046,32.0,13,4,99.0,Semi-Final,Final,Shadow Ridge Field,46375,Draw
+MA00250,2025-12-01,Sharks,Lions,Player 54,PL054,32.0,10,5,142.0,League,Round 2,Apex Aquatic Dome,27088,Draw
+MA00251,2025-11-25,Sharks,Lions,Player 27,PL027,24.0,6,3,81.0,League,Final,Apex Aquatic Dome,23834,Draw
+MA00252,2026-08-01,Tigers,Titans,Player 76,PL076,1.0,2,2,47.0,League,Semi-Final,Striped Horizon Arena,24278,Draw
+MA00253,2025-02-27,Panthers,Panthers,Player 16,PL016,15.0,5,4,152.0,Final,Semi-Final,Shadow Ridge Field,52014,Draw
+MA00254,2026-06-07,Sharks,Panthers,Player 58,PL058,33.0,9,4,132.0,League,Semi-Final,Apex Aquatic Dome,15273,Win
+MA00255,2026-09-25,Panthers,Warriors,Player 41,PL041,26.0,10,2,45.0,League,Quarter-Final,Shadow Ridge Field,26367,Win
+MA00256,2025-08-11,Falcons,Panthers,Player 43,PL043,15.0,9,2,58.0,Friendly,Round 1,Aerodrome Stadium,9538,Win
+MA00257,2026-06-25,Panthers,Titans,Player 71,PL071,21.0,8,5,103.0,Semi-Final,Semi-Final,Shadow Ridge Field,40541,Win
+MA00258,2025-11-25,Sharks,Lions,Player 2,PL002,3.0,1,4,75.0,League,Round 2,Apex Aquatic Dome,20712,Loss
+MA00259,2026-03-09,Sharks,Eagles,Player 26,PL026,40.0,9,3,60.0,Final,Round 1,Apex Aquatic Dome,51168,Loss
+MA00260,2026-10-24,Falcons,Falcons,Player 62,PL062,11.0,6,8,167.0,Final,Round 2,Aerodrome Stadium,62106,Loss
+MA00261,2026-10-26,Panthers,Falcons,Player 69,PL069,12.0,10,4,99.0,League,Final,Shadow Ridge Field,15551,Win
+MA00262,2025-09-25,Falcons,Warriors,Player 74,PL074,11.0,2,2,31.0,Semi-Final,Round 1,Aerodrome Stadium,40297,Loss
+MA00263,2026-07-04,Warriors,Panthers,Player 31,PL031,8.0,2,4,109.0,Friendly,Round 1,Vanguard Grounds,7832,Loss
+MA00264,2025-07-12,Warriors,Falcons,Player 33,PL033,18.0,10,3,76.0,Semi-Final,Round 2,Vanguard Grounds,41422,Win
+MA00265,2025-02-23,Tigers,Tigers,Player 23,PL023,12.0,4,7,123.0,Final,Round 1,Striped Horizon Arena,42152,Win
+MA00266,2026-04-20,Titans,Warriors,Player 31,PL031,26.0,9,2,54.0,Friendly,Round 1,Olympus Coliseum,10754,Win
+MA00267,2026-04-27,Panthers,Falcons,Player 69,PL069,33.0,14,3,51.0,Final,Round 1,Shadow Ridge Field,53156,Draw
+MA00268,2025-10-18,Sharks,Sharks,Player 29,PL029,5.0,2,3,51.0,League,Semi-Final,Apex Aquatic Dome,23108,Win
+MA00269,2025-03-21,Warriors,Lions,Player 8,PL008,24.0,7,8,150.0,Final,Semi-Final,Vanguard Grounds,44800,Win
+MA00270,2025-01-24,Panthers,Falcons,Player 79,PL079,4.0,4,9,158.0,Final,Round 2,Shadow Ridge Field,47310,Draw
+MA00271,2026-06-03,Tigers,Panthers,Player 61,PL061,32.0,13,7,167.0,Friendly,Round 2,Striped Horizon Arena,14944,Loss
+MA00272,2025-03-24,Warriors,Tigers,Player 11,PL011,21.0,9,2,60.0,Friendly,Semi-Final,Vanguard Grounds,7610,Draw
+MA00273,2025-06-30,Sharks,Lions,Player 38,PL038,22.0,10,7,162.0,Final,Quarter-Final,Apex Aquatic Dome,54067,Win
+MA00274,2025-07-05,Sharks,Falcons,Player 61,PL061,14.0,5,2,49.0,Semi-Final,Round 2,Apex Aquatic Dome,29104,Win
+MA00275,2025-08-22,Sharks,Tigers,Player 7,PL007,18.0,8,5,116.0,Friendly,Round 2,Apex Aquatic Dome,12361,Loss
+MA00276,2025-04-14,Tigers,Lions,Player 19,PL019,,9,4,70.0,Semi-Final,Quarter-Final,Striped Horizon Arena,35263,Draw
+MA00277,2026-07-11,Falcons,Tigers,Player 54,PL054,11.0,6,6,131.0,Semi-Final,Final,Aerodrome Stadium,29914,Loss
+MA00278,2025-11-22,Eagles,Lions,Player 60,PL060,38.0,16,3,79.0,Final,Round 2,Skyline Arena,61456,Draw
+MA00279,2025-03-29,Sharks,Warriors,Player 30,PL030,36.0,15,5,165.0,Semi-Final,Final,Apex Aquatic Dome,28406,Loss
+MA00280,2026-04-26,Falcons,Titans,Player 4,PL004,13.0,6,5,110.0,Semi-Final,Round 2,Aerodrome Stadium,41689,Win
+MA00281,2026-09-24,Tigers,Lions,Player 60,PL060,15.0,4,1,46.0,Final,Quarter-Final,Striped Horizon Arena,42166,Draw
+MA00282,2025-04-28,Eagles,Warriors,Player 58,PL058,32.0,9,5,96.0,Semi-Final,Quarter-Final,Skyline Arena,28508,Win
+MA00283,2025-03-26,Tigers,Falcons,Player 41,PL041,1.0,0,4,,Semi-Final,Final,Striped Horizon Arena,46045,Draw
+MA00284,2026-10-16,Titans,Panthers,Player 21,PL021,10.0,4,4,115.0,Semi-Final,Semi-Final,Olympus Coliseum,31664,Win
+MA00285,2025-01-17,Titans,Panthers,Player 64,PL064,13.0,5,3,115.0,Semi-Final,Round 2,Olympus Coliseum,47873,Draw
+MA00286,2026-01-24,Sharks,Eagles,Player 56,PL056,5.0,1,5,100.0,Final,Semi-Final,Apex Aquatic Dome,55050,Draw
+MA00287,2025-01-18,Warriors,Titans,Player 2,PL002,7.0,2,7,137.0,League,Semi-Final,Vanguard Grounds,12680,Draw
+MA00288,2025-02-27,Titans,Eagles,Player 66,PL066,24.0,8,6,147.0,Friendly,Round 1,Olympus Coliseum,7524,Draw
+MA00289,2026-06-26,Eagles,Titans,Player 39,PL039,25.0,9,2,59.0,Semi-Final,Round 1,Skyline Arena,46504,Win
+MA00290,2025-04-25,Sharks,Tigers,Player 55,PL055,33.0,9,6,157.0,Friendly,Round 2,Apex Aquatic Dome,10260,Win
+MA00291,2025-11-17,Tigers,Eagles,Player 40,PL040,22.0,6,3,74.0,Semi-Final,Final,Striped Horizon Arena,32357,Draw
+MA00292,2026-02-16,Warriors,Lions,Player 8,PL008,14.0,9,2,43.0,Final,Final,Vanguard Grounds,43363,Loss
+MA00293,2025-12-06,Titans,Sharks,Player 68,PL068,21.0,8,8,167.0,Friendly,Quarter-Final,Olympus Coliseum,14523,Win
+MA00294,2025-12-07,Sharks,Sharks,Player 70,PL070,42.0,8,1,38.0,Friendly,Round 2,Apex Aquatic Dome,7292,Win
+MA00295,2026-07-13,Falcons,Sharks,Player 68,PL068,11.0,4,1,43.0,Final,Semi-Final,Aerodrome Stadium,43538,Loss
+MA00296,2026-01-02,Eagles,Falcons,Player 43,PL043,39.0,16,8,126.0,Semi-Final,Round 1,Skyline Arena,31408,Win
+MA00297,2025-12-10,Falcons,Sharks,Player 38,PL038,4.0,3,7,168.0,Semi-Final,Semi-Final,Aerodrome Stadium,36752,Draw
+MA00298,2026-06-21,Eagles,Falcons,Player 18,PL018,32.0,14,4,89.0,Final,Semi-Final,Skyline Arena,60287,Draw
+MA00299,2026-10-03,Eagles,Panthers,Player 22,PL022,5.0,2,4,138.0,Final,Semi-Final,Skyline Arena,42174,Loss
+MA00300,2025-03-17,Sharks,Eagles,Player 13,PL013,39.0,9,6,144.0,Final,Final,Apex Aquatic Dome,44230,Loss
+MA00301,2025-01-03,Falcons,Panthers,Player 35,PL035,15.0,6,2,68.0,League,Round 2,Aerodrome Stadium,16287,Win
+MA00302,2025-03-15,Tigers,Warriors,Player 52,PL052,13.0,4,7,168.0,Final,Final,Striped Horizon Arena,62544,Loss
+MA00303,2025-04-19,Tigers,Warriors,Player 58,PL058,28.0,11,8,134.0,Semi-Final,Semi-Final,Striped Horizon Arena,40112,Win
+MA00304,2025-02-04,Panthers,Lions,Player 31,PL031,21.0,11,6,144.0,Final,Round 2,Shadow Ridge Field,49106,Loss
+MA00305,2026-06-12,Warriors,Falcons,Player 7,PL007,0.0,1,5,164.0,Semi-Final,Semi-Final,Vanguard Grounds,37689,Draw
+MA00306,2025-11-16,Lions,Sharks,Player 72,PL072,32.0,11,1,32.0,Final,Round 1,Savanna Park,54046,Draw
+MA00307,2026-09-05,Eagles,Sharks,Player 78,PL078,0.0,2,2,60.0,League,Round 1,Skyline Arena,31555,Draw
+MA00308,2025-08-02,Warriors,Warriors,Player 55,PL055,36.0,18,1,32.0,Final,Round 2,Vanguard Grounds,59951,Loss
+MA00309,2026-04-18,Titans,Falcons,Player 51,PL051,5.0,2,4,133.0,Friendly,Round 1,Olympus Coliseum,6151,Draw
+MA00310,2025-11-10,Sharks,Panthers,Player 71,PL071,40.0,12,6,120.0,League,Final,Apex Aquatic Dome,19619,Loss
+MA00311,2025-07-19,Eagles,Lions,Player 34,PL034,22.0,7,7,174.0,Semi-Final,Semi-Final,Skyline Arena,34033,Win
+MA00312,2026-06-11,Falcons,Panthers,Player 40,PL040,3.0,2,4,114.0,Friendly,Final,Aerodrome Stadium,13560,Draw
+MA00313,2026-07-17,Panthers,Lions,Player 47,PL047,14.0,8,4,67.0,Semi-Final,Round 2,Shadow Ridge Field,32946,Win
+MA00314,2025-04-25,Sharks,Titans,Player 42,PL042,11.0,6,4,138.0,Final,Round 1,Apex Aquatic Dome,43907,Loss
+MA00315,2025-05-28,Titans,Lions,Player 71,PL071,19.0,9,10,167.0,Final,Semi-Final,Olympus Coliseum,45490,Win
+MA00316,2026-05-11,Panthers,Falcons,Player 20,PL020,42.0,12,2,47.0,Final,Quarter-Final,Shadow Ridge Field,60919,Loss
+MA00317,2025-10-21,Panthers,Warriors,Player 32,PL032,13.0,3,3,49.0,Final,Final,Shadow Ridge Field,46173,Loss
+MA00318,2025-12-26,Panthers,Lions,Player 76,PL076,23.0,7,3,58.0,League,Round 2,Shadow Ridge Field,23065,Win
+MA00319,2026-06-09,Panthers,Lions,Player 18,PL018,30.0,8,8,139.0,Friendly,Round 2,Shadow Ridge Field,6293,Loss
+MA00320,2026-05-14,Panthers,Panthers,Player 49,PL049,36.0,12,5,89.0,Final,Round 2,Shadow Ridge Field,46769,Draw
+MA00321,2025-09-28,Panthers,Warriors,Player 53,PL053,13.0,7,1,37.0,Final,Final,Shadow Ridge Field,46796,Win
+MA00322,2026-02-26,Lions,Warriors,Player 68,PL068,6.0,2,10,170.0,League,Final,Savanna Park,25046,Loss
+MA00323,2026-07-06,Falcons,Eagles,Player 5,PL005,9.0,2,4,109.0,Friendly,Quarter-Final,Aerodrome Stadium,11871,Loss
+MA00324,2025-04-02,Warriors,Titans,Player 41,PL041,29.0,14,2,62.0,Friendly,Round 2,Vanguard Grounds,7972,Win
+MA00325,2026-02-08,Tigers,Lions,Player 30,PL030,34.0,15,1,38.0,Final,Quarter-Final,Striped Horizon Arena,62306,Win
+MA00326,2025-10-24,Titans,Lions,Player 36,PL036,28.0,11,5,116.0,League,Round 1,Olympus Coliseum,16997,Win
+MA00327,2026-07-31,Warriors,Warriors,Player 17,PL017,43.0,14,6,176.0,Friendly,Round 2,Vanguard Grounds,12032,Win
+MA00328,2025-07-10,Warriors,Warriors,Player 26,PL026,,6,3,71.0,Semi-Final,Quarter-Final,Vanguard Grounds,45376,Loss
+MA00329,2025-06-07,Lions,Titans,Player 60,PL060,25.0,9,7,155.0,Semi-Final,Final,Savanna Park,36112,Loss
+MA00330,2026-05-22,Falcons,Sharks,Player 75,PL075,2.0,4,3,63.0,Semi-Final,Round 1,Aerodrome Stadium,33287,Win
+MA00331,2026-03-02,Eagles,Warriors,Player 68,PL068,2.0,1,9,159.0,League,Semi-Final,Skyline Arena,22578,Draw
+MA00332,2025-05-10,Sharks,Eagles,Player 59,PL059,43.0,8,4,,League,Round 2,Apex Aquatic Dome,30624,Loss
+MA00333,2026-03-20,Sharks,Panthers,Player 64,PL064,36.0,9,6,168.0,Semi-Final,Semi-Final,Apex Aquatic Dome,45860,Win
+MA00334,2025-06-28,Falcons,Falcons,Player 59,PL059,35.0,6,4,111.0,Final,Quarter-Final,Aerodrome Stadium,48426,Win
+MA00335,2025-10-05,Panthers,Titans,Player 9,PL009,19.0,5,5,138.0,Final,Final,Shadow Ridge Field,53599,Loss
+MA00336,2026-10-27,Eagles,Sharks,Player 51,PL051,4.0,3,2,58.0,Semi-Final,Round 1,Skyline Arena,28389,Win
+MA00337,2025-10-17,Falcons,Warriors,Player 12,PL012,31.0,11,3,73.0,Semi-Final,Round 1,Aerodrome Stadium,28999,Win
+MA00338,2026-09-10,Falcons,Warriors,Player 29,PL029,3.0,3,6,168.0,Friendly,Semi-Final,Aerodrome Stadium,6855,Draw
+MA00339,2026-09-06,Panthers,Falcons,Player 74,PL074,26.0,9,11,179.0,League,Round 1,Shadow Ridge Field,20125,Win
+MA00340,2026-03-15,Titans,Panthers,Player 72,PL072,16.0,7,6,127.0,League,Final,Olympus Coliseum,25794,Loss
+MA00341,2025-05-29,Sharks,Warriors,Player 50,PL050,22.0,6,3,82.0,Semi-Final,Round 1,Apex Aquatic Dome,30763,Draw
+MA00342,2026-03-07,Lions,Falcons,Player 57,PL057,6.0,2,4,93.0,Semi-Final,Round 2,Savanna Park,32986,Win
+MA00343,2025-03-06,Sharks,Panthers,Player 22,PL022,16.0,4,5,160.0,Semi-Final,Final,Apex Aquatic Dome,29481,Win
+MA00344,2026-04-10,Sharks,Lions,Player 60,PL060,17.0,7,6,144.0,League,Quarter-Final,Apex Aquatic Dome,15731,Win
+MA00345,2025-12-12,Warriors,Falcons,Player 48,PL048,9.0,6,7,142.0,Final,Final,Vanguard Grounds,58835,Loss
+MA00346,2026-10-27,Tigers,Eagles,Player 41,PL041,28.0,14,5,116.0,Final,Semi-Final,Striped Horizon Arena,61477,Win
+MA00347,2026-08-12,Tigers,Titans,Player 58,PL058,17.0,6,5,125.0,Semi-Final,Quarter-Final,Striped Horizon Arena,45266,Win
+MA00348,2025-04-05,Falcons,Tigers,Player 74,PL074,17.0,7,9,147.0,Friendly,Final,Aerodrome Stadium,9408,Draw
+MA00349,2026-10-16,Sharks,Sharks,Player 54,PL054,7.0,4,7,130.0,League,Semi-Final,Apex Aquatic Dome,22758,Loss
+MA00350,2026-02-22,Lions,Sharks,Player 34,PL034,10.0,3,8,159.0,Semi-Final,Semi-Final,Savanna Park,47661,Win
+MA00351,2026-08-24,Panthers,Panthers,Player 30,PL030,30.0,14,1,30.0,Semi-Final,Final,Shadow Ridge Field,44311,Win
+MA00352,2026-08-05,Titans,Tigers,Player 21,PL021,33.0,15,2,52.0,Semi-Final,Round 1,Olympus Coliseum,36566,Loss
+MA00353,2026-05-31,Panthers,Panthers,Player 49,PL049,3.0,4,4,116.0,League,Round 2,Shadow Ridge Field,23889,Win
+MA00354,2026-04-21,Lions,Falcons,Player 29,PL029,11.0,6,5,127.0,Friendly,Quarter-Final,Savanna Park,12951,Win
+MA00355,2025-03-14,Panthers,Panthers,Player 7,PL007,32.0,12,1,44.0,Final,Round 2,Shadow Ridge Field,53254,Loss
+MA00356,2025-04-28,Sharks,Falcons,Player 45,PL045,9.0,2,3,70.0,Friendly,Round 2,Apex Aquatic Dome,9690,Win
+MA00357,2026-02-20,Warriors,Falcons,Player 73,PL073,35.0,12,8,179.0,Semi-Final,Final,Vanguard Grounds,39442,Draw
+MA00358,2026-10-28,Eagles,Falcons,Player 2,PL002,40.0,19,5,157.0,Final,Round 1,Skyline Arena,55521,Draw
+MA00359,2026-03-12,Lions,Lions,Player 64,PL064,27.0,10,6,,Final,Round 1,Savanna Park,62979,Win
+MA00360,2026-03-26,Sharks,Panthers,Player 68,PL068,19.0,6,2,40.0,Final,Quarter-Final,Apex Aquatic Dome,46559,Draw
+MA00361,2025-11-28,Sharks,Lions,Player 70,PL070,37.0,13,8,157.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,44199,Loss
+MA00362,2025-11-15,Panthers,Titans,Player 8,PL008,31.0,12,5,120.0,Final,Final,Shadow Ridge Field,49291,Win
+MA00363,2026-07-18,Falcons,Sharks,Player 21,PL021,15.0,7,8,148.0,Final,Quarter-Final,Aerodrome Stadium,50160,Loss
+MA00364,2026-02-06,Lions,Titans,Player 64,PL064,43.0,20,1,31.0,League,Final,Savanna Park,12112,Draw
+MA00365,2026-10-20,Sharks,Panthers,Player 19,PL019,22.0,7,7,130.0,League,Round 2,Apex Aquatic Dome,31581,Draw
+MA00366,2026-10-18,Falcons,Lions,Player 77,PL077,19.0,10,2,73.0,Friendly,Final,Aerodrome Stadium,5139,Loss
+MA00367,2026-10-13,Falcons,Sharks,Player 45,PL045,22.0,14,6,116.0,Final,Quarter-Final,Aerodrome Stadium,43424,Draw
+MA00368,2025-07-03,Falcons,Sharks,Player 28,PL028,41.0,9,5,145.0,Final,Round 1,Aerodrome Stadium,61333,Win
+MA00369,2025-01-14,Lions,Sharks,Player 30,PL030,28.0,5,5,94.0,League,Final,Savanna Park,31552,Loss
+MA00370,2026-07-17,Titans,Warriors,Player 35,PL035,41.0,9,9,148.0,Friendly,Round 2,Olympus Coliseum,13708,Win
+MA00371,2025-01-25,Titans,Sharks,Player 16,PL016,21.0,4,5,144.0,Friendly,Semi-Final,Olympus Coliseum,11043,Draw
+MA00372,2026-03-17,Falcons,Falcons,Player 29,PL029,17.0,5,3,65.0,Semi-Final,Final,Aerodrome Stadium,34989,Win
+MA00373,2025-02-05,Titans,Lions,Player 63,PL063,2.0,2,5,88.0,Friendly,Semi-Final,Olympus Coliseum,12236,Draw
+MA00374,2026-10-01,Sharks,Titans,Player 6,PL006,35.0,7,7,157.0,Final,Round 2,Apex Aquatic Dome,48261,Draw
+MA00375,2025-07-29,Warriors,Titans,Player 7,PL007,23.0,8,8,143.0,Final,Round 2,Vanguard Grounds,42887,Draw
+MA00376,2026-10-06,Tigers,Lions,Player 31,PL031,19.0,10,5,105.0,League,Round 1,Striped Horizon Arena,31488,Loss
+MA00377,2026-05-14,Sharks,Sharks,Player 3,PL003,1.0,1,2,57.0,League,Round 2,Apex Aquatic Dome,28433,Win
+MA00378,2025-02-07,Tigers,Eagles,Player 35,PL035,25.0,10,1,32.0,Semi-Final,Quarter-Final,Striped Horizon Arena,47944,Win
+MA00379,2026-01-20,Lions,Warriors,Player 66,PL066,19.0,5,5,152.0,Semi-Final,Round 2,Savanna Park,44402,Draw
+MA00380,2025-01-20,Tigers,Tigers,Player 42,PL042,22.0,6,8,159.0,Final,Final,Striped Horizon Arena,63205,Win
+MA00381,2025-11-22,Lions,Sharks,Player 18,PL018,1.0,1,6,145.0,League,Quarter-Final,Savanna Park,24253,Loss
+MA00382,2026-04-24,Titans,Lions,Player 6,PL006,23.0,11,5,112.0,League,Quarter-Final,Olympus Coliseum,30990,Loss
+MA00383,2026-05-07,Falcons,Titans,Player 70,PL070,21.0,9,6,144.0,League,Round 1,Aerodrome Stadium,19846,Win
+MA00384,2025-12-28,Tigers,Sharks,Player 62,PL062,36.0,18,3,59.0,Final,Final,Striped Horizon Arena,48432,Loss
+MA00385,2025-06-21,Sharks,Tigers,Player 45,PL045,16.0,6,5,91.0,Final,Final,Apex Aquatic Dome,55452,Loss
+MA00386,2025-12-15,Sharks,Sharks,Player 23,PL023,6.0,3,5,82.0,Friendly,Semi-Final,Apex Aquatic Dome,8765,Win
+MA00387,2026-10-26,Sharks,Titans,Player 48,PL048,22.0,6,5,135.0,Final,Final,Apex Aquatic Dome,60822,Loss
+MA00388,2025-12-26,Tigers,Eagles,Player 60,PL060,28.0,12,9,166.0,League,Semi-Final,Striped Horizon Arena,27950,Loss
+MA00389,2025-06-15,Panthers,Panthers,Player 2,PL002,23.0,12,6,106.0,Final,Final,Shadow Ridge Field,54502,Loss
+MA00390,2026-06-14,Warriors,Panthers,Player 60,PL060,5.0,4,4,94.0,League,Quarter-Final,Vanguard Grounds,21741,Win
+MA00391,2025-09-06,Panthers,Warriors,Player 35,PL035,35.0,10,4,70.0,League,Round 2,Shadow Ridge Field,17941,Win
+MA00392,2026-08-14,Titans,Lions,Player 31,PL031,24.0,8,2,64.0,League,Quarter-Final,Olympus Coliseum,16855,Draw
+MA00393,2026-07-25,Lions,Titans,Player 73,PL073,42.0,16,3,100.0,League,Semi-Final,Savanna Park,27166,Win
+MA00394,2025-01-14,Panthers,Tigers,Player 65,PL065,7.0,2,6,,Friendly,Final,Shadow Ridge Field,7761,Win
+MA00395,2026-06-12,Tigers,Lions,Player 59,PL059,11.0,7,4,90.0,Semi-Final,Final,Striped Horizon Arena,33788,Win
+MA00396,2026-06-05,Warriors,Eagles,Player 57,PL057,1.0,1,9,155.0,Semi-Final,Round 1,Vanguard Grounds,28201,Win
+MA00397,2025-04-13,Sharks,Titans,Player 21,PL021,41.0,14,3,54.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,38561,Draw
+MA00398,2025-03-29,Eagles,Titans,Player 76,PL076,25.0,11,2,64.0,League,Semi-Final,Skyline Arena,28901,Draw
+MA00399,2025-02-11,Titans,Sharks,Player 4,PL004,16.0,9,2,32.0,League,Quarter-Final,Olympus Coliseum,19737,Draw
+MA00400,2025-08-16,Titans,Lions,Player 28,PL028,4.0,1,3,81.0,Friendly,Round 1,Olympus Coliseum,14533,Win
+MA00401,2026-03-14,Tigers,Lions,Player 12,PL012,7.0,5,6,128.0,Friendly,Round 1,Striped Horizon Arena,6988,Win
+MA00402,2026-10-09,Titans,Warriors,Player 16,PL016,3.0,1,8,177.0,Friendly,Semi-Final,Olympus Coliseum,8802,Draw
+MA00403,2026-04-11,Panthers,Warriors,Player 63,PL063,27.0,11,8,141.0,League,Final,Shadow Ridge Field,19162,Win
+MA00404,2026-02-10,Warriors,Lions,Player 19,PL019,19.0,6,2,75.0,Final,Semi-Final,Vanguard Grounds,55065,Draw
+MA00405,2026-08-21,Falcons,Eagles,Player 40,PL040,17.0,8,3,76.0,Semi-Final,Semi-Final,Aerodrome Stadium,42114,Win
+MA00406,2025-02-10,Eagles,Falcons,Player 57,PL057,33.0,10,4,90.0,Friendly,Quarter-Final,Skyline Arena,13399,Loss
+MA00407,2025-01-21,Titans,Tigers,Player 39,PL039,14.0,3,9,179.0,Friendly,Final,Olympus Coliseum,10633,Loss
+MA00408,2025-02-22,Falcons,Warriors,Player 21,PL021,16.0,8,4,81.0,Semi-Final,Round 2,Aerodrome Stadium,33755,Draw
+MA00409,2026-08-05,Titans,Sharks,Player 68,PL068,28.0,8,2,62.0,Friendly,Round 2,Olympus Coliseum,11309,Win
+MA00410,2025-07-28,Tigers,Lions,Player 26,PL026,26.0,7,6,164.0,Semi-Final,Semi-Final,Striped Horizon Arena,32117,Win
+MA00411,2025-08-14,Titans,Falcons,Player 36,PL036,31.0,17,5,121.0,Semi-Final,Semi-Final,Olympus Coliseum,29518,Draw
+MA00412,2025-11-02,Sharks,Warriors,Player 18,PL018,29.0,14,5,99.0,Final,Final,Apex Aquatic Dome,64547,Loss
+MA00413,2025-08-31,Warriors,Titans,Player 36,PL036,20.0,8,5,152.0,Final,Round 2,Vanguard Grounds,58346,Draw
+MA00414,2026-10-08,Lions,Tigers,Player 3,PL003,16.0,6,3,90.0,Friendly,Round 1,Savanna Park,7600,Win
+MA00415,2026-03-08,Panthers,Warriors,Player 6,PL006,12.0,4,8,138.0,Friendly,Round 1,Shadow Ridge Field,7195,Loss
+MA00416,2026-04-16,Warriors,Lions,Player 2,PL002,1.0,2,2,76.0,Friendly,Final,Vanguard Grounds,8554,Loss
+MA00417,2026-07-30,Warriors,Sharks,Player 63,PL063,35.0,12,5,89.0,League,Final,Vanguard Grounds,28193,Loss
+MA00418,2026-03-05,Lions,Titans,Player 24,PL024,26.0,10,7,146.0,Friendly,Semi-Final,Savanna Park,7849,Loss
+MA00419,2025-10-04,Falcons,Titans,Player 36,PL036,29.0,15,9,158.0,Final,Round 1,Aerodrome Stadium,57253,Loss
+MA00420,2025-11-22,Lions,Warriors,Player 33,PL033,35.0,15,5,142.0,Friendly,Semi-Final,Savanna Park,6742,Loss
+MA00421,2025-01-05,Eagles,Eagles,Player 75,PL075,28.0,12,4,141.0,Friendly,Semi-Final,Skyline Arena,6306,Win
+MA00422,2025-08-11,Warriors,Warriors,Player 63,PL063,2.0,3,4,79.0,Semi-Final,Semi-Final,Vanguard Grounds,31849,Win
+MA00423,2026-03-10,Panthers,Falcons,Player 18,PL018,,7,4,68.0,Friendly,Quarter-Final,Shadow Ridge Field,12519,Draw
+MA00424,2025-06-21,Sharks,Panthers,Player 5,PL005,2.0,1,6,116.0,League,Round 1,Apex Aquatic Dome,25032,Draw
+MA00425,2026-01-06,Falcons,Eagles,Player 15,PL015,44.0,16,4,140.0,Friendly,Final,Aerodrome Stadium,9195,Draw
+MA00426,2025-11-17,Titans,Lions,Player 15,PL015,9.0,4,8,150.0,Friendly,Quarter-Final,Olympus Coliseum,10178,Win
+MA00427,2026-10-12,Eagles,Titans,Player 1,PL001,2.0,4,4,79.0,Final,Quarter-Final,Skyline Arena,60939,Win
+MA00428,2026-10-14,Falcons,Sharks,Player 58,PL058,41.0,12,3,67.0,Final,Final,Aerodrome Stadium,60689,Loss
+MA00429,2025-12-20,Sharks,Titans,Player 55,PL055,11.0,3,4,69.0,Final,Semi-Final,Apex Aquatic Dome,49619,Win
+MA00430,2025-07-15,Warriors,Eagles,Player 45,PL045,29.0,10,5,83.0,Friendly,Round 2,Vanguard Grounds,14280,Win
+MA00431,2026-02-26,Panthers,Lions,Player 43,PL043,36.0,16,4,86.0,League,Semi-Final,Shadow Ridge Field,14642,Loss
+MA00432,2026-09-13,Lions,Lions,Player 22,PL022,17.0,7,5,169.0,Semi-Final,Quarter-Final,Savanna Park,37369,Loss
+MA00433,2026-08-08,Tigers,Lions,Player 23,PL023,4.0,4,4,89.0,Friendly,Round 2,Striped Horizon Arena,11409,Draw
+MA00434,2025-09-25,Titans,Titans,Player 8,PL008,12.0,3,1,35.0,Friendly,Quarter-Final,Olympus Coliseum,9757,Draw
+MA00435,2025-06-30,Falcons,Eagles,Player 27,PL027,1.0,4,1,32.0,Friendly,Final,Aerodrome Stadium,7994,Win
+MA00436,2026-02-07,Warriors,Sharks,Player 33,PL033,18.0,3,2,62.0,Semi-Final,Final,Vanguard Grounds,43226,Loss
+MA00437,2025-01-10,Tigers,Sharks,Player 24,PL024,14.0,7,2,69.0,Semi-Final,Round 1,Striped Horizon Arena,29271,Win
+MA00438,2025-10-01,Tigers,Panthers,Player 71,PL071,26.0,9,2,40.0,Final,Round 1,Striped Horizon Arena,43813,Draw
+MA00439,2026-05-17,Sharks,Sharks,Player 31,PL031,,5,4,132.0,Friendly,Round 1,Apex Aquatic Dome,13801,Win
+MA00440,2025-12-27,Panthers,Tigers,Player 60,PL060,38.0,7,9,170.0,Final,Round 1,Shadow Ridge Field,60845,Draw
+MA00441,2026-04-02,Sharks,Eagles,Player 25,PL025,18.0,8,5,86.0,League,Semi-Final,Apex Aquatic Dome,20475,Win
+MA00442,2026-01-03,Falcons,Falcons,Player 70,PL070,15.0,7,2,74.0,League,Semi-Final,Aerodrome Stadium,16396,Draw
+MA00443,2026-08-13,Warriors,Panthers,Player 35,PL035,9.0,3,7,124.0,Friendly,Quarter-Final,Vanguard Grounds,14283,Loss
+MA00444,2026-03-02,Sharks,Sharks,Player 60,PL060,29.0,12,5,108.0,League,Semi-Final,Apex Aquatic Dome,25318,Loss
+MA00445,2025-06-05,Sharks,Titans,Player 67,PL067,7.0,4,5,128.0,Final,Round 2,Apex Aquatic Dome,59200,Win
+MA00446,2026-08-12,Eagles,Sharks,Player 67,PL067,40.0,20,5,160.0,Final,Round 2,Skyline Arena,42082,Draw
+MA00447,2025-10-15,Warriors,Panthers,Player 42,PL042,24.0,9,8,176.0,League,Semi-Final,Vanguard Grounds,13920,Win
+MA00448,2025-02-25,Tigers,Panthers,Player 66,PL066,38.0,12,4,69.0,Semi-Final,Quarter-Final,Striped Horizon Arena,35817,Loss
+MA00449,2025-02-02,Falcons,Warriors,Player 62,PL062,15.0,4,5,94.0,Semi-Final,Semi-Final,Aerodrome Stadium,39683,Draw
+MA00450,2026-02-15,Falcons,Sharks,Player 16,PL016,41.0,18,1,43.0,League,Round 2,Aerodrome Stadium,23336,Draw
+MA00451,2026-04-22,Falcons,Tigers,Player 46,PL046,28.0,9,3,118.0,Final,Final,Aerodrome Stadium,57596,Win
+MA00452,2025-05-31,Panthers,Warriors,Player 42,PL042,20.0,6,4,,Semi-Final,Semi-Final,Shadow Ridge Field,30093,Win
+MA00453,2025-05-08,Sharks,Titans,Player 22,PL022,35.0,16,5,137.0,Final,Round 1,Apex Aquatic Dome,54905,Win
+MA00454,2025-08-29,Panthers,Eagles,Player 54,PL054,30.0,7,4,104.0,Final,Semi-Final,Shadow Ridge Field,50367,Draw
+MA00455,2026-01-06,Titans,Tigers,Player 77,PL077,0.0,4,5,131.0,Semi-Final,Final,Olympus Coliseum,33285,Loss
+MA00456,2025-01-07,Falcons,Titans,Player 35,PL035,4.0,3,5,102.0,Semi-Final,Final,Aerodrome Stadium,38896,Loss
+MA00457,2025-12-04,Eagles,Warriors,Player 15,PL015,14.0,4,6,109.0,League,Semi-Final,Skyline Arena,16937,Draw
+MA00458,2025-03-03,Warriors,Lions,Player 59,PL059,22.0,6,5,124.0,League,Round 1,Vanguard Grounds,28753,Draw
+MA00459,2025-10-01,Sharks,Falcons,Player 76,PL076,24.0,5,8,149.0,League,Final,Apex Aquatic Dome,30202,Draw
+MA00460,2025-10-02,Lions,Falcons,Player 4,PL004,39.0,10,2,49.0,League,Semi-Final,Savanna Park,30485,Draw
+MA00461,2025-02-02,Panthers,Tigers,Player 74,PL074,30.0,11,5,128.0,Friendly,Quarter-Final,Shadow Ridge Field,8490,Draw
+MA00462,2025-01-24,Eagles,Titans,Player 58,PL058,15.0,6,3,97.0,League,Final,Skyline Arena,30163,Win
+MA00463,2026-02-10,Sharks,Eagles,Player 15,PL015,13.0,5,6,130.0,Semi-Final,Final,Apex Aquatic Dome,35674,Loss
+MA00464,2025-08-27,Falcons,Titans,Player 30,PL030,8.0,4,8,127.0,Final,Round 1,Aerodrome Stadium,59748,Draw
+MA00465,2025-12-09,Falcons,Falcons,Player 13,PL013,21.0,7,3,72.0,Semi-Final,Semi-Final,Aerodrome Stadium,31676,Loss
+MA00466,2025-05-03,Warriors,Lions,Player 45,PL045,43.0,10,4,97.0,Friendly,Final,Vanguard Grounds,7426,Draw
+MA00467,2025-06-12,Eagles,Sharks,Player 24,PL024,4.0,4,5,,League,Final,Skyline Arena,14962,Loss
+MA00468,2025-08-03,Eagles,Warriors,Player 51,PL051,1.0,2,4,123.0,Friendly,Semi-Final,Skyline Arena,5859,Draw
+MA00469,2026-03-19,Falcons,Eagles,Player 48,PL048,4.0,4,6,114.0,Semi-Final,Semi-Final,Aerodrome Stadium,40048,Draw
+MA00470,2025-10-12,Tigers,Warriors,Player 63,PL063,23.0,4,7,155.0,Final,Round 2,Striped Horizon Arena,46138,Win
+MA00471,2026-10-13,Titans,Eagles,Player 34,PL034,38.0,18,6,156.0,Friendly,Quarter-Final,Olympus Coliseum,7424,Draw
+MA00472,2026-08-15,Falcons,Sharks,Player 48,PL048,28.0,7,2,39.0,League,Round 2,Aerodrome Stadium,22409,Loss
+MA00473,2026-09-15,Titans,Panthers,Player 68,PL068,24.0,11,3,53.0,Final,Round 2,Olympus Coliseum,46017,Draw
+MA00474,2025-03-29,Lions,Panthers,Player 34,PL034,30.0,14,4,139.0,Semi-Final,Semi-Final,Savanna Park,38451,Loss
+MA00475,2026-08-18,Tigers,Eagles,Player 78,PL078,20.0,11,4,88.0,Final,Quarter-Final,Striped Horizon Arena,52278,Draw
+MA00476,2025-01-13,Panthers,Panthers,Player 37,PL037,43.0,8,6,177.0,Final,Round 1,Shadow Ridge Field,52996,Draw
+MA00477,2026-05-18,Sharks,Falcons,Player 36,PL036,19.0,9,7,135.0,Friendly,Semi-Final,Apex Aquatic Dome,13342,Loss
+MA00478,2025-12-17,Sharks,Eagles,Player 48,PL048,36.0,19,3,62.0,Semi-Final,Round 2,Apex Aquatic Dome,29134,Win
+MA00479,2026-06-20,Falcons,Lions,Player 2,PL002,42.0,14,9,166.0,Friendly,Round 2,Aerodrome Stadium,10166,Loss
+MA00480,2025-11-06,Sharks,Panthers,Player 43,PL043,20.0,10,2,46.0,Friendly,Quarter-Final,Apex Aquatic Dome,10119,Loss
+MA00481,2026-04-23,Tigers,Lions,Player 78,PL078,19.0,7,7,159.0,Friendly,Round 1,Striped Horizon Arena,10694,Draw
+MA00482,2025-08-09,Warriors,Eagles,Player 50,PL050,29.0,9,4,143.0,Semi-Final,Semi-Final,Vanguard Grounds,32164,Draw
+MA00483,2025-10-01,Falcons,Sharks,Player 34,PL034,11.0,4,6,121.0,Friendly,Round 1,Aerodrome Stadium,7346,Loss
+MA00484,2026-09-08,Panthers,Eagles,Player 37,PL037,34.0,11,1,42.0,League,Semi-Final,Shadow Ridge Field,17039,Draw
+MA00485,2025-05-06,Falcons,Falcons,Player 40,PL040,4.0,5,6,140.0,Final,Semi-Final,Aerodrome Stadium,63281,Loss
+MA00486,2026-02-13,Sharks,Panthers,Player 9,PL009,31.0,7,4,104.0,League,Round 2,Apex Aquatic Dome,26631,Draw
+MA00487,2026-05-22,Lions,Titans,Player 50,PL050,36.0,8,3,91.0,Friendly,Final,Savanna Park,13252,Loss
+MA00488,2025-05-15,Eagles,Eagles,Player 10,PL010,14.0,6,6,123.0,Semi-Final,Quarter-Final,Skyline Arena,45721,Loss
+MA00489,2026-02-17,Eagles,Warriors,Player 61,PL061,42.0,18,2,55.0,Friendly,Round 1,Skyline Arena,6184,Draw
+MA00490,2025-12-24,Warriors,Panthers,Player 9,PL009,43.0,14,6,125.0,Final,Round 1,Vanguard Grounds,62810,Draw
+MA00491,2026-06-25,Lions,Warriors,Player 38,PL038,41.0,14,4,103.0,Friendly,Round 2,Savanna Park,6551,Loss
+MA00492,2026-03-14,Lions,Panthers,Player 75,PL075,2.0,0,3,107.0,League,Round 1,Savanna Park,24625,Loss
+MA00493,2026-09-30,Titans,Tigers,Player 4,PL004,7.0,3,8,173.0,Friendly,Quarter-Final,Olympus Coliseum,6629,Loss
+MA00494,2025-12-30,Falcons,Falcons,Player 5,PL005,25.0,9,2,85.0,League,Round 1,Aerodrome Stadium,29910,Loss
+MA00495,2025-09-21,Titans,Lions,Player 50,PL050,28.0,7,3,86.0,Final,Semi-Final,Olympus Coliseum,43361,Win
+MA00496,2026-01-23,Eagles,Panthers,Player 54,PL054,28.0,12,8,157.0,League,Quarter-Final,Skyline Arena,16370,Win
+MA00497,2026-08-28,Falcons,Sharks,Player 36,PL036,23.0,4,3,109.0,League,Semi-Final,Aerodrome Stadium,17283,Loss
+MA00498,2025-01-08,Titans,Eagles,Player 15,PL015,6.0,6,10,175.0,Semi-Final,Round 1,Olympus Coliseum,35610,Win
+MA00499,2025-02-16,Eagles,Titans,Player 43,PL043,18.0,11,5,171.0,Friendly,Final,Skyline Arena,6993,Draw
+MA00500,2025-04-14,Lions,Lions,Player 57,PL057,21.0,9,2,60.0,Semi-Final,Semi-Final,Savanna Park,28869,Loss
+MA00501,2025-06-20,Titans,Lions,Player 22,PL022,36.0,13,2,45.0,Final,Quarter-Final,Olympus Coliseum,43014,Draw
+MA00502,2026-02-03,Lions,Falcons,Player 12,PL012,,6,4,,Semi-Final,Final,Savanna Park,38103,Draw
+MA00503,2025-11-09,Titans,Warriors,Player 1,PL001,40.0,19,1,37.0,Friendly,Quarter-Final,Olympus Coliseum,5602,Draw
+MA00504,2026-01-19,Warriors,Falcons,Player 77,PL077,41.0,15,6,152.0,Semi-Final,Quarter-Final,Vanguard Grounds,40013,Loss
+MA00505,2026-09-21,Lions,Panthers,Player 11,PL011,6.0,1,4,123.0,Semi-Final,Final,Savanna Park,28690,Loss
+MA00506,2025-01-11,Falcons,Tigers,Player 53,PL053,40.0,19,3,48.0,Semi-Final,Final,Aerodrome Stadium,44873,Draw
+MA00507,2026-10-13,Warriors,Warriors,Player 46,PL046,0.0,4,3,82.0,Final,Round 2,Vanguard Grounds,52748,Loss
+MA00508,2025-07-20,Tigers,Warriors,Player 43,PL043,2.0,4,2,34.0,Final,Semi-Final,Striped Horizon Arena,50024,Draw
+MA00509,2025-12-08,Eagles,Titans,Player 52,PL052,8.0,5,7,129.0,Friendly,Round 2,Skyline Arena,5294,Win
+MA00510,2025-04-21,Falcons,Sharks,Player 14,PL014,5.0,5,6,157.0,League,Round 1,Aerodrome Stadium,17488,Win
+MA00511,2026-01-25,Warriors,Falcons,Player 10,PL010,36.0,10,5,89.0,League,Round 2,Vanguard Grounds,23035,Draw
+MA00512,2025-06-09,Falcons,Tigers,Player 43,PL043,14.0,6,6,141.0,Semi-Final,Round 1,Aerodrome Stadium,47296,Draw
+MA00513,2025-10-28,Warriors,Eagles,Player 35,PL035,41.0,19,6,106.0,Semi-Final,Round 2,Vanguard Grounds,46257,Loss
+MA00514,2025-05-25,Falcons,Eagles,Player 45,PL045,28.0,8,4,133.0,Final,Round 2,Aerodrome Stadium,54855,Win
+MA00515,2026-08-21,Warriors,Titans,Player 50,PL050,30.0,7,9,174.0,Friendly,Quarter-Final,Vanguard Grounds,8258,Win
+MA00516,2026-02-15,Panthers,Panthers,Player 78,PL078,7.0,5,4,90.0,Friendly,Final,Shadow Ridge Field,7817,Win
+MA00517,2026-07-26,Lions,Panthers,Player 34,PL034,0.0,1,4,100.0,Semi-Final,Round 2,Savanna Park,32458,Draw
+MA00518,2026-09-09,Falcons,Titans,Player 59,PL059,5.0,3,4,86.0,Final,Round 2,Aerodrome Stadium,47307,Loss
+MA00519,2025-06-19,Lions,Warriors,Player 56,PL056,26.0,6,7,131.0,Final,Final,Savanna Park,50933,Loss
+MA00520,2025-11-17,Titans,Sharks,Player 21,PL021,40.0,14,2,92.0,Final,Round 2,Olympus Coliseum,60425,Draw
+MA00521,2025-02-15,Sharks,Lions,Player 74,PL074,18.0,7,6,179.0,Final,Final,Apex Aquatic Dome,59063,Draw
+MA00522,2026-10-18,Warriors,Panthers,Player 72,PL072,24.0,14,6,125.0,Friendly,Semi-Final,Vanguard Grounds,10738,Loss
+MA00523,2025-02-18,Titans,Falcons,Player 26,PL026,35.0,16,4,89.0,Semi-Final,Final,Olympus Coliseum,33668,Win
+MA00524,2025-04-14,Titans,Warriors,Player 29,PL029,8.0,3,6,96.0,Final,Final,Olympus Coliseum,56427,Win
+MA00525,2026-08-26,Panthers,Falcons,Player 63,PL063,33.0,11,2,31.0,Semi-Final,Semi-Final,Shadow Ridge Field,35697,Win
+MA00526,2025-09-22,Eagles,Falcons,Player 55,PL055,30.0,9,6,105.0,Semi-Final,Semi-Final,Skyline Arena,44446,Win
+MA00527,2026-05-02,Eagles,Eagles,Player 19,PL019,8.0,4,7,135.0,Friendly,Semi-Final,Skyline Arena,12829,Loss
+MA00528,2026-02-28,Warriors,Eagles,Player 14,PL014,17.0,3,2,63.0,League,Final,Vanguard Grounds,22751,Draw
+MA00529,2025-04-26,Panthers,Titans,Player 46,PL046,14.0,9,4,126.0,Final,Round 1,Shadow Ridge Field,55450,Win
+MA00530,2026-03-12,Panthers,Warriors,Player 60,PL060,44.0,20,6,112.0,League,Round 1,Shadow Ridge Field,19352,Win
+MA00531,2026-04-16,Tigers,Sharks,Player 70,PL070,9.0,5,4,83.0,Friendly,Quarter-Final,Striped Horizon Arena,11915,Draw
+MA00532,2025-03-21,Eagles,Panthers,Player 31,PL031,42.0,20,4,151.0,League,Round 2,Skyline Arena,20326,Win
+MA00533,2025-10-01,Eagles,Falcons,Player 70,PL070,23.0,8,5,139.0,Friendly,Semi-Final,Skyline Arena,8644,Loss
+MA00534,2025-03-13,Panthers,Lions,Player 60,PL060,2.0,2,3,57.0,Friendly,Round 2,Shadow Ridge Field,9970,Loss
+MA00535,2026-01-26,Falcons,Sharks,Player 33,PL033,3.0,3,6,144.0,League,Final,Aerodrome Stadium,20003,Win
+MA00536,2025-03-03,Eagles,Panthers,Player 61,PL061,5.0,2,3,64.0,Friendly,Round 1,Skyline Arena,8278,Loss
+MA00537,2026-02-05,Titans,Titans,Player 66,PL066,26.0,8,3,64.0,Friendly,Round 1,Olympus Coliseum,12296,Loss
+MA00538,2026-05-08,Sharks,Eagles,Player 71,PL071,40.0,14,4,111.0,Semi-Final,Semi-Final,Apex Aquatic Dome,31074,Draw
+MA00539,2026-04-02,Warriors,Sharks,Player 38,PL038,21.0,6,2,59.0,League,Quarter-Final,Vanguard Grounds,25261,Draw
+MA00540,2025-02-17,Titans,Tigers,Player 43,PL043,17.0,7,1,37.0,League,Final,Olympus Coliseum,23173,Draw
+MA00541,2025-07-09,Falcons,Warriors,Player 52,PL052,25.0,10,4,132.0,Friendly,Quarter-Final,Aerodrome Stadium,13312,Draw
+MA00542,2026-08-21,Eagles,Eagles,Player 23,PL023,9.0,4,8,144.0,Friendly,Final,Skyline Arena,12552,Loss
+MA00543,2026-09-11,Panthers,Titans,Player 43,PL043,37.0,13,4,93.0,Final,Round 1,Shadow Ridge Field,43637,Win
+MA00544,2025-03-18,Eagles,Sharks,Player 46,PL046,14.0,6,4,78.0,Friendly,Quarter-Final,Skyline Arena,10103,Loss
+MA00545,2026-08-11,Titans,Titans,Player 45,PL045,21.0,5,3,48.0,Semi-Final,Final,Olympus Coliseum,45028,Loss
+MA00546,2025-03-09,Panthers,Warriors,Player 27,PL027,9.0,2,5,146.0,League,Round 1,Shadow Ridge Field,14032,Draw
+MA00547,2025-01-09,Panthers,Eagles,Player 6,PL006,35.0,17,2,46.0,Final,Final,Shadow Ridge Field,44761,Loss
+MA00548,2025-03-27,Eagles,Warriors,Player 42,PL042,28.0,11,5,114.0,Semi-Final,Final,Skyline Arena,43195,Draw
+MA00549,2026-04-05,Warriors,Panthers,Player 68,PL068,42.0,18,2,30.0,Friendly,Round 1,Vanguard Grounds,7068,Win
+MA00550,2026-10-30,Lions,Lions,Player 57,PL057,36.0,13,4,116.0,Friendly,Quarter-Final,Savanna Park,5241,Loss
+MA00551,2025-12-28,Titans,Warriors,Player 25,PL025,4.0,3,2,42.0,Friendly,Round 2,Olympus Coliseum,7668,Loss
+MA00552,2025-05-17,Sharks,Tigers,Player 48,PL048,27.0,9,2,47.0,Final,Round 1,Apex Aquatic Dome,56638,Loss
+MA00553,2025-12-06,Warriors,Tigers,Player 9,PL009,3.0,1,5,130.0,League,Quarter-Final,Vanguard Grounds,27954,Win
+MA00554,2025-10-28,Titans,Titans,Player 51,PL051,29.0,14,2,78.0,Semi-Final,Round 2,Olympus Coliseum,45186,Win
+MA00555,2025-03-17,Tigers,Eagles,Player 29,PL029,8.0,4,8,170.0,Final,Round 2,Striped Horizon Arena,63443,Win
+MA00556,2025-08-31,Tigers,Panthers,Player 45,PL045,9.0,5,6,123.0,Friendly,Final,Striped Horizon Arena,5195,Loss
+MA00557,2025-12-27,Tigers,Titans,Player 7,PL007,32.0,7,6,149.0,League,Semi-Final,Striped Horizon Arena,14187,Loss
+MA00558,2026-05-17,Tigers,Sharks,Player 34,PL034,10.0,4,2,51.0,League,Round 2,Striped Horizon Arena,23707,Win
+MA00559,2026-05-09,Falcons,Panthers,Player 3,PL003,28.0,9,4,102.0,League,Final,Aerodrome Stadium,14330,Draw
+MA00560,2025-04-25,Warriors,Warriors,Player 60,PL060,8.0,5,5,96.0,Semi-Final,Final,Vanguard Grounds,31606,Loss
+MA00561,2025-01-10,Sharks,Titans,Player 30,PL030,27.0,8,4,134.0,League,Quarter-Final,Apex Aquatic Dome,12060,Loss
+MA00562,2026-09-28,Titans,Sharks,Player 76,PL076,44.0,9,2,33.0,Friendly,Semi-Final,Olympus Coliseum,8927,Loss
+MA00563,2025-10-11,Lions,Panthers,Player 40,PL040,30.0,8,4,118.0,Friendly,Final,Savanna Park,11296,Win
+MA00564,2025-08-28,Lions,Sharks,Player 8,PL008,9.0,2,6,157.0,Final,Round 2,Savanna Park,55622,Win
+MA00565,2026-02-20,Sharks,Panthers,Player 72,PL072,20.0,8,2,64.0,League,Round 1,Apex Aquatic Dome,26125,Win
+MA00566,2025-06-13,Panthers,Titans,Player 38,PL038,10.0,5,2,70.0,League,Round 1,Shadow Ridge Field,14591,Draw
+MA00567,2025-04-10,Sharks,Panthers,Player 31,PL031,13.0,5,5,,Final,Round 2,Apex Aquatic Dome,54127,Loss
+MA00568,2026-01-16,Panthers,Warriors,Player 54,PL054,19.0,10,5,144.0,Friendly,Round 1,Shadow Ridge Field,14763,Draw
+MA00569,2026-10-24,Lions,Falcons,Player 64,PL064,8.0,3,6,101.0,Friendly,Semi-Final,Savanna Park,11121,Win
+MA00570,2025-09-27,Tigers,Eagles,Player 57,PL057,11.0,3,4,154.0,Semi-Final,Final,Striped Horizon Arena,29200,Loss
+MA00571,2026-04-06,Panthers,Lions,Player 50,PL050,42.0,17,3,70.0,Final,Quarter-Final,Shadow Ridge Field,57721,Draw
+MA00572,2025-10-23,Lions,Panthers,Player 76,PL076,32.0,10,7,172.0,League,Final,Savanna Park,31238,Draw
+MA00573,2026-04-03,Warriors,Falcons,Player 37,PL037,11.0,6,5,171.0,Semi-Final,Semi-Final,Vanguard Grounds,39087,Loss
+MA00574,2026-04-27,Panthers,Sharks,Player 36,PL036,0.0,4,2,76.0,Final,Final,Shadow Ridge Field,48972,Loss
+MA00575,2025-10-30,Eagles,Eagles,Player 4,PL004,15.0,8,3,71.0,Friendly,Quarter-Final,Skyline Arena,5136,Draw
+MA00576,2025-11-07,Falcons,Sharks,Player 40,PL040,7.0,3,6,144.0,League,Round 2,Aerodrome Stadium,29413,Loss
+MA00577,2025-02-26,Titans,Eagles,Player 68,PL068,32.0,15,5,134.0,Friendly,Final,Olympus Coliseum,7594,Win
+MA00578,2026-06-20,Eagles,Panthers,Player 23,PL023,19.0,9,6,135.0,Final,Semi-Final,Skyline Arena,42661,Draw
+MA00579,2026-08-27,Warriors,Panthers,Player 49,PL049,33.0,9,4,79.0,Final,Round 2,Vanguard Grounds,44472,Win
+MA00580,2025-01-08,Eagles,Tigers,Player 65,PL065,37.0,11,3,127.0,Friendly,Quarter-Final,Skyline Arena,5086,Win
+MA00581,2025-02-07,Falcons,Titans,Player 18,PL018,23.0,11,4,101.0,Friendly,Round 1,Aerodrome Stadium,11219,Draw
+MA00582,2026-03-13,Titans,Lions,Player 1,PL001,34.0,13,10,165.0,League,Round 2,Olympus Coliseum,28322,Draw
+MA00583,2026-06-05,Warriors,Tigers,Player 22,PL022,23.0,8,6,135.0,League,Semi-Final,Vanguard Grounds,26749,Loss
+MA00584,2025-12-26,Eagles,Sharks,Player 4,PL004,29.0,12,6,126.0,Friendly,Round 2,Skyline Arena,11968,Win
+MA00585,2025-04-23,Lions,Titans,Player 59,PL059,43.0,11,5,144.0,League,Quarter-Final,Savanna Park,31157,Draw
+MA00586,2026-04-14,Eagles,Tigers,Player 26,PL026,43.0,7,5,101.0,Final,Final,Skyline Arena,55596,Draw
+MA00587,2026-04-26,Falcons,Lions,Player 65,PL065,20.0,8,3,65.0,Semi-Final,Semi-Final,Aerodrome Stadium,29700,Win
+MA00588,2025-12-21,Eagles,Panthers,Player 61,PL061,23.0,6,5,112.0,Semi-Final,Round 2,Skyline Arena,30700,Win
+MA00589,2025-11-24,Tigers,Sharks,Player 58,PL058,40.0,10,7,112.0,Semi-Final,Round 2,Striped Horizon Arena,39821,Win
+MA00590,2025-12-15,Warriors,Sharks,Player 20,PL020,2.0,0,3,96.0,Semi-Final,Quarter-Final,Vanguard Grounds,46031,Win
+MA00591,2025-10-31,Eagles,Lions,Player 17,PL017,44.0,16,3,,League,Semi-Final,Skyline Arena,17520,Win
+MA00592,2026-07-04,Falcons,Eagles,Player 25,PL025,28.0,7,5,,Final,Final,Aerodrome Stadium,53510,Win
+MA00593,2026-10-31,Eagles,Tigers,Player 6,PL006,2.0,3,2,35.0,Final,Round 1,Skyline Arena,45687,Win
+MA00594,2026-04-24,Tigers,Falcons,Player 27,PL027,25.0,10,5,162.0,League,Round 2,Striped Horizon Arena,28980,Win
+MA00595,2026-10-30,Titans,Falcons,Player 35,PL035,29.0,11,5,143.0,League,Round 1,Olympus Coliseum,20837,Draw
+MA00596,2026-08-11,Eagles,Lions,Player 43,PL043,25.0,12,5,178.0,Semi-Final,Semi-Final,Skyline Arena,42955,Draw
+MA00597,2025-02-06,Sharks,Tigers,Player 43,PL043,43.0,9,4,123.0,Final,Round 1,Apex Aquatic Dome,53281,Draw
+MA00598,2025-10-07,Falcons,Warriors,Player 65,PL065,20.0,7,8,161.0,League,Round 1,Aerodrome Stadium,25917,Draw
+MA00599,2026-08-23,Titans,Warriors,Player 43,PL043,19.0,3,6,126.0,League,Semi-Final,Olympus Coliseum,16757,Draw
+MA00110,2026-01-25,Titans,Eagles,Player 18,PL018,33.0,9,5,134.0,Semi-Final,Semi-Final,Olympus Coliseum,41045,Win
+MA00419,2025-10-04,Falcons,Titans,Player 36,PL036,29.0,9,6,158.0,Final,Round 1,Aerodrome Stadium,62768,Loss
+MA00565,2026-02-20,Sharks,Panthers,Player 72,PL072,20.0,5,2,64.0,League,Round 1,Apex Aquatic Dome,20912,Win
+MA00077,2025-01-05,Titans,Titans,Player 47,PL047,37.0,11,6,162.0,Friendly,Round 2,Olympus Coliseum,9733,Loss
+MA00181,2025-08-27,Lions,Falcons,Player 53,PL053,36.0,9,7,144.0,League,Round 2,Savanna Park,19081,Draw
+MA00284,2026-10-16,Titans,Panthers,Player 21,PL021,10.0,5,7,115.0,Semi-Final,Semi-Final,Olympus Coliseum,36690,Win
+MA00010,2026-03-06,Tigers,Tigers,Player 59,PL059,32.0,9,2,35.0,League,Final,Striped Horizon Arena,13673,Draw
+MA00469,2026-03-19,Falcons,Eagles,Player 48,PL048,4.0,2,3,114.0,Semi-Final,Semi-Final,Aerodrome Stadium,42318,Draw
+MA00078,2025-09-12,Lions,Lions,Player 7,PL007,23.0,7,6,106.0,Final,Semi-Final,Savanna Park,53171,Loss
+MA00600,2026-11-05,Eagles,Panthers,Player 78,PL078,18.0,7,8,155.0,Final,Quarter-Final,Skyline Arena,50640,Loss
+MA00601,2025-12-20,Sharks,Eagles,Player 34,PL034,,5,3,77.0,Semi-Final,Final,Apex Aquatic Dome,43810,Win
+MA00602,2025-01-07,Falcons,Warriors,Player 65,PL065,,8,1,54.0,Semi-Final,Quarter-Final,Aerodrome Stadium,34811,Loss
+MA00603,2025-03-14,Tigers,Titans,Player 86,PL086,40.0,12,4,112.0,Final,Round 1,Striped Horizon Arena,51447,Draw
+MA00604,2026-10-20,Sharks,Falcons,Player 8,PL008,39.0,14,4,145.0,Semi-Final,Final,Apex Aquatic Dome,42162,Loss
+MA00605,2025-01-03,Warriors,Sharks,Player 55,PL055,10.0,6,4,136.0,Final,Quarter-Final,Vanguard Grounds,63551,Draw
+MA00606,2026-02-13,Panthers,Falcons,Player 58,PL058,38.0,8,7,128.0,Semi-Final,Semi-Final,Shadow Ridge Field,30972,Draw
+MA00607,2026-03-18,Eagles,Tigers,Player 3,PL003,41.0,17,4,91.0,Friendly,Round 2,Skyline Arena,6629,Loss
+MA00608,2026-10-12,Panthers,Eagles,Player 90,PL090,25.0,12,3,91.0,Semi-Final,Round 1,Shadow Ridge Field,32251,Win
+MA00609,2026-01-13,Warriors,Panthers,Player 7,PL007,14.0,5,2,52.0,Final,Semi-Final,Vanguard Grounds,45748,Draw
+MA00610,2026-07-29,Warriors,Warriors,Player 21,PL021,5.0,2,7,139.0,Final,Final,Vanguard Grounds,59589,Loss
+MA00611,2026-07-04,Tigers,Panthers,Player 43,PL043,9.0,7,3,,League,Final,Striped Horizon Arena,18644,Win
+MA00612,2026-08-21,Warriors,Warriors,Player 24,PL024,31.0,13,6,128.0,Final,Final,Vanguard Grounds,49082,Draw
+MA00613,2026-10-27,Panthers,Tigers,Player 24,PL024,27.0,12,4,88.0,League,Final,Shadow Ridge Field,31345,Draw
+MA00614,2025-06-04,Lions,Tigers,Player 75,PL075,40.0,17,3,118.0,Semi-Final,Round 2,Savanna Park,40380,Loss
+MA00615,2026-03-06,Warriors,Falcons,Player 33,PL033,11.0,9,3,49.0,Final,Quarter-Final,Vanguard Grounds,64439,Loss
+MA00616,2025-05-30,Panthers,Panthers,Player 40,PL040,19.0,9,9,173.0,Semi-Final,Quarter-Final,Shadow Ridge Field,31327,Win
+MA00617,2026-05-26,Eagles,Titans,Player 37,PL037,7.0,5,7,146.0,Friendly,Semi-Final,Skyline Arena,11065,Win
+MA00618,2025-03-12,Panthers,Sharks,Player 20,PL020,31.0,10,4,113.0,Final,Round 1,Shadow Ridge Field,55404,Draw
+MA00619,2026-07-22,Panthers,Titans,Player 49,PL049,35.0,14,3,115.0,Final,Round 2,Shadow Ridge Field,53905,Win
+MA00620,2025-01-31,Lions,Warriors,Player 62,PL062,39.0,8,7,128.0,Friendly,Semi-Final,Savanna Park,11324,Loss
+MA00621,2025-07-03,Falcons,Warriors,Player 89,PL089,39.0,17,6,135.0,League,Final,Aerodrome Stadium,26031,Draw
+MA00622,2025-07-20,Lions,Warriors,Player 83,PL083,17.0,11,4,68.0,League,Round 1,Savanna Park,29958,Loss
+MA00623,2025-03-13,Eagles,Panthers,Player 63,PL063,29.0,12,8,160.0,Friendly,Round 2,Skyline Arena,14759,Draw
+MA00624,2026-09-03,Falcons,Panthers,Player 76,PL076,4.0,2,7,118.0,Friendly,Final,Aerodrome Stadium,13112,Draw
+MA00625,2025-10-03,Panthers,Lions,Player 36,PL036,16.0,8,5,101.0,Final,Final,Shadow Ridge Field,60108,Draw
+MA00626,2025-09-29,Lions,Falcons,Player 17,PL017,28.0,6,5,111.0,Friendly,Final,Savanna Park,7761,Draw
+MA00627,2025-12-30,Lions,Panthers,Player 30,PL030,0.0,2,6,104.0,League,Round 1,Savanna Park,15303,Win
+MA00628,2025-02-11,Warriors,Tigers,Player 43,PL043,28.0,11,3,85.0,League,Round 2,Vanguard Grounds,25682,Win
+MA00629,2025-05-19,Tigers,Tigers,Player 66,PL066,27.0,14,1,35.0,Semi-Final,Semi-Final,Striped Horizon Arena,46489,Draw
+MA00630,2025-09-26,Panthers,Eagles,Player 60,PL060,34.0,14,2,57.0,League,Round 2,Shadow Ridge Field,23151,Draw
+MA00631,2025-07-03,Panthers,Tigers,Player 14,PL014,2.0,0,5,147.0,Semi-Final,Round 2,Shadow Ridge Field,47738,Loss
+MA00632,2026-04-09,Eagles,Eagles,Player 76,PL076,33.0,13,4,113.0,Semi-Final,Semi-Final,Skyline Arena,41272,Win
+MA00633,2026-03-09,Panthers,Lions,Player 38,PL038,14.0,8,3,50.0,League,Round 2,Shadow Ridge Field,25026,Loss
+MA00634,2026-10-25,Tigers,Falcons,Player 10,PL010,65.0,13,1,34.0,Friendly,Final,Striped Horizon Arena,12616,Loss
+MA00635,2025-12-26,Panthers,Sharks,Player 76,PL076,7.0,2,5,154.0,Semi-Final,Round 2,Shadow Ridge Field,34686,Draw
+MA00636,2026-07-18,Eagles,Tigers,Player 22,PL022,0.0,2,5,178.0,Semi-Final,Quarter-Final,Skyline Arena,41136,Loss
+MA00637,2026-05-11,Warriors,Sharks,Player 14,PL014,26.0,8,4,89.0,Friendly,Round 2,Vanguard Grounds,9485,Draw
+MA00638,2026-07-25,Tigers,Panthers,Player 17,PL017,6.0,3,7,148.0,League,Quarter-Final,Striped Horizon Arena,24719,Win
+MA00639,2025-02-13,Tigers,Titans,Player 17,PL017,34.0,9,5,170.0,League,Final,Striped Horizon Arena,16827,Win
+MA00640,2025-07-09,Panthers,Titans,Player 66,PL066,23.0,10,3,74.0,Final,Semi-Final,Shadow Ridge Field,47316,Draw
+MA00641,2026-02-27,Panthers,Lions,Player 45,PL045,68.0,21,6,122.0,Final,Round 2,Shadow Ridge Field,44671,Draw
+MA00642,2026-01-11,Sharks,Falcons,Player 11,PL011,3.0,2,10,162.0,Final,Quarter-Final,Apex Aquatic Dome,64018,Draw
+MA00643,2026-01-28,Panthers,Lions,Player 18,PL018,22.0,6,5,154.0,Friendly,Semi-Final,Shadow Ridge Field,7415,Loss
+MA00644,2026-05-10,Eagles,Sharks,Player 58,PL058,24.0,6,5,145.0,League,Round 2,Skyline Arena,17695,Win
+MA00645,2025-09-15,Panthers,Panthers,Player 82,PL082,17.0,4,6,119.0,Final,Round 1,Shadow Ridge Field,51548,Draw
+MA00646,2026-10-04,Falcons,Panthers,Player 79,PL079,39.0,11,5,170.0,Final,Round 1,Aerodrome Stadium,61235,Win
+MA00647,2026-09-22,Titans,Warriors,Player 30,PL030,6.0,3,7,153.0,Semi-Final,Final,Olympus Coliseum,41971,Win
+MA00648,2025-10-08,Warriors,Falcons,Player 22,PL022,35.0,16,2,48.0,Semi-Final,Final,Vanguard Grounds,41128,Win
+MA00649,2026-07-04,Warriors,Tigers,Player 57,PL057,17.0,4,5,116.0,Semi-Final,Final,Vanguard Grounds,41918,Win
+MA00650,2025-05-15,Panthers,Lions,Player 31,PL031,30.0,12,2,61.0,Semi-Final,Semi-Final,Shadow Ridge Field,45310,Loss
+MA00651,2025-04-17,Tigers,Lions,Player 85,PL085,72.0,28,4,121.0,Friendly,Semi-Final,Striped Horizon Arena,14009,Draw
+MA00652,2025-06-20,Sharks,Titans,Player 67,PL067,1.0,1,5,159.0,League,Semi-Final,Apex Aquatic Dome,21036,Win
+MA00653,2025-12-27,Warriors,Titans,Player 80,PL080,42.0,11,3,109.0,League,Round 2,Vanguard Grounds,22079,Loss
+MA00654,2026-05-20,Falcons,Tigers,Player 60,PL060,35.0,17,5,159.0,Semi-Final,Round 2,Aerodrome Stadium,39085,Win
+MA00655,2026-10-20,Tigers,Falcons,Player 76,PL076,44.0,14,8,156.0,Semi-Final,Semi-Final,Striped Horizon Arena,37615,Loss
+MA00656,2026-03-28,Titans,Lions,Player 78,PL078,44.0,14,5,90.0,League,Semi-Final,Olympus Coliseum,28999,Draw
+MA00657,2025-07-25,Lions,Titans,Player 31,PL031,22.0,9,10,170.0,Final,Quarter-Final,Savanna Park,61162,Draw
+MA00658,2026-08-24,Tigers,Panthers,Player 44,PL044,23.0,8,3,83.0,Final,Quarter-Final,Striped Horizon Arena,49493,Draw
+MA00659,2025-01-08,Titans,Eagles,Player 3,PL003,43.0,19,7,138.0,League,Semi-Final,Olympus Coliseum,26220,Loss
+MA00660,2025-07-07,Eagles,Titans,Player 53,PL053,7.0,3,2,71.0,League,Quarter-Final,Skyline Arena,18578,Loss
+MA00661,2025-07-26,Lions,Sharks,Player 26,PL026,33.0,17,8,163.0,League,Round 1,Savanna Park,23580,Loss
+MA00662,2025-11-20,Eagles,Lions,Player 12,PL012,23.0,10,2,42.0,Semi-Final,Round 1,Skyline Arena,42312,Draw
+MA00663,2025-08-03,Titans,Panthers,Player 57,PL057,18.0,6,1,43.0,Friendly,Semi-Final,Olympus Coliseum,5946,Draw
+MA00664,2025-12-24,Falcons,Warriors,Player 64,PL064,22.0,5,1,36.0,Semi-Final,Round 2,Aerodrome Stadium,41107,Win
+MA00665,2026-11-04,Eagles,Titans,Player 34,PL034,25.0,6,4,100.0,League,Round 1,Skyline Arena,17930,Win
+MA00666,2025-10-10,Tigers,Falcons,Player 28,PL028,30.0,9,2,46.0,League,Round 2,Striped Horizon Arena,30539,Loss
+MA00667,2025-09-25,Warriors,Falcons,Player 53,PL053,25.0,13,10,163.0,Semi-Final,Quarter-Final,Vanguard Grounds,44788,Loss
+MA00668,2026-06-25,Eagles,Warriors,Player 15,PL015,43.0,10,2,32.0,Friendly,Round 2,Skyline Arena,9675,Loss
+MA00669,2025-07-15,Eagles,Lions,Player 66,PL066,24.0,5,6,114.0,League,Semi-Final,Skyline Arena,19620,Loss
+MA00670,2025-07-16,Falcons,Panthers,Player 74,PL074,6.0,2,6,140.0,Friendly,Round 2,Aerodrome Stadium,5588,Win
+MA00671,2025-12-15,Sharks,Tigers,Player 84,PL084,57.0,19,3,116.0,League,Quarter-Final,Apex Aquatic Dome,31880,Draw
+MA00672,2026-02-12,Eagles,Falcons,Player 10,PL010,24.0,9,3,118.0,Friendly,Round 2,Skyline Arena,14642,Draw
+MA00673,2025-01-25,Falcons,Panthers,Player 78,PL078,27.0,5,8,140.0,League,Semi-Final,Aerodrome Stadium,26287,Loss
+MA00674,2026-03-08,Lions,Titans,Player 69,PL069,17.0,7,4,74.0,League,Semi-Final,Savanna Park,24661,Win
+MA00675,2026-07-11,Panthers,Eagles,Player 51,PL051,18.0,8,6,121.0,Semi-Final,Round 1,Shadow Ridge Field,41921,Draw
+MA00676,2025-05-07,Sharks,Lions,Player 77,PL077,21.0,5,3,75.0,Friendly,Final,Apex Aquatic Dome,10014,Loss
+MA00677,2025-12-18,Warriors,Falcons,Player 87,PL087,38.0,10,4,74.0,Friendly,Quarter-Final,Vanguard Grounds,14562,Draw
+MA00678,2026-10-11,Titans,Tigers,Player 21,PL021,12.0,4,7,177.0,League,Final,Olympus Coliseum,20488,Win
+MA00679,2025-05-14,Sharks,Lions,Player 6,PL006,,5,1,32.0,Friendly,Quarter-Final,Apex Aquatic Dome,7048,Win
+MA00680,2025-06-02,Titans,Lions,Player 89,PL089,22.0,5,2,45.0,League,Round 1,Olympus Coliseum,27905,Loss
+MA00681,2025-12-11,Titans,Warriors,Player 70,PL070,38.0,7,2,39.0,League,Semi-Final,Olympus Coliseum,13191,Loss
+MA00682,2026-06-05,Titans,Panthers,Player 81,PL081,,11,5,81.0,Semi-Final,Final,Olympus Coliseum,43855,Loss
+MA00683,2025-07-10,Warriors,Lions,Player 11,PL011,12.0,5,9,170.0,Semi-Final,Round 2,Vanguard Grounds,45558,Draw
+MA00684,2026-10-31,Warriors,Titans,Player 89,PL089,16.0,6,2,42.0,League,Semi-Final,Vanguard Grounds,17074,Win
+MA00685,2026-04-12,Warriors,Eagles,Player 68,PL068,34.0,15,4,131.0,Semi-Final,Quarter-Final,Vanguard Grounds,43859,Draw
+MA00686,2026-08-18,Falcons,Warriors,Player 77,PL077,35.0,7,6,175.0,Final,Final,Aerodrome Stadium,49037,Win
+MA00687,2026-04-27,Panthers,Lions,Player 61,PL061,20.0,6,7,132.0,Semi-Final,Quarter-Final,Shadow Ridge Field,44574,Draw
+MA00688,2025-07-19,Tigers,Sharks,Player 3,PL003,26.0,11,5,116.0,Friendly,Quarter-Final,Striped Horizon Arena,6412,Loss
+MA00689,2026-07-14,Tigers,Lions,Player 62,PL062,30.0,12,9,153.0,Semi-Final,Round 2,Striped Horizon Arena,34414,Loss
+MA00690,2026-07-16,Panthers,Tigers,Player 3,PL003,33.0,16,5,125.0,League,Semi-Final,Shadow Ridge Field,21297,Loss
+MA00691,2026-05-17,Lions,Tigers,Player 64,PL064,7.0,4,9,159.0,Friendly,Round 1,Savanna Park,7681,Loss
+MA00692,2025-05-08,Eagles,Sharks,Player 2,PL002,29.0,7,3,98.0,League,Quarter-Final,Skyline Arena,14659,Win
+MA00693,2025-12-08,Tigers,Falcons,Player 55,PL055,32.0,10,5,156.0,League,Semi-Final,Striped Horizon Arena,19867,Loss
+MA00694,2026-08-05,Warriors,Tigers,Player 88,PL088,17.0,8,7,142.0,League,Final,Vanguard Grounds,21017,Loss
+MA00695,2025-03-12,Tigers,Lions,Player 40,PL040,3.0,1,3,81.0,Final,Final,Striped Horizon Arena,53461,Draw
+MA00696,2025-05-08,Panthers,Lions,Player 72,PL072,23.0,9,4,112.0,League,Round 1,Shadow Ridge Field,31041,Win
+MA00697,2026-06-27,Warriors,Tigers,Player 17,PL017,14.0,3,3,51.0,Semi-Final,Quarter-Final,Vanguard Grounds,30757,Win
+MA00698,2025-11-17,Sharks,Warriors,Player 53,PL053,39.0,20,4,94.0,Final,Quarter-Final,Apex Aquatic Dome,63087,Win
+MA00699,2026-10-21,Falcons,Warriors,Player 81,PL081,31.0,12,5,158.0,Friendly,Final,Aerodrome Stadium,11678,Loss
+MA00700,2026-02-14,Titans,Panthers,Player 27,PL027,44.0,22,5,98.0,Friendly,Round 2,Olympus Coliseum,7460,Win
+MA00701,2026-06-30,Eagles,Tigers,Player 71,PL071,17.0,4,6,134.0,League,Semi-Final,Skyline Arena,25204,Loss
+MA00702,2025-05-06,Panthers,Falcons,Player 63,PL063,11.0,3,3,70.0,League,Quarter-Final,Shadow Ridge Field,19366,Draw
+MA00703,2025-01-13,Lions,Panthers,Player 22,PL022,10.0,2,5,130.0,League,Final,Savanna Park,16823,Loss
+MA00704,2025-08-17,Eagles,Eagles,Player 62,PL062,16.0,8,5,141.0,League,Round 2,Skyline Arena,14148,Draw
+MA00705,2026-07-11,Falcons,Lions,Player 49,PL049,69.0,18,2,38.0,League,Quarter-Final,Aerodrome Stadium,17599,Loss
+MA00706,2025-05-11,Falcons,Panthers,Player 17,PL017,2.0,2,2,84.0,Final,Semi-Final,Aerodrome Stadium,56141,Draw
+MA00707,2025-05-09,Eagles,Eagles,Player 80,PL080,38.0,9,7,173.0,League,Round 1,Skyline Arena,15010,Win
+MA00708,2026-03-12,Panthers,Sharks,Player 2,PL002,11.0,4,1,42.0,Semi-Final,Round 2,Shadow Ridge Field,47660,Loss
+MA00709,2025-12-03,Warriors,Falcons,Player 84,PL084,11.0,4,7,129.0,League,Quarter-Final,Vanguard Grounds,28661,Win
+MA00710,2025-01-18,Panthers,Lions,Player 51,PL051,18.0,7,3,82.0,Friendly,Quarter-Final,Shadow Ridge Field,11085,Draw
+MA00711,2026-06-13,Falcons,Falcons,Player 21,PL021,41.0,14,3,64.0,League,Round 2,Aerodrome Stadium,25968,Draw
+MA00712,2026-05-31,Falcons,Sharks,Player 85,PL085,4.0,2,1,41.0,Semi-Final,Round 2,Aerodrome Stadium,30567,Win
+MA00713,2026-10-13,Panthers,Falcons,Player 85,PL085,28.0,12,2,43.0,Final,Round 2,Shadow Ridge Field,55733,Win
+MA00714,2025-10-21,Warriors,Lions,Player 44,PL044,5.0,1,2,67.0,League,Round 2,Vanguard Grounds,22278,Loss
+MA00715,2026-03-19,Falcons,Eagles,Player 76,PL076,41.0,13,3,55.0,League,Round 2,Aerodrome Stadium,24817,Loss
+MA00716,2026-11-18,Eagles,Titans,Player 35,PL035,17.0,9,5,117.0,Semi-Final,Semi-Final,Skyline Arena,39154,Win
+MA00717,2025-07-29,Titans,Falcons,Player 23,PL023,11.0,5,3,82.0,Friendly,Round 2,Olympus Coliseum,11233,Draw
+MA00718,2026-09-08,Sharks,Tigers,Player 76,PL076,17.0,4,2,31.0,Friendly,Round 2,Apex Aquatic Dome,13520,Draw
+MA00719,2026-06-28,Lions,Titans,Player 75,PL075,14.0,3,8,156.0,Semi-Final,Semi-Final,Savanna Park,35787,Loss
+MA00720,2025-01-26,Titans,Titans,Player 85,PL085,26.0,12,6,152.0,Friendly,Final,Olympus Coliseum,13447,Draw
+MA00721,2025-12-19,Panthers,Warriors,Player 54,PL054,34.0,13,6,139.0,Friendly,Round 2,Shadow Ridge Field,6204,Loss
+MA00722,2026-06-29,Lions,Titans,Player 51,PL051,37.0,19,6,112.0,Friendly,Round 2,Savanna Park,5572,Win
+MA00723,2025-11-05,Falcons,Lions,Player 63,PL063,13.0,5,3,57.0,Friendly,Semi-Final,Aerodrome Stadium,9951,Win
+MA00724,2026-11-17,Falcons,Sharks,Player 49,PL049,3.0,4,4,97.0,League,Round 2,Aerodrome Stadium,16022,Draw
+MA00725,2026-11-20,Panthers,Eagles,Player 77,PL077,29.0,8,4,142.0,Friendly,Round 1,Shadow Ridge Field,11851,Draw
+MA00726,2025-02-13,Lions,Warriors,Player 53,PL053,15.0,5,8,174.0,League,Final,Savanna Park,25779,Loss
+MA00727,2025-01-19,Titans,Eagles,Player 44,PL044,1.0,3,1,39.0,League,Round 1,Olympus Coliseum,29264,Win
+MA00728,2025-03-19,Titans,Eagles,Player 9,PL009,62.0,25,4,92.0,League,Round 2,Olympus Coliseum,23529,Win
+MA00729,2025-04-05,Warriors,Tigers,Player 58,PL058,15.0,4,5,145.0,League,Round 1,Vanguard Grounds,13407,Draw
+MA00730,2025-07-12,Titans,Warriors,Player 40,PL040,37.0,13,6,138.0,Final,Quarter-Final,Olympus Coliseum,58698,Win
+MA00731,2025-11-25,Eagles,Eagles,Player 2,PL002,16.0,3,5,146.0,Final,Round 1,Skyline Arena,49837,Draw
+MA00732,2025-07-23,Panthers,Eagles,Player 68,PL068,17.0,6,2,41.0,Friendly,Quarter-Final,Shadow Ridge Field,5919,Win
+MA00733,2026-02-23,Warriors,Titans,Player 76,PL076,44.0,18,4,76.0,Friendly,Semi-Final,Vanguard Grounds,5678,Loss
+MA00734,2025-03-23,Panthers,Tigers,Player 34,PL034,37.0,11,6,166.0,Final,Quarter-Final,Shadow Ridge Field,48378,Draw
+MA00735,2025-05-30,Lions,Panthers,Player 38,PL038,24.0,7,6,124.0,League,Final,Savanna Park,14064,Draw
+MA00736,2025-07-15,Lions,Tigers,Player 34,PL034,33.0,7,6,107.0,Semi-Final,Final,Savanna Park,41890,Loss
+MA00737,2026-05-24,Panthers,Eagles,Player 7,PL007,9.0,3,2,46.0,League,Quarter-Final,Shadow Ridge Field,22775,Loss
+MA00738,2026-05-01,Panthers,Sharks,Player 3,PL003,34.0,16,4,137.0,League,Final,Shadow Ridge Field,30408,Draw
+MA00739,2026-08-12,Panthers,Titans,Player 43,PL043,42.0,7,8,169.0,Semi-Final,Semi-Final,Shadow Ridge Field,29548,Draw
+MA00740,2025-04-30,Falcons,Lions,Player 80,PL080,59.0,18,5,155.0,Final,Round 2,Aerodrome Stadium,63318,Loss
+MA00741,2025-03-07,Warriors,Panthers,Player 57,PL057,11.0,6,7,174.0,League,Final,Vanguard Grounds,17408,Win
+MA00742,2026-09-18,Lions,Falcons,Player 38,PL038,30.0,6,3,108.0,Friendly,Semi-Final,Savanna Park,6932,Draw
+MA00743,2026-11-12,Tigers,Lions,Player 53,PL053,26.0,10,7,157.0,League,Final,Striped Horizon Arena,16732,Win
+MA00744,2025-06-28,Lions,Sharks,Player 64,PL064,37.0,17,2,50.0,League,Round 2,Savanna Park,14944,Win
+MA00745,2025-10-08,Sharks,Panthers,Player 63,PL063,43.0,19,4,98.0,Final,Round 2,Apex Aquatic Dome,42048,Loss
+MA00746,2026-05-10,Warriors,Sharks,Player 74,PL074,20.0,3,3,55.0,League,Quarter-Final,Vanguard Grounds,12524,Win
+MA00747,2025-07-27,Lions,Falcons,Player 54,PL054,37.0,8,10,168.0,League,Round 1,Savanna Park,30366,Loss
+MA00748,2026-03-24,Tigers,Tigers,Player 58,PL058,28.0,6,1,44.0,Semi-Final,Round 2,Striped Horizon Arena,41653,Loss
+MA00749,2026-02-11,Eagles,Lions,Player 28,PL028,32.0,12,6,120.0,League,Round 2,Skyline Arena,31265,Loss
+MA00750,2026-06-21,Eagles,Falcons,Player 87,PL087,2.0,5,2,87.0,Semi-Final,Round 2,Skyline Arena,34016,Win
+MA00751,2025-04-27,Panthers,Eagles,Player 3,PL003,21.0,10,2,74.0,Final,Round 1,Shadow Ridge Field,62026,Win
+MA00752,2025-08-31,Warriors,Tigers,Player 11,PL011,3.0,1,9,170.0,Final,Round 2,Vanguard Grounds,55350,Draw
+MA00753,2025-09-16,Panthers,Falcons,Player 33,PL033,40.0,15,6,161.0,League,Final,Shadow Ridge Field,30467,Draw
+MA00754,2026-03-15,Eagles,Panthers,Player 65,PL065,23.0,12,6,145.0,Final,Semi-Final,Skyline Arena,43044,Win
+MA00755,2026-09-04,Tigers,Lions,Player 39,PL039,16.0,10,5,102.0,League,Round 1,Striped Horizon Arena,29138,Win
+MA00756,2025-10-24,Sharks,Falcons,Player 16,PL016,13.0,6,7,128.0,League,Round 2,Apex Aquatic Dome,16067,Draw
+MA00757,2025-04-10,Falcons,Eagles,Player 29,PL029,14.0,7,3,108.0,League,Round 2,Aerodrome Stadium,26033,Loss
+MA00758,2025-09-12,Panthers,Eagles,Player 57,PL057,13.0,6,4,81.0,Final,Semi-Final,Shadow Ridge Field,63058,Draw
+MA00759,2026-06-26,Falcons,Panthers,Player 90,PL090,25.0,11,1,32.0,Semi-Final,Round 1,Aerodrome Stadium,29468,Draw
+MA00760,2025-06-21,Tigers,Lions,Player 2,PL002,4.0,3,3,73.0,Semi-Final,Quarter-Final,Striped Horizon Arena,31906,Loss
+MA00761,2026-02-01,Sharks,Lions,Player 24,PL024,41.0,14,2,40.0,Semi-Final,Round 2,Apex Aquatic Dome,35866,Win
+MA00762,2026-09-18,Sharks,Titans,Player 30,PL030,8.0,2,1,54.0,Semi-Final,Quarter-Final,Apex Aquatic Dome,30073,Draw
+MA00763,2025-01-27,Warriors,Falcons,Player 42,PL042,32.0,9,6,126.0,Friendly,Round 2,Vanguard Grounds,8022,Win
+MA00764,2025-09-26,Panthers,Tigers,Player 18,PL018,15.0,7,7,159.0,Final,Round 2,Shadow Ridge Field,61641,Loss
+MA00765,2025-03-11,Warriors,Lions,Player 26,PL026,21.0,5,6,133.0,Friendly,Final,Vanguard Grounds,12064,Loss
+MA00766,2025-08-14,Sharks,Panthers,Player 3,PL003,5.0,3,9,176.0,Friendly,Round 1,Apex Aquatic Dome,8675,Win
+MA00767,2026-07-29,Titans,Warriors,Player 41,PL041,23.0,6,4,129.0,Final,Round 2,Olympus Coliseum,47839,Win
+MA00768,2025-07-11,Tigers,Falcons,Player 24,PL024,,9,7,144.0,League,Final,Striped Horizon Arena,27193,Win
+MA00769,2026-01-28,Warriors,Eagles,Player 65,PL065,5.0,3,4,73.0,League,Final,Vanguard Grounds,17057,Loss
+MA00770,2025-09-05,Warriors,Lions,Player 69,PL069,34.0,6,3,123.0,League,Quarter-Final,Vanguard Grounds,20808,Draw
+MA00771,2026-06-23,Sharks,Sharks,Player 21,PL021,20.0,8,3,90.0,Friendly,Round 2,Apex Aquatic Dome,10442,Win
+MA00772,2026-05-28,Sharks,Panthers,Player 12,PL012,34.0,8,2,34.0,League,Final,Apex Aquatic Dome,27520,Win
+MA00773,2025-07-19,Tigers,Panthers,Player 16,PL016,44.0,16,5,,Final,Semi-Final,Striped Horizon Arena,56842,Win
+MA00774,2026-06-11,Panthers,Warriors,Player 86,PL086,17.0,5,2,36.0,League,Final,Shadow Ridge Field,23926,Win
+MA00775,2025-03-20,Eagles,Warriors,Player 17,PL017,13.0,3,2,48.0,Semi-Final,Final,Skyline Arena,45480,Draw
+MA00776,2025-01-17,Sharks,Panthers,Player 34,PL034,9.0,3,2,40.0,League,Round 2,Apex Aquatic Dome,25305,Win
+MA00777,2025-01-16,Tigers,Sharks,Player 21,PL021,16.0,4,7,163.0,League,Semi-Final,Striped Horizon Arena,24390,Draw
+MA00778,2026-07-21,Eagles,Warriors,Player 47,PL047,13.0,2,3,75.0,Final,Quarter-Final,Skyline Arena,45513,Draw
+MA00779,2026-05-11,Tigers,Warriors,Player 25,PL025,17.0,5,5,166.0,Semi-Final,Semi-Final,Striped Horizon Arena,41546,Draw
+MA00780,2026-03-09,Tigers,Warriors,Player 87,PL087,42.0,16,3,58.0,League,Round 2,Striped Horizon Arena,23122,Win
+MA00781,2026-05-19,Falcons,Warriors,Player 11,PL011,13.0,2,5,166.0,Final,Semi-Final,Aerodrome Stadium,42294,Loss
+MA00782,2025-01-21,Falcons,Panthers,Player 48,PL048,43.0,15,3,,Semi-Final,Final,Aerodrome Stadium,36434,Win
+MA00783,2026-05-27,Eagles,Sharks,Player 6,PL006,35.0,7,5,95.0,League,Final,Skyline Arena,23245,Win
+MA00784,2025-11-22,Sharks,Panthers,Player 82,PL082,37.0,9,4,76.0,Friendly,Round 1,Apex Aquatic Dome,12637,Draw
+MA00785,2026-11-06,Panthers,Titans,Player 82,PL082,7.0,2,4,82.0,League,Quarter-Final,Shadow Ridge Field,19460,Draw
+MA00786,2025-01-07,Lions,Tigers,Player 62,PL062,37.0,13,5,137.0,League,Semi-Final,Savanna Park,21063,Win
+MA00787,2026-04-16,Lions,Tigers,Player 34,PL034,17.0,8,2,54.0,Semi-Final,Semi-Final,Savanna Park,43346,Loss
+MA00788,2025-05-27,Lions,Sharks,Player 78,PL078,29.0,9,6,130.0,Final,Quarter-Final,Savanna Park,55660,Draw
+MA00789,2025-08-13,Falcons,Tigers,Player 72,PL072,5.0,2,4,133.0,Semi-Final,Quarter-Final,Aerodrome Stadium,43111,Win
+MA00790,2026-07-23,Falcons,Tigers,Player 35,PL035,19.0,8,5,96.0,League,Round 2,Aerodrome Stadium,16133,Win
+MA00791,2025-05-16,Warriors,Panthers,Player 40,PL040,16.0,10,7,139.0,Semi-Final,Final,Vanguard Grounds,39384,Win
+MA00792,2026-10-15,Eagles,Tigers,Player 46,PL046,40.0,17,2,41.0,Final,Round 1,Skyline Arena,45431,Win
+MA00793,2026-01-20,Tigers,Titans,Player 30,PL030,30.0,11,5,116.0,League,Final,Striped Horizon Arena,16662,Draw
+MA00794,2025-08-19,Falcons,Sharks,Player 73,PL073,35.0,16,10,174.0,League,Final,Aerodrome Stadium,26692,Win
+MA00795,2025-01-23,Tigers,Warriors,Player 25,PL025,30.0,14,9,151.0,Final,Final,Striped Horizon Arena,51894,Win
+MA00796,2026-07-03,Lions,Warriors,Player 8,PL008,16.0,8,8,141.0,League,Quarter-Final,Savanna Park,17264,Win
+MA00797,2025-07-27,Sharks,Lions,Player 38,PL038,25.0,13,6,105.0,Friendly,Round 1,Apex Aquatic Dome,9211,Win
+MA00798,2025-06-12,Falcons,Lions,Player 62,PL062,24.0,7,6,119.0,Friendly,Quarter-Final,Aerodrome Stadium,5132,Win
+MA00799,2026-10-11,Falcons,Lions,Player 46,PL046,19.0,6,3,68.0,Friendly,Round 2,Aerodrome Stadium,10153,Draw
+MA00800,2025-08-30,Lions,Warriors,Player 62,PL062,24.0,13,5,142.0,League,Semi-Final,Savanna Park,30608,Draw
+MA00801,2025-08-16,Lions,Falcons,Player 11,PL011,33.0,13,6,174.0,Friendly,Semi-Final,Savanna Park,10319,Win
+MA00802,2025-08-28,Falcons,Panthers,Player 39,PL039,44.0,9,5,139.0,Friendly,Round 1,Aerodrome Stadium,7374,Draw
+MA00803,2025-08-13,Lions,Sharks,Player 73,PL073,35.0,8,5,170.0,Final,Round 2,Savanna Park,49869,Draw
+MA00804,2026-06-27,Falcons,Eagles,Player 75,PL075,28.0,7,3,45.0,Semi-Final,Final,Aerodrome Stadium,40229,Draw
+MA00805,2026-07-27,Falcons,Tigers,Player 83,PL083,38.0,14,5,97.0,Friendly,Round 1,Aerodrome Stadium,9234,Loss
+MA00806,2026-04-26,Eagles,Titans,Player 65,PL065,,11,3,60.0,League,Final,Skyline Arena,13699,Win
+MA00807,2025-01-06,Panthers,Lions,Player 89,PL089,32.0,18,5,110.0,Friendly,Semi-Final,Shadow Ridge Field,11256,Loss
+MA00808,2025-04-01,Titans,Titans,Player 90,PL090,13.0,4,6,144.0,Final,Quarter-Final,Olympus Coliseum,58440,Win
+MA00809,2026-03-24,Sharks,Falcons,Player 74,PL074,35.0,8,2,72.0,Friendly,Quarter-Final,Apex Aquatic Dome,10141,Draw
+MA00810,2026-08-23,Eagles,Sharks,Player 72,PL072,5.0,3,7,135.0,Semi-Final,Semi-Final,Skyline Arena,38014,Win
+MA00811,2025-05-21,Falcons,Eagles,Player 31,PL031,1.0,1,1,32.0,Semi-Final,Quarter-Final,Aerodrome Stadium,41368,Win
+MA00812,2026-07-16,Falcons,Sharks,Player 82,PL082,39.0,14,4,72.0,League,Round 2,Aerodrome Stadium,14196,Draw
+MA00813,2025-03-29,Panthers,Lions,Player 20,PL020,32.0,14,3,65.0,Friendly,Semi-Final,Shadow Ridge Field,5421,Win
+MA00814,2025-11-17,Eagles,Panthers,Player 43,PL043,38.0,16,2,58.0,League,Semi-Final,Skyline Arena,13439,Draw
+MA00815,2025-01-26,Sharks,Warriors,Player 2,PL002,6.0,2,6,166.0,League,Round 1,Apex Aquatic Dome,12104,Draw
+MA00816,2025-05-30,Falcons,Panthers,Player 39,PL039,6.0,2,2,45.0,Semi-Final,Final,Aerodrome Stadium,30261,Draw
+MA00817,2026-07-28,Tigers,Eagles,Player 66,PL066,17.0,6,6,,League,Semi-Final,Striped Horizon Arena,18849,Loss
+MA00818,2025-06-25,Eagles,Falcons,Player 28,PL028,9.0,3,3,114.0,League,Quarter-Final,Skyline Arena,19062,Loss
+MA00819,2025-08-24,Eagles,Lions,Player 34,PL034,32.0,15,4,99.0,Friendly,Round 2,Skyline Arena,12727,Draw
+MA00820,2026-08-20,Panthers,Lions,Player 76,PL076,41.0,13,5,,League,Round 2,Shadow Ridge Field,27702,Win
+MA00821,2025-04-15,Falcons,Eagles,Player 61,PL061,12.0,3,5,109.0,League,Semi-Final,Aerodrome Stadium,14956,Draw
+MA00822,2026-10-13,Panthers,Sharks,Player 61,PL061,8.0,1,9,178.0,League,Round 2,Shadow Ridge Field,29352,Draw
+MA00823,2025-05-10,Titans,Panthers,Player 54,PL054,21.0,4,3,63.0,Final,Round 2,Olympus Coliseum,51972,Draw
+MA00824,2026-08-07,Tigers,Lions,Player 53,PL053,4.0,2,5,152.0,Semi-Final,Quarter-Final,Striped Horizon Arena,38141,Draw
+MA00825,2025-07-20,Warriors,Falcons,Player 68,PL068,3.0,1,5,141.0,League,Quarter-Final,Vanguard Grounds,23367,Draw
+MA00826,2025-03-16,Tigers,Warriors,Player 89,PL089,40.0,9,4,76.0,League,Round 2,Striped Horizon Arena,30847,Win
+MA00827,2026-04-27,Tigers,Falcons,Player 54,PL054,40.0,18,4,,Friendly,Semi-Final,Striped Horizon Arena,7511,Loss
+MA00828,2026-11-06,Falcons,Eagles,Player 67,PL067,13.0,7,4,83.0,Friendly,Round 2,Aerodrome Stadium,6259,Draw
+MA00829,2026-04-10,Panthers,Sharks,Player 9,PL009,36.0,14,3,49.0,Friendly,Quarter-Final,Shadow Ridge Field,14967,Draw
+MA00830,2025-08-01,Panthers,Titans,Player 11,PL011,11.0,3,4,77.0,Semi-Final,Round 2,Shadow Ridge Field,47532,Win
+MA00831,2025-03-18,Falcons,Sharks,Player 10,PL010,8.0,3,4,154.0,Friendly,Round 1,Aerodrome Stadium,13234,Draw
+MA00832,2025-09-21,Panthers,Panthers,Player 12,PL012,42.0,10,3,62.0,Final,Semi-Final,Shadow Ridge Field,58172,Loss
+MA00833,2026-04-08,Lions,Falcons,Player 46,PL046,43.0,15,3,81.0,Semi-Final,Round 1,Savanna Park,45540,Loss
+MA00834,2025-02-24,Titans,Lions,Player 48,PL048,0.0,2,4,131.0,Friendly,Semi-Final,Olympus Coliseum,9890,Loss
+MA00835,2026-09-17,Titans,Eagles,Player 15,PL015,66.0,16,5,160.0,Friendly,Round 1,Olympus Coliseum,10938,Win
+MA00836,2025-02-21,Eagles,Falcons,Player 18,PL018,39.0,7,3,73.0,Final,Round 1,Skyline Arena,64891,Win
+MA00837,2026-10-14,Warriors,Panthers,Player 63,PL063,24.0,10,6,155.0,Final,Round 1,Vanguard Grounds,54676,Draw
+MA00838,2026-09-09,Sharks,Eagles,Player 50,PL050,0.0,2,5,118.0,Final,Round 2,Apex Aquatic Dome,59690,Win
+MA00839,2025-03-15,Sharks,Titans,Player 23,PL023,41.0,17,4,97.0,League,Round 1,Apex Aquatic Dome,13403,Loss
+MA00840,2026-02-07,Tigers,Sharks,Player 59,PL059,26.0,9,3,81.0,Semi-Final,Round 1,Striped Horizon Arena,33872,Win
+MA00841,2026-08-05,Tigers,Warriors,Player 44,PL044,14.0,7,4,87.0,Semi-Final,Round 2,Striped Horizon Arena,39319,Draw
+MA00842,2025-11-28,Panthers,Tigers,Player 23,PL023,43.0,20,2,45.0,Friendly,Round 1,Shadow Ridge Field,11502,Win
+MA00843,2025-10-15,Warriors,Eagles,Player 9,PL009,2.0,4,2,50.0,Semi-Final,Semi-Final,Vanguard Grounds,33344,Win
+MA00844,2026-02-16,Lions,Falcons,Player 64,PL064,14.0,7,5,102.0,League,Round 2,Savanna Park,15380,Win
+MA00845,2026-08-13,Panthers,Warriors,Player 13,PL013,20.0,7,3,53.0,League,Semi-Final,Shadow Ridge Field,31436,Loss
+MA00846,2026-07-27,Sharks,Falcons,Player 25,PL025,24.0,7,3,55.0,Final,Quarter-Final,Apex Aquatic Dome,61958,Loss
+MA00847,2026-11-08,Sharks,Lions,Player 83,PL083,9.0,4,4,112.0,Friendly,Quarter-Final,Apex Aquatic Dome,5295,Loss
+MA00848,2025-01-06,Warriors,Sharks,Player 75,PL075,6.0,4,5,108.0,Friendly,Quarter-Final,Vanguard Grounds,14261,Loss
+MA00849,2026-05-19,Falcons,Eagles,Player 10,PL010,2.0,1,2,43.0,Semi-Final,Round 2,Aerodrome Stadium,46074,Draw
+MA00850,2025-06-14,Warriors,Tigers,Player 63,PL063,3.0,1,1,30.0,Final,Quarter-Final,Vanguard Grounds,60964,Win
+MA00851,2025-05-21,Eagles,Lions,Player 1,PL001,59.0,27,6,143.0,League,Round 2,Skyline Arena,16593,Win
+MA00852,2025-03-01,Titans,Tigers,Player 33,PL033,27.0,9,5,156.0,Final,Round 1,Olympus Coliseum,42256,Loss
+MA00853,2026-11-03,Falcons,Eagles,Player 19,PL019,1.0,0,6,174.0,League,Semi-Final,Aerodrome Stadium,25866,Loss
+MA00854,2025-02-26,Falcons,Sharks,Player 37,PL037,15.0,5,7,177.0,Friendly,Final,Aerodrome Stadium,5712,Draw
+MA00855,2025-07-23,Eagles,Titans,Player 61,PL061,21.0,4,4,60.0,Friendly,Round 1,Skyline Arena,12939,Win
+MA00856,2026-04-18,Lions,Panthers,Player 36,PL036,16.0,8,6,134.0,Semi-Final,Final,Savanna Park,32242,Draw
+MA00857,2025-05-02,Eagles,Lions,Player 58,PL058,43.0,14,5,95.0,League,Final,Skyline Arena,13025,Loss
+MA00858,2026-09-10,Panthers,Lions,Player 42,PL042,23.0,11,10,170.0,League,Round 1,Shadow Ridge Field,29824,Draw
+MA00859,2026-01-19,Lions,Titans,Player 48,PL048,27.0,6,2,48.0,Friendly,Round 2,Savanna Park,9118,Draw
+MA00860,2026-07-20,Warriors,Sharks,Player 59,PL059,16.0,6,3,84.0,League,Round 1,Vanguard Grounds,26635,Draw
+MA00861,2026-11-03,Falcons,Tigers,Player 69,PL069,3.0,2,5,137.0,League,Round 2,Aerodrome Stadium,16608,Loss
+MA00862,2026-10-05,Sharks,Warriors,Player 89,PL089,25.0,10,2,43.0,Semi-Final,Round 1,Apex Aquatic Dome,35338,Win
+MA00863,2025-08-01,Falcons,Panthers,Player 38,PL038,2.0,1,5,90.0,League,Round 1,Aerodrome Stadium,24128,Draw
+MA00864,2025-11-29,Warriors,Tigers,Player 51,PL051,28.0,10,6,109.0,Friendly,Round 1,Vanguard Grounds,6410,Loss
+MA00865,2026-07-18,Falcons,Panthers,Player 87,PL087,33.0,7,4,98.0,Final,Final,Aerodrome Stadium,60015,Draw
+MA00866,2025-11-08,Titans,Warriors,Player 72,PL072,4.0,3,2,67.0,League,Round 2,Olympus Coliseum,15574,Draw
+MA00867,2025-09-05,Lions,Falcons,Player 62,PL062,0.0,2,7,160.0,League,Round 2,Savanna Park,16503,Loss
+MA00868,2026-04-02,Titans,Tigers,Player 21,PL021,10.0,6,5,114.0,Semi-Final,Semi-Final,Olympus Coliseum,31816,Draw
+MA00869,2026-05-05,Titans,Titans,Player 89,PL089,2.0,2,5,111.0,League,Semi-Final,Olympus Coliseum,31285,Draw
+MA00870,2026-10-02,Falcons,Lions,Player 37,PL037,11.0,4,5,101.0,Friendly,Semi-Final,Aerodrome Stadium,7239,Win
+MA00871,2025-11-16,Warriors,Panthers,Player 43,PL043,18.0,8,1,38.0,Semi-Final,Quarter-Final,Vanguard Grounds,42120,Loss
+MA00872,2026-06-01,Sharks,Eagles,Player 82,PL082,7.0,4,6,,Final,Final,Apex Aquatic Dome,48142,Win
+MA00873,2026-05-10,Warriors,Lions,Player 53,PL053,37.0,18,6,173.0,League,Semi-Final,Vanguard Grounds,21954,Draw
+MA00874,2025-02-02,Eagles,Titans,Player 9,PL009,38.0,17,1,46.0,League,Quarter-Final,Skyline Arena,29973,Draw
+MA00875,2025-05-18,Eagles,Falcons,Player 55,PL055,16.0,3,4,129.0,League,Semi-Final,Skyline Arena,13868,Loss
+MA00876,2026-10-10,Sharks,Titans,Player 4,PL004,40.0,11,2,36.0,Semi-Final,Final,Apex Aquatic Dome,43247,Win
+MA00877,2025-10-20,Lions,Titans,Player 47,PL047,35.0,15,6,126.0,Final,Final,Savanna Park,49399,Win
+MA00878,2025-07-14,Titans,Falcons,Player 75,PL075,39.0,13,4,103.0,Semi-Final,Quarter-Final,Olympus Coliseum,45772,Draw
+MA00879,2025-03-31,Tigers,Panthers,Player 77,PL077,26.0,5,4,133.0,Friendly,Semi-Final,Striped Horizon Arena,14292,Win
+MA00880,2026-05-18,Panthers,Falcons,Player 37,PL037,1.0,2,3,106.0,Friendly,Semi-Final,Shadow Ridge Field,7634,Draw
+MA00881,2025-07-02,Sharks,Lions,Player 68,PL068,1.0,0,5,99.0,League,Round 2,Apex Aquatic Dome,13079,Win
+MA00882,2025-08-11,Tigers,Falcons,Player 41,PL041,1.0,3,5,105.0,Semi-Final,Round 1,Striped Horizon Arena,28591,Draw
+MA00883,2026-06-11,Tigers,Lions,Player 43,PL043,16.0,6,10,179.0,League,Round 1,Striped Horizon Arena,17794,Loss
+MA00884,2026-05-18,Falcons,Tigers,Player 46,PL046,1.0,2,3,54.0,Semi-Final,Quarter-Final,Aerodrome Stadium,47689,Draw
+MA00885,2026-05-30,Sharks,Panthers,Player 28,PL028,43.0,11,5,173.0,Semi-Final,Final,Apex Aquatic Dome,29883,Draw
+MA00886,2025-12-14,Warriors,Sharks,Player 26,PL026,17.0,9,3,85.0,League,Quarter-Final,Vanguard Grounds,21894,Win
+MA00887,2026-08-06,Falcons,Panthers,Player 76,PL076,3.0,2,6,113.0,League,Semi-Final,Aerodrome Stadium,22559,Win
+MA00888,2026-02-05,Warriors,Lions,Player 35,PL035,1.0,1,8,157.0,Friendly,Round 2,Vanguard Grounds,12634,Win
+MA00889,2025-08-23,Titans,Tigers,Player 77,PL077,30.0,13,6,154.0,League,Round 1,Olympus Coliseum,19624,Win
+MA00890,2025-05-15,Falcons,Panthers,Player 7,PL007,1.0,1,6,143.0,League,Semi-Final,Aerodrome Stadium,16578,Loss
+MA00891,2026-06-27,Titans,Tigers,Player 18,PL018,40.0,15,8,145.0,Semi-Final,Quarter-Final,Olympus Coliseum,35145,Draw
+MA00892,2026-09-01,Sharks,Tigers,Player 77,PL077,28.0,12,6,121.0,League,Quarter-Final,Apex Aquatic Dome,12537,Loss
+MA00893,2026-03-05,Sharks,Lions,Player 71,PL071,19.0,6,3,110.0,League,Round 1,Apex Aquatic Dome,26691,Win
+MA00894,2026-04-16,Titans,Tigers,Player 6,PL006,12.0,3,3,53.0,League,Round 2,Olympus Coliseum,24459,Loss
+MA00895,2026-05-09,Falcons,Warriors,Player 2,PL002,14.0,7,3,67.0,Final,Round 2,Aerodrome Stadium,59139,Draw
+MA00896,2026-02-27,Panthers,Titans,Player 5,PL005,28.0,4,4,66.0,Final,Quarter-Final,Shadow Ridge Field,58944,Win
+MA00897,2026-05-16,Eagles,Tigers,Player 54,PL054,26.0,11,2,61.0,League,Round 2,Skyline Arena,19637,Win
+MA00898,2026-10-23,Panthers,Falcons,Player 41,PL041,3.0,3,7,135.0,League,Round 1,Shadow Ridge Field,12922,Draw
+MA00899,2026-10-04,Eagles,Falcons,Player 13,PL013,7.0,5,2,60.0,League,Semi-Final,Skyline Arena,20252,Draw
+MA00900,2025-05-05,Tigers,Sharks,Player 82,PL082,24.0,7,8,160.0,League,Round 2,Striped Horizon Arena,26126,Loss
+MA00901,2026-08-30,Sharks,Titans,Player 83,PL083,11.0,4,5,121.0,League,Semi-Final,Apex Aquatic Dome,31194,Loss
+MA00902,2025-01-21,Titans,Falcons,Player 59,PL059,19.0,8,6,127.0,Friendly,Round 1,Olympus Coliseum,9942,Draw
+MA00903,2025-02-11,Titans,Sharks,Player 17,PL017,8.0,3,3,77.0,League,Round 2,Olympus Coliseum,18474,Win
+MA00904,2025-12-10,Titans,Falcons,Player 60,PL060,42.0,14,5,105.0,League,Quarter-Final,Olympus Coliseum,14881,Draw
+MA00905,2025-09-02,Falcons,Lions,Player 43,PL043,,5,5,97.0,League,Round 1,Aerodrome Stadium,26986,Win
+MA00906,2025-02-08,Eagles,Eagles,Player 63,PL063,,9,5,150.0,Final,Quarter-Final,Skyline Arena,56588,Loss
+MA00907,2025-09-22,Titans,Falcons,Player 80,PL080,9.0,3,8,142.0,Semi-Final,Quarter-Final,Olympus Coliseum,28634,Draw
+MA00908,2026-07-14,Tigers,Panthers,Player 74,PL074,15.0,5,2,48.0,Friendly,Round 1,Striped Horizon Arena,5442,Loss
+MA00909,2026-08-03,Panthers,Sharks,Player 55,PL055,0.0,0,3,80.0,Friendly,Round 1,Shadow Ridge Field,14609,Draw
+MA00910,2025-09-25,Eagles,Falcons,Player 61,PL061,5.0,2,3,66.0,Friendly,Round 2,Skyline Arena,8850,Loss
+MA00911,2026-04-25,Warriors,Warriors,Player 33,PL033,36.0,18,1,30.0,Friendly,Round 2,Vanguard Grounds,7770,Draw
+MA00912,2026-01-13,Lions,Falcons,Player 61,PL061,6.0,5,2,44.0,League,Quarter-Final,Savanna Park,24870,Loss
+MA00913,2025-05-01,Titans,Lions,Player 32,PL032,3.0,2,5,110.0,League,Round 2,Olympus Coliseum,30099,Loss
+MA00914,2026-02-16,Panthers,Falcons,Player 36,PL036,39.0,9,9,164.0,Semi-Final,Final,Shadow Ridge Field,38686,Win
+MA00915,2026-08-09,Lions,Titans,Player 48,PL048,13.0,3,2,58.0,League,Round 1,Savanna Park,24012,Loss
+MA00916,2025-12-19,Falcons,Eagles,Player 7,PL007,10.0,5,4,90.0,Friendly,Final,Aerodrome Stadium,6787,Draw
+MA00917,2025-05-20,Falcons,Lions,Player 2,PL002,41.0,9,6,157.0,Friendly,Final,Aerodrome Stadium,5414,Win
+MA00918,2026-09-19,Sharks,Panthers,Player 82,PL082,2.0,2,6,116.0,League,Round 1,Apex Aquatic Dome,28455,Draw
+MA00919,2026-06-05,Warriors,Titans,Player 83,PL083,20.0,9,6,132.0,Friendly,Final,Vanguard Grounds,5815,Draw
+MA00920,2026-11-16,Sharks,Sharks,Player 90,PL090,5.0,3,4,100.0,Friendly,Final,Apex Aquatic Dome,7282,Draw
+MA00921,2026-07-07,Titans,Sharks,Player 89,PL089,15.0,6,5,163.0,Semi-Final,Semi-Final,Olympus Coliseum,47422,Draw
+MA00922,2026-04-11,Sharks,Falcons,Player 42,PL042,38.0,18,2,47.0,League,Quarter-Final,Apex Aquatic Dome,14285,Win
+MA00923,2025-05-15,Titans,Sharks,Player 83,PL083,35.0,17,3,77.0,Final,Final,Olympus Coliseum,56294,Win
+MA00924,2026-05-07,Warriors,Panthers,Player 44,PL044,25.0,9,1,37.0,League,Round 1,Vanguard Grounds,12634,Win
+MA00925,2025-07-05,Panthers,Sharks,Player 5,PL005,,10,1,40.0,Friendly,Round 1,Shadow Ridge Field,10594,Draw
+MA00926,2025-07-26,Warriors,Titans,Player 25,PL025,32.0,11,8,165.0,League,Round 1,Vanguard Grounds,27926,Draw
+MA00927,2025-05-21,Eagles,Tigers,Player 57,PL057,15.0,4,4,69.0,League,Quarter-Final,Skyline Arena,16406,Draw
+MA00928,2025-10-27,Falcons,Titans,Player 45,PL045,29.0,11,6,126.0,Semi-Final,Final,Aerodrome Stadium,29485,Win
+MA00929,2026-01-13,Panthers,Warriors,Player 81,PL081,26.0,7,3,97.0,League,Round 1,Shadow Ridge Field,15017,Win
+MA00930,2025-09-03,Titans,Lions,Player 29,PL029,23.0,9,7,114.0,Final,Quarter-Final,Olympus Coliseum,55410,Draw
+MA00931,2026-06-11,Titans,Panthers,Player 62,PL062,6.0,3,1,37.0,League,Semi-Final,Olympus Coliseum,24712,Loss
+MA00932,2025-10-20,Eagles,Titans,Player 61,PL061,33.0,11,10,177.0,Semi-Final,Quarter-Final,Skyline Arena,31932,Loss
+MA00933,2025-12-29,Warriors,Tigers,Player 14,PL014,41.0,20,3,56.0,League,Round 1,Vanguard Grounds,23210,Win
+MA00934,2025-09-12,Eagles,Falcons,Player 4,PL004,20.0,7,5,111.0,Semi-Final,Round 1,Skyline Arena,38302,Win
+MA00935,2025-11-07,Lions,Eagles,Player 69,PL069,27.0,9,5,,League,Final,Savanna Park,24674,Draw
+MA00936,2026-05-10,Falcons,Sharks,Player 23,PL023,24.0,7,8,172.0,Friendly,Round 1,Aerodrome Stadium,13125,Win
+MA00937,2026-04-07,Tigers,Falcons,Player 27,PL027,0.0,1,1,32.0,Final,Semi-Final,Striped Horizon Arena,50437,Draw
+MA00938,2025-04-21,Falcons,Eagles,Player 38,PL038,42.0,18,4,112.0,League,Quarter-Final,Aerodrome Stadium,17239,Loss
+MA00939,2025-10-20,Tigers,Panthers,Player 12,PL012,43.0,10,2,54.0,League,Semi-Final,Striped Horizon Arena,16359,Win
+MA00940,2026-06-06,Sharks,Tigers,Player 87,PL087,27.0,7,2,33.0,League,Quarter-Final,Apex Aquatic Dome,27003,Win
+MA00941,2025-05-27,Titans,Warriors,Player 77,PL077,16.0,5,3,57.0,League,Final,Olympus Coliseum,27489,Loss
+MA00942,2025-06-05,Falcons,Falcons,Player 90,PL090,19.0,10,6,121.0,League,Round 1,Aerodrome Stadium,22603,Loss
+MA00943,2025-03-01,Falcons,Warriors,Player 19,PL019,27.0,14,6,118.0,Final,Final,Aerodrome Stadium,59290,Draw
+MA00944,2025-01-13,Sharks,Titans,Player 72,PL072,1.0,1,1,37.0,League,Semi-Final,Apex Aquatic Dome,14552,Win
+MA00945,2025-11-04,Panthers,Sharks,Player 47,PL047,16.0,8,4,83.0,Final,Semi-Final,Shadow Ridge Field,55470,Loss
+MA00946,2025-08-23,Warriors,Titans,Player 77,PL077,20.0,8,3,88.0,League,Semi-Final,Vanguard Grounds,27275,Loss
+MA00947,2026-03-23,Falcons,Titans,Player 26,PL026,7.0,5,4,,Friendly,Final,Aerodrome Stadium,12635,Win
+MA00948,2026-09-15,Falcons,Warriors,Player 83,PL083,38.0,14,4,139.0,Semi-Final,Semi-Final,Aerodrome Stadium,47654,Loss
+MA00949,2026-08-15,Lions,Warriors,Player 44,PL044,35.0,12,3,53.0,Final,Round 2,Savanna Park,53429,Loss
+MA00950,2025-11-14,Falcons,Tigers,Player 64,PL064,29.0,12,7,145.0,League,Semi-Final,Aerodrome Stadium,12530,Win
+MA00951,2026-11-13,Falcons,Warriors,Player 10,PL010,16.0,8,4,75.0,Final,Final,Aerodrome Stadium,42557,Win
+MA00952,2026-06-10,Titans,Sharks,Player 28,PL028,34.0,11,6,105.0,Semi-Final,Final,Olympus Coliseum,30654,Draw
+MA00953,2026-10-15,Warriors,Falcons,Player 89,PL089,15.0,4,6,149.0,Semi-Final,Semi-Final,Vanguard Grounds,36798,Loss
+MA00954,2026-07-22,Tigers,Panthers,Player 9,PL009,32.0,15,4,84.0,League,Round 2,Striped Horizon Arena,20744,Draw
+MA00955,2025-10-09,Falcons,Lions,Player 6,PL006,30.0,9,2,90.0,Final,Round 1,Aerodrome Stadium,54941,Draw
+MA00956,2026-10-08,Eagles,Titans,Player 12,PL012,5.0,3,7,157.0,Friendly,Semi-Final,Skyline Arena,12867,Win
+MA00957,2026-04-28,Warriors,Titans,Player 55,PL055,12.0,7,5,113.0,League,Final,Vanguard Grounds,27025,Win
+MA00958,2026-05-17,Panthers,Sharks,Player 73,PL073,24.0,10,5,166.0,Semi-Final,Quarter-Final,Shadow Ridge Field,40899,Loss
+MA00959,2025-09-09,Warriors,Panthers,Player 45,PL045,15.0,8,3,60.0,Friendly,Semi-Final,Vanguard Grounds,10695,Draw
+MA00960,2026-05-24,Panthers,Tigers,Player 76,PL076,39.0,16,3,87.0,Friendly,Round 2,Shadow Ridge Field,12699,Loss
+MA00961,2025-11-11,Titans,Lions,Player 78,PL078,0.0,2,2,35.0,Semi-Final,Quarter-Final,Olympus Coliseum,28056,Loss
+MA00962,2025-07-15,Tigers,Lions,Player 71,PL071,18.0,8,2,49.0,League,Round 2,Striped Horizon Arena,14311,Win
+MA00963,2026-10-23,Warriors,Panthers,Player 9,PL009,29.0,8,3,55.0,League,Round 2,Vanguard Grounds,17526,Win
+MA00964,2026-07-28,Warriors,Tigers,Player 15,PL015,27.0,14,6,133.0,League,Round 2,Vanguard Grounds,15442,Win
+MA00965,2026-10-26,Lions,Panthers,Player 23,PL023,12.0,3,5,125.0,Semi-Final,Quarter-Final,Savanna Park,39268,Draw
+MA00966,2026-03-20,Tigers,Tigers,Player 24,PL024,9.0,4,7,140.0,Friendly,Semi-Final,Striped Horizon Arena,8881,Win
+MA00967,2026-10-25,Warriors,Eagles,Player 65,PL065,28.0,16,6,141.0,League,Semi-Final,Vanguard Grounds,16300,Draw
+MA00968,2025-09-24,Falcons,Sharks,Player 55,PL055,4.0,2,4,81.0,League,Semi-Final,Aerodrome Stadium,27419,Loss
+MA00969,2025-07-21,Falcons,Sharks,Player 21,PL021,30.0,12,7,154.0,Final,Round 1,Aerodrome Stadium,63038,Win
+MA00970,2025-09-18,Eagles,Warriors,Player 34,PL034,18.0,7,2,46.0,Final,Final,Skyline Arena,48125,Win
+MA00971,2025-01-24,Panthers,Eagles,Player 20,PL020,7.0,5,6,,Friendly,Round 1,Shadow Ridge Field,11655,Loss
+MA00972,2025-02-16,Panthers,Panthers,Player 52,PL052,5.0,2,9,169.0,League,Quarter-Final,Shadow Ridge Field,29101,Loss
+MA00973,2026-10-05,Eagles,Sharks,Player 67,PL067,11.0,5,2,39.0,Final,Final,Skyline Arena,60599,Win
+MA00974,2026-09-13,Panthers,Sharks,Player 68,PL068,42.0,8,2,41.0,League,Semi-Final,Shadow Ridge Field,19830,Win
+MA00975,2025-06-25,Sharks,Panthers,Player 40,PL040,,11,7,153.0,Friendly,Semi-Final,Apex Aquatic Dome,10229,Win
+MA00976,2026-07-03,Titans,Sharks,Player 60,PL060,28.0,7,6,144.0,Semi-Final,Quarter-Final,Olympus Coliseum,30570,Draw
+MA00977,2026-11-19,Titans,Falcons,Player 14,PL014,6.0,5,6,107.0,Semi-Final,Round 1,Olympus Coliseum,35485,Draw
+MA00978,2026-09-25,Tigers,Panthers,Player 29,PL029,41.0,14,6,143.0,League,Round 2,Striped Horizon Arena,17067,Loss
+MA00979,2026-04-29,Eagles,Tigers,Player 21,PL021,36.0,11,8,157.0,League,Semi-Final,Skyline Arena,27256,Draw
+MA00980,2025-06-29,Tigers,Lions,Player 81,PL081,17.0,5,3,45.0,Semi-Final,Round 2,Striped Horizon Arena,45824,Loss
+MA00981,2026-07-09,Sharks,Eagles,Player 5,PL005,5.0,2,7,139.0,League,Final,Apex Aquatic Dome,29536,Draw
+MA00982,2025-02-26,Titans,Sharks,Player 75,PL075,0.0,1,2,82.0,Semi-Final,Semi-Final,Olympus Coliseum,40312,Loss
+MA00983,2026-10-26,Tigers,Sharks,Player 50,PL050,31.0,12,2,68.0,Friendly,Final,Striped Horizon Arena,9210,Draw
+MA00984,2025-06-04,Eagles,Falcons,Player 71,PL071,7.0,4,7,167.0,League,Final,Skyline Arena,12637,Draw
+MA00985,2026-05-31,Tigers,Sharks,Player 42,PL042,16.0,5,6,123.0,Friendly,Final,Striped Horizon Arena,8952,Win
+MA00986,2026-07-15,Falcons,Warriors,Player 13,PL013,37.0,12,5,100.0,Final,Round 2,Aerodrome Stadium,43849,Loss
+MA00987,2025-10-03,Falcons,Titans,Player 43,PL043,16.0,6,3,115.0,Semi-Final,Semi-Final,Aerodrome Stadium,38518,Win
+MA00988,2026-01-17,Panthers,Panthers,Player 44,PL044,13.0,4,4,65.0,Final,Quarter-Final,Shadow Ridge Field,42497,Loss
+MA00989,2026-04-19,Titans,Panthers,Player 68,PL068,29.0,10,2,33.0,League,Final,Olympus Coliseum,21935,Loss
+MA00990,2026-01-24,Tigers,Eagles,Player 9,PL009,2.0,0,2,39.0,Friendly,Quarter-Final,Striped Horizon Arena,10415,Win
+MA00991,2026-05-26,Panthers,Panthers,Player 69,PL069,4.0,5,4,131.0,League,Final,Shadow Ridge Field,27936,Loss
+MA00992,2026-09-06,Sharks,Tigers,Player 43,PL043,16.0,5,7,113.0,League,Round 2,Apex Aquatic Dome,26325,Loss
+MA00993,2025-02-22,Falcons,Titans,Player 44,PL044,33.0,12,3,64.0,Friendly,Round 1,Aerodrome Stadium,14379,Loss
+MA00678,2026-10-11,Titans,Tigers,Player 21,PL021,12.0,4,7,177.0,League,Final,Olympus Coliseum,20488,Win
+MA00875,2025-05-18,Eagles,Falcons,Player 55,PL055,16.0,3,4,129.0,League,Semi-Final,Skyline Arena,13868,Loss
+MA00847,2026-11-08,Sharks,Lions,Player 83,PL083,9.0,4,4,112.0,Friendly,Quarter-Final,Apex Aquatic Dome,5295,Loss
+MA00655,2026-10-20,Tigers,Falcons,Player 76,PL076,44.0,14,8,156.0,Semi-Final,Semi-Final,Striped Horizon Arena,37615,Loss
+MA00989,2026-04-19,Titans,Panthers,Player 68,PL068,29.0,10,2,33.0,League,Final,Olympus Coliseum,21935,Loss
+MA00803,2025-08-13,Lions,Sharks,Player 73,PL073,35.0,8,5,170.0,Final,Round 2,Savanna Park,49869,Draw

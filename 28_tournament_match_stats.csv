@@ -1,0 +1,610 @@
+Match_ID,Match_Date,Team,Opponent,Player_Name,Player_Points,Match_Duration_Mins,Match_Type,Tournament_Round,Result
+MA00000,2026-05-26,Eagles,Falcons,Player 50,35.0,61.0,Friendly,Semi-Final,Draw
+MA00001,2026-05-20,Falcons,Eagles,Player 34,24.0,86.0,League,Round 2,Draw
+MA00002,2025-06-25,Falcons,Lions,Player 65,,108.0,Semi-Final,Round 1,Win
+MA00003,2025-08-05,Sharks,Sharks,Player 10,31.0,86.0,Semi-Final,Quarter-Final,Loss
+MA00004,2026-09-16,Panthers,Sharks,Player 10,44.0,42.0,League,Final,Draw
+MA00005,2025-07-29,Panthers,Sharks,Player 60,25.0,144.0,Final,Round 1,Win
+MA00006,2026-04-28,Titans,Warriors,Player 29,26.0,70.0,Semi-Final,Semi-Final,Draw
+MA00007,2025-07-20,Warriors,Tigers,Player 44,10.0,130.0,Semi-Final,Final,Win
+MA00008,2025-08-25,Titans,Titans,Player 49,34.0,176.0,Semi-Final,Quarter-Final,Draw
+MA00009,2026-06-13,Lions,Falcons,Player 53,1.0,95.0,Final,Round 1,Win
+MA00010,2026-03-06,Tigers,Tigers,Player 59,32.0,35.0,League,Final,Draw
+MA00011,2025-09-13,Sharks,Warriors,Player 7,21.0,117.0,League,Round 1,Loss
+MA00012,2026-02-20,Falcons,Warriors,Player 21,41.0,37.0,Friendly,Semi-Final,Draw
+MA00013,2025-03-24,Eagles,Falcons,Player 40,8.0,119.0,Final,Round 2,Loss
+MA00014,2025-07-21,Tigers,Lions,Player 13,21.0,176.0,Friendly,Final,Win
+MA00015,2025-12-02,Panthers,Lions,Player 70,18.0,73.0,League,Final,Draw
+MA00016,2026-07-16,Tigers,Tigers,Player 25,37.0,81.0,League,Quarter-Final,Draw
+MA00017,2025-05-21,Lions,Panthers,Player 68,10.0,30.0,Semi-Final,Quarter-Final,Draw
+MA00018,2025-10-03,Sharks,Warriors,Player 37,18.0,,Final,Round 1,Win
+MA00019,2026-01-21,Panthers,Warriors,Player 56,21.0,30.0,Friendly,Round 2,Draw
+MA00020,2025-06-17,Warriors,Eagles,Player 79,25.0,110.0,League,Final,Loss
+MA00021,2025-12-18,Falcons,Tigers,Player 48,10.0,97.0,Semi-Final,Quarter-Final,Loss
+MA00022,2026-04-13,Lions,Panthers,Player 24,18.0,122.0,League,Round 2,Win
+MA00023,2025-07-01,Tigers,Tigers,Player 74,,132.0,Friendly,Final,Win
+MA00024,2025-06-02,Lions,Panthers,Player 12,6.0,35.0,Final,Semi-Final,Loss
+MA00025,2026-09-12,Sharks,Sharks,Player 9,8.0,168.0,Friendly,Quarter-Final,Draw
+MA00026,2026-04-21,Eagles,Tigers,Player 5,9.0,70.0,Final,Round 1,Loss
+MA00027,2025-10-22,Panthers,Eagles,Player 4,26.0,155.0,Friendly,Round 2,Draw
+MA00028,2025-08-05,Tigers,Panthers,Player 26,33.0,170.0,Friendly,Round 2,Draw
+MA00029,2025-12-23,Panthers,Titans,Player 58,30.0,81.0,Friendly,Round 2,Win
+MA00030,2026-07-21,Lions,Warriors,Player 53,0.0,147.0,League,Round 2,Draw
+MA00031,2026-04-23,Eagles,Titans,Player 28,,110.0,Friendly,Final,Draw
+MA00032,2025-12-15,Sharks,Sharks,Player 68,10.0,124.0,Semi-Final,Semi-Final,Draw
+MA00033,2026-03-03,Panthers,Titans,Player 11,44.0,97.0,Semi-Final,Round 2,Win
+MA00034,2025-04-06,Eagles,Eagles,Player 31,6.0,43.0,League,Quarter-Final,Win
+MA00035,2025-01-27,Titans,Lions,Player 74,19.0,61.0,Friendly,Quarter-Final,Loss
+MA00036,2026-04-23,Titans,Lions,Player 73,25.0,63.0,Friendly,Final,Draw
+MA00037,2025-11-26,Sharks,Panthers,Player 2,8.0,61.0,Semi-Final,Semi-Final,Loss
+MA00038,2026-08-26,Eagles,Eagles,Player 28,2.0,133.0,Friendly,Semi-Final,Draw
+MA00039,2026-08-27,Tigers,Panthers,Player 63,37.0,156.0,Friendly,Round 1,Win
+MA00040,2026-10-14,Eagles,Tigers,Player 78,14.0,43.0,Final,Quarter-Final,Draw
+MA00041,2026-08-18,Sharks,Warriors,Player 32,20.0,48.0,Semi-Final,Round 1,Win
+MA00042,2026-02-06,Warriors,Falcons,Player 24,33.0,89.0,Final,Semi-Final,Loss
+MA00043,2025-03-28,Warriors,Sharks,Player 31,17.0,40.0,League,Final,Win
+MA00044,2026-03-08,Falcons,Eagles,Player 43,20.0,170.0,Semi-Final,Semi-Final,Win
+MA00045,2025-07-19,Warriors,Sharks,Player 33,24.0,71.0,Friendly,Final,Loss
+MA00046,2026-07-26,Warriors,Eagles,Player 65,33.0,143.0,Semi-Final,Round 1,Win
+MA00047,2025-07-04,Titans,Sharks,Player 28,6.0,103.0,Final,Final,Draw
+MA00048,2026-08-16,Falcons,Sharks,Player 63,44.0,88.0,League,Semi-Final,Draw
+MA00049,2026-09-05,Titans,Eagles,Player 9,41.0,37.0,Final,Quarter-Final,Draw
+MA00050,2025-11-15,Sharks,Titans,Player 76,27.0,98.0,Semi-Final,Quarter-Final,Draw
+MA00051,2026-10-10,Lions,Tigers,Player 57,37.0,81.0,Friendly,Round 2,Loss
+MA00052,2025-09-20,Lions,Sharks,Player 55,31.0,,Final,Final,Win
+MA00053,2025-10-21,Warriors,Panthers,Player 41,41.0,154.0,Friendly,Quarter-Final,Draw
+MA00054,2026-09-06,Lions,Lions,Player 1,1.0,33.0,League,Final,Draw
+MA00055,2026-04-11,Warriors,Tigers,Player 32,21.0,85.0,Friendly,Semi-Final,Win
+MA00056,2025-05-03,Warriors,Lions,Player 45,,34.0,Semi-Final,Final,Win
+MA00057,2025-04-22,Falcons,Warriors,Player 43,14.0,119.0,Final,Quarter-Final,Draw
+MA00058,2025-12-13,Titans,Eagles,Player 19,37.0,116.0,League,Quarter-Final,Draw
+MA00059,2026-03-18,Falcons,Panthers,Player 38,6.0,174.0,League,Quarter-Final,Loss
+MA00060,2026-01-14,Eagles,Eagles,Player 53,0.0,44.0,Friendly,Round 1,Win
+MA00061,2025-02-02,Falcons,Titans,Player 20,29.0,135.0,Final,Quarter-Final,Loss
+MA00062,2025-04-17,Titans,Sharks,Player 69,41.0,152.0,Final,Quarter-Final,Win
+MA00063,2025-02-22,Lions,Titans,Player 13,10.0,132.0,Final,Round 2,Win
+MA00064,2026-06-10,Sharks,Lions,Player 8,37.0,172.0,Final,Semi-Final,Draw
+MA00065,2025-09-21,Tigers,Titans,Player 64,13.0,175.0,Final,Round 2,Draw
+MA00066,2025-09-08,Titans,Warriors,Player 45,43.0,41.0,Friendly,Round 1,Draw
+MA00067,2026-07-28,Falcons,Tigers,Player 57,0.0,44.0,Final,Quarter-Final,Loss
+MA00068,2026-10-12,Eagles,Titans,Player 50,33.0,58.0,Friendly,Round 2,Draw
+MA00069,2025-01-09,Titans,Sharks,Player 16,43.0,170.0,Friendly,Semi-Final,Loss
+MA00070,2026-08-15,Warriors,Titans,Player 17,23.0,59.0,League,Round 2,Draw
+MA00071,2025-08-10,Lions,Tigers,Player 10,37.0,52.0,Semi-Final,Quarter-Final,Win
+MA00072,2026-05-28,Falcons,Titans,Player 24,2.0,107.0,Final,Final,Loss
+MA00073,2026-03-01,Sharks,Eagles,Player 44,32.0,35.0,Semi-Final,Quarter-Final,Loss
+MA00074,2025-04-04,Lions,Falcons,Player 43,2.0,139.0,Final,Semi-Final,Loss
+MA00075,2025-07-25,Sharks,Lions,Player 52,34.0,99.0,League,Final,Win
+MA00076,2025-09-20,Sharks,Sharks,Player 32,7.0,179.0,Semi-Final,Round 1,Draw
+MA00077,2025-01-05,Titans,Titans,Player 47,37.0,162.0,Friendly,Round 2,Loss
+MA00078,2025-09-12,Lions,Lions,Player 7,23.0,106.0,Final,Semi-Final,Loss
+MA00079,2025-12-22,Sharks,Titans,Player 22,9.0,76.0,Semi-Final,Final,Win
+MA00080,2026-02-09,Falcons,Titans,Player 62,36.0,35.0,Friendly,Round 1,Win
+MA00081,2025-03-24,Falcons,Sharks,Player 58,21.0,43.0,Final,Round 1,Draw
+MA00082,2026-04-22,Falcons,Lions,Player 63,41.0,41.0,Friendly,Semi-Final,Loss
+MA00083,2025-07-30,Sharks,Eagles,Player 17,19.0,32.0,Final,Round 2,Win
+MA00084,2025-12-12,Sharks,Panthers,Player 47,19.0,,Final,Round 1,Loss
+MA00085,2026-08-25,Eagles,Warriors,Player 41,1.0,88.0,Friendly,Round 1,Win
+MA00086,2025-12-01,Lions,Titans,Player 44,9.0,46.0,League,Final,Draw
+MA00087,2026-02-01,Titans,Sharks,Player 16,27.0,177.0,Final,Quarter-Final,Draw
+MA00088,2026-08-26,Warriors,Titans,Player 17,11.0,167.0,Semi-Final,Round 2,Draw
+MA00089,2026-05-05,Eagles,Falcons,Player 28,5.0,131.0,Friendly,Quarter-Final,Loss
+MA00090,2025-09-10,Falcons,Warriors,Player 32,10.0,164.0,Semi-Final,Semi-Final,Draw
+MA00091,2025-04-17,Panthers,Eagles,Player 40,25.0,106.0,Final,Round 2,Loss
+MA00092,2025-10-13,Falcons,Lions,Player 60,16.0,91.0,League,Round 2,Win
+MA00093,2026-05-16,Panthers,Tigers,Player 46,33.0,60.0,Final,Round 1,Win
+MA00094,2025-10-05,Panthers,Warriors,Player 71,41.0,126.0,Semi-Final,Final,Draw
+MA00095,2025-04-24,Falcons,Falcons,Player 9,4.0,172.0,League,Round 2,Loss
+MA00096,2025-02-01,Titans,Warriors,Player 62,3.0,172.0,League,Final,Loss
+MA00097,2026-08-10,Titans,Titans,Player 29,7.0,36.0,Semi-Final,Round 2,Loss
+MA00098,2025-06-05,Warriors,Titans,Player 59,0.0,30.0,Friendly,Semi-Final,Loss
+MA00099,2026-04-07,Sharks,Warriors,Player 43,39.0,35.0,Semi-Final,Quarter-Final,Loss
+MA00100,2026-07-15,Panthers,Lions,Player 6,33.0,54.0,Friendly,Round 2,Win
+MA00101,2026-03-25,Panthers,Eagles,Player 64,32.0,74.0,Final,Quarter-Final,Draw
+MA00102,2025-01-29,Falcons,Warriors,Player 24,41.0,112.0,Final,Semi-Final,Loss
+MA00103,2025-05-28,Lions,Lions,Player 21,35.0,98.0,Semi-Final,Round 2,Win
+MA00104,2025-03-08,Tigers,Warriors,Player 18,37.0,133.0,Friendly,Final,Draw
+MA00105,2025-10-16,Eagles,Sharks,Player 63,6.0,163.0,Semi-Final,Semi-Final,Loss
+MA00106,2026-07-30,Titans,Falcons,Player 50,39.0,39.0,Final,Round 2,Win
+MA00107,2025-01-27,Warriors,Titans,Player 77,30.0,136.0,Friendly,Quarter-Final,Win
+MA00108,2025-10-16,Sharks,Titans,Player 11,6.0,121.0,Final,Semi-Final,Draw
+MA00109,2025-08-20,Tigers,Titans,Player 52,6.0,89.0,Semi-Final,Round 2,Loss
+MA00110,2026-01-25,Titans,Eagles,Player 18,33.0,134.0,Semi-Final,Semi-Final,Win
+MA00111,2025-01-16,Lions,Warriors,Player 59,18.0,127.0,Friendly,Round 1,Win
+MA00112,2026-02-25,Tigers,Sharks,Player 14,14.0,71.0,Final,Semi-Final,Win
+MA00113,2025-01-04,Falcons,Eagles,Player 64,1.0,138.0,Friendly,Round 1,Draw
+MA00114,2025-10-06,Panthers,Warriors,Player 33,18.0,90.0,Friendly,Semi-Final,Draw
+MA00115,2025-05-01,Tigers,Tigers,Player 69,14.0,58.0,Semi-Final,Round 1,Draw
+MA00116,2025-08-19,Panthers,Warriors,Player 31,13.0,177.0,League,Semi-Final,Win
+MA00117,2026-03-29,Sharks,Titans,Player 8,43.0,80.0,Semi-Final,Round 1,Draw
+MA00118,2026-07-24,Titans,Lions,Player 18,8.0,111.0,League,Quarter-Final,Loss
+MA00119,2025-06-06,Tigers,Falcons,Player 25,31.0,66.0,Final,Round 1,Win
+MA00120,2025-09-09,Warriors,Tigers,Player 16,29.0,111.0,Final,Round 1,Loss
+MA00121,2026-08-26,Sharks,Panthers,Player 40,1.0,154.0,Semi-Final,Round 2,Loss
+MA00122,2026-10-13,Titans,Warriors,Player 64,0.0,76.0,Friendly,Final,Loss
+MA00123,2026-01-05,Warriors,Panthers,Player 27,34.0,163.0,League,Quarter-Final,Loss
+MA00124,2025-12-07,Sharks,Lions,Player 7,23.0,100.0,League,Round 2,Loss
+MA00125,2025-10-28,Warriors,Titans,Player 18,17.0,164.0,Final,Quarter-Final,Loss
+MA00126,2026-09-22,Lions,Titans,Player 36,20.0,42.0,League,Round 1,Draw
+MA00127,2025-10-11,Lions,Lions,Player 73,13.0,118.0,Final,Final,Win
+MA00128,2025-09-18,Falcons,Panthers,Player 46,41.0,143.0,League,Final,Win
+MA00129,2025-10-28,Tigers,Sharks,Player 61,,83.0,Semi-Final,Final,Draw
+MA00130,2026-07-28,Sharks,Titans,Player 19,8.0,122.0,Final,Round 1,Draw
+MA00131,2025-05-21,Tigers,Sharks,Player 18,18.0,106.0,League,Round 1,Loss
+MA00132,2025-01-06,Tigers,Falcons,Player 9,6.0,93.0,Semi-Final,Round 1,Draw
+MA00133,2025-10-07,Tigers,Tigers,Player 20,11.0,161.0,Semi-Final,Final,Draw
+MA00134,2025-11-29,Lions,Eagles,Player 75,29.0,52.0,Friendly,Quarter-Final,Loss
+MA00135,2025-01-10,Tigers,Tigers,Player 50,41.0,132.0,Friendly,Quarter-Final,Loss
+MA00136,2026-01-05,Titans,Tigers,Player 43,,33.0,League,Quarter-Final,Draw
+MA00137,2025-10-05,Falcons,Panthers,Player 37,31.0,154.0,Friendly,Semi-Final,Draw
+MA00138,2026-03-02,Warriors,Falcons,Player 9,9.0,96.0,Friendly,Final,Win
+MA00139,2025-09-13,Lions,Sharks,Player 25,41.0,43.0,Friendly,Semi-Final,Loss
+MA00140,2025-01-15,Eagles,Panthers,Player 16,33.0,67.0,Final,Round 2,Loss
+MA00141,2025-01-29,Sharks,Titans,Player 66,1.0,109.0,Semi-Final,Quarter-Final,Win
+MA00142,2026-01-21,Falcons,Eagles,Player 21,31.0,120.0,League,Final,Draw
+MA00143,2026-02-12,Falcons,Warriors,Player 74,1.0,152.0,League,Quarter-Final,Draw
+MA00144,2025-06-10,Tigers,Lions,Player 20,17.0,159.0,Friendly,Semi-Final,Loss
+MA00145,2026-06-10,Eagles,Warriors,Player 29,28.0,109.0,Friendly,Semi-Final,Loss
+MA00146,2025-10-21,Sharks,Falcons,Player 8,38.0,56.0,Final,Final,Draw
+MA00147,2025-05-08,Panthers,Sharks,Player 52,27.0,75.0,Friendly,Final,Loss
+MA00148,2025-10-14,Falcons,Warriors,Player 12,37.0,134.0,Final,Semi-Final,Draw
+MA00149,2025-11-05,Eagles,Falcons,Player 27,32.0,82.0,League,Quarter-Final,Draw
+MA00150,2025-03-12,Warriors,Lions,Player 77,5.0,102.0,Final,Round 1,Win
+MA00151,2026-09-03,Titans,Lions,Player 76,25.0,39.0,Semi-Final,Round 2,Win
+MA00152,2025-09-05,Titans,Titans,Player 7,5.0,129.0,Final,Quarter-Final,Loss
+MA00153,2026-08-25,Falcons,Tigers,Player 32,,162.0,Final,Semi-Final,Draw
+MA00154,2025-07-11,Lions,Panthers,Player 46,40.0,170.0,Friendly,Final,Draw
+MA00155,2025-06-23,Sharks,Sharks,Player 17,30.0,134.0,Final,Semi-Final,Win
+MA00156,2025-05-03,Falcons,Tigers,Player 7,1.0,43.0,Friendly,Round 1,Draw
+MA00157,2025-05-28,Sharks,Falcons,Player 32,37.0,165.0,Final,Semi-Final,Loss
+MA00158,2026-04-01,Lions,Tigers,Player 39,37.0,98.0,League,Final,Loss
+MA00159,2025-05-27,Sharks,Eagles,Player 26,31.0,54.0,Friendly,Round 2,Loss
+MA00160,2025-02-17,Lions,Lions,Player 68,19.0,37.0,League,Round 2,Win
+MA00161,2026-01-30,Sharks,Sharks,Player 41,36.0,65.0,League,Round 1,Draw
+MA00162,2026-04-16,Titans,Tigers,Player 30,44.0,40.0,Friendly,Round 1,Loss
+MA00163,2026-07-16,Sharks,Sharks,Player 8,19.0,111.0,Friendly,Quarter-Final,Loss
+MA00164,2025-12-05,Lions,Eagles,Player 75,12.0,129.0,League,Final,Loss
+MA00165,2025-06-12,Titans,Titans,Player 49,4.0,43.0,Semi-Final,Round 2,Loss
+MA00166,2026-08-28,Sharks,Titans,Player 70,11.0,135.0,League,Round 1,Win
+MA00167,2026-03-06,Warriors,Lions,Player 62,40.0,123.0,Final,Round 2,Win
+MA00168,2026-10-10,Lions,Lions,Player 49,29.0,149.0,Semi-Final,Round 1,Loss
+MA00169,2026-04-20,Lions,Sharks,Player 21,34.0,78.0,Final,Semi-Final,Draw
+MA00170,2025-09-04,Panthers,Sharks,Player 23,5.0,40.0,Semi-Final,Round 1,Loss
+MA00171,2025-03-31,Tigers,Lions,Player 20,24.0,55.0,Final,Round 2,Win
+MA00172,2026-03-02,Falcons,Titans,Player 54,13.0,67.0,Semi-Final,Semi-Final,Win
+MA00173,2025-03-01,Warriors,Lions,Player 27,6.0,81.0,Semi-Final,Final,Loss
+MA00174,2026-07-08,Panthers,Panthers,Player 11,31.0,101.0,Semi-Final,Round 1,Draw
+MA00175,2025-03-01,Sharks,Titans,Player 41,7.0,171.0,League,Round 2,Loss
+MA00176,2025-07-01,Falcons,Tigers,Player 5,40.0,127.0,Semi-Final,Round 2,Win
+MA00177,2025-10-29,Lions,Tigers,Player 9,8.0,121.0,Friendly,Round 1,Loss
+MA00178,2026-09-22,Sharks,Titans,Player 69,27.0,,Semi-Final,Round 2,Draw
+MA00179,2025-06-21,Titans,Lions,Player 44,6.0,123.0,League,Quarter-Final,Draw
+MA00180,2025-08-29,Eagles,Tigers,Player 20,11.0,50.0,Final,Semi-Final,Draw
+MA00181,2025-08-27,Lions,Falcons,Player 53,36.0,144.0,League,Round 2,Draw
+MA00182,2025-03-28,Panthers,Eagles,Player 30,39.0,120.0,Final,Round 2,Win
+MA00183,2026-10-15,Lions,Falcons,Player 78,20.0,154.0,League,Round 2,Win
+MA00184,2025-11-12,Titans,Lions,Player 68,9.0,133.0,League,Final,Win
+MA00185,2025-08-05,Eagles,Lions,Player 77,13.0,117.0,Final,Round 1,Draw
+MA00186,2026-05-07,Falcons,Eagles,Player 21,25.0,41.0,Friendly,Semi-Final,Win
+MA00187,2025-08-09,Tigers,Sharks,Player 26,15.0,98.0,Final,Round 2,Win
+MA00188,2026-10-28,Tigers,Lions,Player 49,36.0,64.0,League,Semi-Final,Loss
+MA00189,2026-05-11,Lions,Panthers,Player 53,12.0,44.0,Final,Semi-Final,Win
+MA00190,2025-03-18,Lions,Panthers,Player 12,15.0,132.0,League,Round 2,Draw
+MA00191,2026-09-22,Warriors,Eagles,Player 58,23.0,146.0,League,Semi-Final,Win
+MA00192,2025-05-27,Eagles,Eagles,Player 32,13.0,42.0,League,Round 1,Win
+MA00193,2026-03-08,Panthers,Tigers,Player 66,20.0,66.0,Friendly,Quarter-Final,Draw
+MA00194,2025-02-02,Warriors,Warriors,Player 40,11.0,153.0,Friendly,Round 2,Draw
+MA00195,2026-05-30,Panthers,Lions,Player 7,40.0,54.0,League,Round 2,Draw
+MA00196,2026-07-30,Tigers,Panthers,Player 46,21.0,136.0,Semi-Final,Quarter-Final,Loss
+MA00197,2025-06-02,Falcons,Sharks,Player 11,7.0,170.0,Friendly,Semi-Final,Win
+MA00198,2025-06-09,Warriors,Tigers,Player 57,7.0,167.0,Semi-Final,Final,Draw
+MA00199,2025-05-06,Falcons,Warriors,Player 24,38.0,129.0,Semi-Final,Semi-Final,Loss
+MA00200,2025-03-30,Falcons,Eagles,Player 41,18.0,177.0,Semi-Final,Round 2,Win
+MA00201,2026-10-30,Eagles,Eagles,Player 22,14.0,118.0,Final,Quarter-Final,Win
+MA00202,2026-01-11,Eagles,Titans,Player 11,15.0,163.0,League,Quarter-Final,Draw
+MA00203,2026-10-08,Tigers,Sharks,Player 62,,133.0,Final,Semi-Final,Draw
+MA00204,2025-02-26,Tigers,Panthers,Player 17,16.0,83.0,Semi-Final,Semi-Final,Win
+MA00205,2025-08-19,Tigers,Tigers,Player 65,31.0,83.0,Final,Quarter-Final,Draw
+MA00206,2026-05-24,Lions,Tigers,Player 51,12.0,139.0,Final,Quarter-Final,Loss
+MA00207,2026-06-22,Eagles,Lions,Player 37,41.0,,Friendly,Semi-Final,Draw
+MA00208,2026-02-23,Sharks,Eagles,Player 40,31.0,82.0,Final,Quarter-Final,Draw
+MA00209,2025-07-08,Panthers,Sharks,Player 38,40.0,104.0,Friendly,Quarter-Final,Loss
+MA00210,2025-05-08,Panthers,Eagles,Player 34,11.0,64.0,League,Round 2,Win
+MA00211,2025-02-06,Tigers,Falcons,Player 41,21.0,111.0,Final,Round 2,Loss
+MA00212,2026-08-16,Sharks,Warriors,Player 2,14.0,57.0,Semi-Final,Semi-Final,Draw
+MA00213,2026-04-10,Titans,Sharks,Player 3,,80.0,League,Round 1,Loss
+MA00214,2026-03-02,Eagles,Sharks,Player 50,11.0,43.0,Final,Round 2,Win
+MA00215,2025-12-27,Sharks,Warriors,Player 32,7.0,176.0,Final,Round 1,Win
+MA00216,2026-01-10,Titans,Eagles,Player 64,17.0,100.0,Friendly,Round 2,Draw
+MA00217,2025-02-05,Panthers,Titans,Player 8,15.0,103.0,Friendly,Quarter-Final,Win
+MA00218,2025-06-11,Warriors,Sharks,Player 10,24.0,82.0,Semi-Final,Round 1,Loss
+MA00219,2025-10-11,Tigers,Eagles,Player 11,13.0,35.0,Friendly,Round 1,Win
+MA00220,2025-09-28,Lions,Warriors,Player 69,6.0,106.0,Semi-Final,Final,Draw
+MA00221,2026-01-27,Tigers,Tigers,Player 55,15.0,164.0,Final,Final,Loss
+MA00222,2025-09-07,Warriors,Titans,Player 38,31.0,92.0,League,Quarter-Final,Win
+MA00223,2025-09-22,Warriors,Lions,Player 44,8.0,92.0,Semi-Final,Round 2,Win
+MA00224,2025-05-13,Tigers,Tigers,Player 24,16.0,108.0,Final,Quarter-Final,Draw
+MA00225,2025-01-30,Titans,Warriors,Player 35,9.0,118.0,Semi-Final,Round 1,Draw
+MA00226,2026-06-30,Panthers,Titans,Player 26,29.0,122.0,Semi-Final,Round 2,Draw
+MA00227,2026-09-19,Panthers,Titans,Player 60,36.0,69.0,Semi-Final,Final,Draw
+MA00228,2026-05-27,Warriors,Sharks,Player 62,40.0,59.0,Final,Round 1,Win
+MA00229,2026-09-13,Warriors,Falcons,Player 46,35.0,34.0,Final,Final,Loss
+MA00230,2026-02-15,Eagles,Panthers,Player 19,2.0,35.0,League,Final,Win
+MA00231,2026-08-17,Eagles,Tigers,Player 21,38.0,44.0,Final,Round 2,Draw
+MA00232,2025-10-09,Warriors,Lions,Player 31,40.0,162.0,Friendly,Quarter-Final,Draw
+MA00233,2026-04-12,Eagles,Titans,Player 53,8.0,72.0,Final,Semi-Final,Draw
+MA00234,2025-07-26,Lions,Falcons,Player 71,19.0,149.0,League,Round 1,Draw
+MA00235,2026-08-29,Warriors,Titans,Player 23,42.0,154.0,Friendly,Semi-Final,Win
+MA00236,2026-05-13,Panthers,Falcons,Player 63,29.0,166.0,Semi-Final,Final,Draw
+MA00237,2026-07-27,Titans,Falcons,Player 9,11.0,178.0,Semi-Final,Quarter-Final,Draw
+MA00238,2025-01-15,Sharks,Sharks,Player 11,22.0,98.0,League,Final,Loss
+MA00239,2025-12-31,Lions,Eagles,Player 76,8.0,46.0,Final,Quarter-Final,Draw
+MA00240,2026-02-03,Sharks,Tigers,Player 26,21.0,155.0,Friendly,Round 1,Loss
+MA00241,2025-12-09,Eagles,Titans,Player 66,5.0,126.0,Friendly,Final,Loss
+MA00242,2025-10-28,Falcons,Eagles,Player 29,33.0,101.0,Semi-Final,Quarter-Final,Loss
+MA00243,2026-02-18,Falcons,Warriors,Player 44,6.0,170.0,Final,Quarter-Final,Loss
+MA00244,2025-05-30,Eagles,Panthers,Player 2,,102.0,Semi-Final,Round 2,Win
+MA00245,2025-07-09,Falcons,Panthers,Player 8,12.0,76.0,Semi-Final,Quarter-Final,Win
+MA00246,2026-10-29,Warriors,Lions,Player 76,16.0,80.0,League,Quarter-Final,Loss
+MA00247,2025-03-21,Sharks,Sharks,Player 34,44.0,169.0,Semi-Final,Semi-Final,Win
+MA00248,2026-08-20,Falcons,Eagles,Player 61,29.0,94.0,Semi-Final,Quarter-Final,Loss
+MA00249,2026-09-14,Panthers,Panthers,Player 46,32.0,99.0,Semi-Final,Final,Draw
+MA00250,2025-12-01,Sharks,Lions,Player 54,32.0,142.0,League,Round 2,Draw
+MA00251,2025-11-25,Sharks,Lions,Player 27,24.0,81.0,League,Final,Draw
+MA00252,2026-08-01,Tigers,Titans,Player 76,1.0,47.0,League,Semi-Final,Draw
+MA00253,2025-02-27,Panthers,Panthers,Player 16,15.0,152.0,Final,Semi-Final,Draw
+MA00254,2026-06-07,Sharks,Panthers,Player 58,33.0,132.0,League,Semi-Final,Win
+MA00255,2026-09-25,Panthers,Warriors,Player 41,26.0,45.0,League,Quarter-Final,Win
+MA00256,2025-08-11,Falcons,Panthers,Player 43,15.0,58.0,Friendly,Round 1,Win
+MA00257,2026-06-25,Panthers,Titans,Player 71,21.0,103.0,Semi-Final,Semi-Final,Win
+MA00258,2025-11-25,Sharks,Lions,Player 2,3.0,75.0,League,Round 2,Loss
+MA00259,2026-03-09,Sharks,Eagles,Player 26,40.0,60.0,Final,Round 1,Loss
+MA00260,2026-10-24,Falcons,Falcons,Player 62,11.0,167.0,Final,Round 2,Loss
+MA00261,2026-10-26,Panthers,Falcons,Player 69,12.0,99.0,League,Final,Win
+MA00262,2025-09-25,Falcons,Warriors,Player 74,11.0,31.0,Semi-Final,Round 1,Loss
+MA00263,2026-07-04,Warriors,Panthers,Player 31,8.0,109.0,Friendly,Round 1,Loss
+MA00264,2025-07-12,Warriors,Falcons,Player 33,18.0,76.0,Semi-Final,Round 2,Win
+MA00265,2025-02-23,Tigers,Tigers,Player 23,12.0,123.0,Final,Round 1,Win
+MA00266,2026-04-20,Titans,Warriors,Player 31,26.0,54.0,Friendly,Round 1,Win
+MA00267,2026-04-27,Panthers,Falcons,Player 69,33.0,51.0,Final,Round 1,Draw
+MA00268,2025-10-18,Sharks,Sharks,Player 29,5.0,51.0,League,Semi-Final,Win
+MA00269,2025-03-21,Warriors,Lions,Player 8,24.0,150.0,Final,Semi-Final,Win
+MA00270,2025-01-24,Panthers,Falcons,Player 79,4.0,158.0,Final,Round 2,Draw
+MA00271,2026-06-03,Tigers,Panthers,Player 61,32.0,167.0,Friendly,Round 2,Loss
+MA00272,2025-03-24,Warriors,Tigers,Player 11,21.0,60.0,Friendly,Semi-Final,Draw
+MA00273,2025-06-30,Sharks,Lions,Player 38,22.0,162.0,Final,Quarter-Final,Win
+MA00274,2025-07-05,Sharks,Falcons,Player 61,14.0,49.0,Semi-Final,Round 2,Win
+MA00275,2025-08-22,Sharks,Tigers,Player 7,18.0,116.0,Friendly,Round 2,Loss
+MA00276,2025-04-14,Tigers,Lions,Player 19,,70.0,Semi-Final,Quarter-Final,Draw
+MA00277,2026-07-11,Falcons,Tigers,Player 54,11.0,131.0,Semi-Final,Final,Loss
+MA00278,2025-11-22,Eagles,Lions,Player 60,38.0,79.0,Final,Round 2,Draw
+MA00279,2025-03-29,Sharks,Warriors,Player 30,36.0,165.0,Semi-Final,Final,Loss
+MA00280,2026-04-26,Falcons,Titans,Player 4,13.0,110.0,Semi-Final,Round 2,Win
+MA00281,2026-09-24,Tigers,Lions,Player 60,15.0,46.0,Final,Quarter-Final,Draw
+MA00282,2025-04-28,Eagles,Warriors,Player 58,32.0,96.0,Semi-Final,Quarter-Final,Win
+MA00283,2025-03-26,Tigers,Falcons,Player 41,1.0,,Semi-Final,Final,Draw
+MA00284,2026-10-16,Titans,Panthers,Player 21,10.0,115.0,Semi-Final,Semi-Final,Win
+MA00285,2025-01-17,Titans,Panthers,Player 64,13.0,115.0,Semi-Final,Round 2,Draw
+MA00286,2026-01-24,Sharks,Eagles,Player 56,5.0,100.0,Final,Semi-Final,Draw
+MA00287,2025-01-18,Warriors,Titans,Player 2,7.0,137.0,League,Semi-Final,Draw
+MA00288,2025-02-27,Titans,Eagles,Player 66,24.0,147.0,Friendly,Round 1,Draw
+MA00289,2026-06-26,Eagles,Titans,Player 39,25.0,59.0,Semi-Final,Round 1,Win
+MA00290,2025-04-25,Sharks,Tigers,Player 55,33.0,157.0,Friendly,Round 2,Win
+MA00291,2025-11-17,Tigers,Eagles,Player 40,22.0,74.0,Semi-Final,Final,Draw
+MA00292,2026-02-16,Warriors,Lions,Player 8,14.0,43.0,Final,Final,Loss
+MA00293,2025-12-06,Titans,Sharks,Player 68,21.0,167.0,Friendly,Quarter-Final,Win
+MA00294,2025-12-07,Sharks,Sharks,Player 70,42.0,38.0,Friendly,Round 2,Win
+MA00295,2026-07-13,Falcons,Sharks,Player 68,11.0,43.0,Final,Semi-Final,Loss
+MA00296,2026-01-02,Eagles,Falcons,Player 43,39.0,126.0,Semi-Final,Round 1,Win
+MA00297,2025-12-10,Falcons,Sharks,Player 38,4.0,168.0,Semi-Final,Semi-Final,Draw
+MA00298,2026-06-21,Eagles,Falcons,Player 18,32.0,89.0,Final,Semi-Final,Draw
+MA00299,2026-10-03,Eagles,Panthers,Player 22,5.0,138.0,Final,Semi-Final,Loss
+MA00300,2025-03-17,Sharks,Eagles,Player 13,39.0,144.0,Final,Final,Loss
+MA00301,2025-01-03,Falcons,Panthers,Player 35,15.0,68.0,League,Round 2,Win
+MA00302,2025-03-15,Tigers,Warriors,Player 52,13.0,168.0,Final,Final,Loss
+MA00303,2025-04-19,Tigers,Warriors,Player 58,28.0,134.0,Semi-Final,Semi-Final,Win
+MA00304,2025-02-04,Panthers,Lions,Player 31,21.0,144.0,Final,Round 2,Loss
+MA00305,2026-06-12,Warriors,Falcons,Player 7,0.0,164.0,Semi-Final,Semi-Final,Draw
+MA00306,2025-11-16,Lions,Sharks,Player 72,32.0,32.0,Final,Round 1,Draw
+MA00307,2026-09-05,Eagles,Sharks,Player 78,0.0,60.0,League,Round 1,Draw
+MA00308,2025-08-02,Warriors,Warriors,Player 55,36.0,32.0,Final,Round 2,Loss
+MA00309,2026-04-18,Titans,Falcons,Player 51,5.0,133.0,Friendly,Round 1,Draw
+MA00310,2025-11-10,Sharks,Panthers,Player 71,40.0,120.0,League,Final,Loss
+MA00311,2025-07-19,Eagles,Lions,Player 34,22.0,174.0,Semi-Final,Semi-Final,Win
+MA00312,2026-06-11,Falcons,Panthers,Player 40,3.0,114.0,Friendly,Final,Draw
+MA00313,2026-07-17,Panthers,Lions,Player 47,14.0,67.0,Semi-Final,Round 2,Win
+MA00314,2025-04-25,Sharks,Titans,Player 42,11.0,138.0,Final,Round 1,Loss
+MA00315,2025-05-28,Titans,Lions,Player 71,19.0,167.0,Final,Semi-Final,Win
+MA00316,2026-05-11,Panthers,Falcons,Player 20,42.0,47.0,Final,Quarter-Final,Loss
+MA00317,2025-10-21,Panthers,Warriors,Player 32,13.0,49.0,Final,Final,Loss
+MA00318,2025-12-26,Panthers,Lions,Player 76,23.0,58.0,League,Round 2,Win
+MA00319,2026-06-09,Panthers,Lions,Player 18,30.0,139.0,Friendly,Round 2,Loss
+MA00320,2026-05-14,Panthers,Panthers,Player 49,36.0,89.0,Final,Round 2,Draw
+MA00321,2025-09-28,Panthers,Warriors,Player 53,13.0,37.0,Final,Final,Win
+MA00322,2026-02-26,Lions,Warriors,Player 68,6.0,170.0,League,Final,Loss
+MA00323,2026-07-06,Falcons,Eagles,Player 5,9.0,109.0,Friendly,Quarter-Final,Loss
+MA00324,2025-04-02,Warriors,Titans,Player 41,29.0,62.0,Friendly,Round 2,Win
+MA00325,2026-02-08,Tigers,Lions,Player 30,34.0,38.0,Final,Quarter-Final,Win
+MA00326,2025-10-24,Titans,Lions,Player 36,28.0,116.0,League,Round 1,Win
+MA00327,2026-07-31,Warriors,Warriors,Player 17,43.0,176.0,Friendly,Round 2,Win
+MA00328,2025-07-10,Warriors,Warriors,Player 26,,71.0,Semi-Final,Quarter-Final,Loss
+MA00329,2025-06-07,Lions,Titans,Player 60,25.0,155.0,Semi-Final,Final,Loss
+MA00330,2026-05-22,Falcons,Sharks,Player 75,2.0,63.0,Semi-Final,Round 1,Win
+MA00331,2026-03-02,Eagles,Warriors,Player 68,2.0,159.0,League,Semi-Final,Draw
+MA00332,2025-05-10,Sharks,Eagles,Player 59,43.0,,League,Round 2,Loss
+MA00333,2026-03-20,Sharks,Panthers,Player 64,36.0,168.0,Semi-Final,Semi-Final,Win
+MA00334,2025-06-28,Falcons,Falcons,Player 59,35.0,111.0,Final,Quarter-Final,Win
+MA00335,2025-10-05,Panthers,Titans,Player 9,19.0,138.0,Final,Final,Loss
+MA00336,2026-10-27,Eagles,Sharks,Player 51,4.0,58.0,Semi-Final,Round 1,Win
+MA00337,2025-10-17,Falcons,Warriors,Player 12,31.0,73.0,Semi-Final,Round 1,Win
+MA00338,2026-09-10,Falcons,Warriors,Player 29,3.0,168.0,Friendly,Semi-Final,Draw
+MA00339,2026-09-06,Panthers,Falcons,Player 74,26.0,179.0,League,Round 1,Win
+MA00340,2026-03-15,Titans,Panthers,Player 72,16.0,127.0,League,Final,Loss
+MA00341,2025-05-29,Sharks,Warriors,Player 50,22.0,82.0,Semi-Final,Round 1,Draw
+MA00342,2026-03-07,Lions,Falcons,Player 57,6.0,93.0,Semi-Final,Round 2,Win
+MA00343,2025-03-06,Sharks,Panthers,Player 22,16.0,160.0,Semi-Final,Final,Win
+MA00344,2026-04-10,Sharks,Lions,Player 60,17.0,144.0,League,Quarter-Final,Win
+MA00345,2025-12-12,Warriors,Falcons,Player 48,9.0,142.0,Final,Final,Loss
+MA00346,2026-10-27,Tigers,Eagles,Player 41,28.0,116.0,Final,Semi-Final,Win
+MA00347,2026-08-12,Tigers,Titans,Player 58,17.0,125.0,Semi-Final,Quarter-Final,Win
+MA00348,2025-04-05,Falcons,Tigers,Player 74,17.0,147.0,Friendly,Final,Draw
+MA00349,2026-10-16,Sharks,Sharks,Player 54,7.0,130.0,League,Semi-Final,Loss
+MA00350,2026-02-22,Lions,Sharks,Player 34,10.0,159.0,Semi-Final,Semi-Final,Win
+MA00351,2026-08-24,Panthers,Panthers,Player 30,30.0,30.0,Semi-Final,Final,Win
+MA00352,2026-08-05,Titans,Tigers,Player 21,33.0,52.0,Semi-Final,Round 1,Loss
+MA00353,2026-05-31,Panthers,Panthers,Player 49,3.0,116.0,League,Round 2,Win
+MA00354,2026-04-21,Lions,Falcons,Player 29,11.0,127.0,Friendly,Quarter-Final,Win
+MA00355,2025-03-14,Panthers,Panthers,Player 7,32.0,44.0,Final,Round 2,Loss
+MA00356,2025-04-28,Sharks,Falcons,Player 45,9.0,70.0,Friendly,Round 2,Win
+MA00357,2026-02-20,Warriors,Falcons,Player 73,35.0,179.0,Semi-Final,Final,Draw
+MA00358,2026-10-28,Eagles,Falcons,Player 2,40.0,157.0,Final,Round 1,Draw
+MA00359,2026-03-12,Lions,Lions,Player 64,27.0,,Final,Round 1,Win
+MA00360,2026-03-26,Sharks,Panthers,Player 68,19.0,40.0,Final,Quarter-Final,Draw
+MA00361,2025-11-28,Sharks,Lions,Player 70,37.0,157.0,Semi-Final,Quarter-Final,Loss
+MA00362,2025-11-15,Panthers,Titans,Player 8,31.0,120.0,Final,Final,Win
+MA00363,2026-07-18,Falcons,Sharks,Player 21,15.0,148.0,Final,Quarter-Final,Loss
+MA00364,2026-02-06,Lions,Titans,Player 64,43.0,31.0,League,Final,Draw
+MA00365,2026-10-20,Sharks,Panthers,Player 19,22.0,130.0,League,Round 2,Draw
+MA00366,2026-10-18,Falcons,Lions,Player 77,19.0,73.0,Friendly,Final,Loss
+MA00367,2026-10-13,Falcons,Sharks,Player 45,22.0,116.0,Final,Quarter-Final,Draw
+MA00368,2025-07-03,Falcons,Sharks,Player 28,41.0,145.0,Final,Round 1,Win
+MA00369,2025-01-14,Lions,Sharks,Player 30,28.0,94.0,League,Final,Loss
+MA00370,2026-07-17,Titans,Warriors,Player 35,41.0,148.0,Friendly,Round 2,Win
+MA00371,2025-01-25,Titans,Sharks,Player 16,21.0,144.0,Friendly,Semi-Final,Draw
+MA00372,2026-03-17,Falcons,Falcons,Player 29,17.0,65.0,Semi-Final,Final,Win
+MA00373,2025-02-05,Titans,Lions,Player 63,2.0,88.0,Friendly,Semi-Final,Draw
+MA00374,2026-10-01,Sharks,Titans,Player 6,35.0,157.0,Final,Round 2,Draw
+MA00375,2025-07-29,Warriors,Titans,Player 7,23.0,143.0,Final,Round 2,Draw
+MA00376,2026-10-06,Tigers,Lions,Player 31,19.0,105.0,League,Round 1,Loss
+MA00377,2026-05-14,Sharks,Sharks,Player 3,1.0,57.0,League,Round 2,Win
+MA00378,2025-02-07,Tigers,Eagles,Player 35,25.0,32.0,Semi-Final,Quarter-Final,Win
+MA00379,2026-01-20,Lions,Warriors,Player 66,19.0,152.0,Semi-Final,Round 2,Draw
+MA00380,2025-01-20,Tigers,Tigers,Player 42,22.0,159.0,Final,Final,Win
+MA00381,2025-11-22,Lions,Sharks,Player 18,1.0,145.0,League,Quarter-Final,Loss
+MA00382,2026-04-24,Titans,Lions,Player 6,23.0,112.0,League,Quarter-Final,Loss
+MA00383,2026-05-07,Falcons,Titans,Player 70,21.0,144.0,League,Round 1,Win
+MA00384,2025-12-28,Tigers,Sharks,Player 62,36.0,59.0,Final,Final,Loss
+MA00385,2025-06-21,Sharks,Tigers,Player 45,16.0,91.0,Final,Final,Loss
+MA00386,2025-12-15,Sharks,Sharks,Player 23,6.0,82.0,Friendly,Semi-Final,Win
+MA00387,2026-10-26,Sharks,Titans,Player 48,22.0,135.0,Final,Final,Loss
+MA00388,2025-12-26,Tigers,Eagles,Player 60,28.0,166.0,League,Semi-Final,Loss
+MA00389,2025-06-15,Panthers,Panthers,Player 2,23.0,106.0,Final,Final,Loss
+MA00390,2026-06-14,Warriors,Panthers,Player 60,5.0,94.0,League,Quarter-Final,Win
+MA00391,2025-09-06,Panthers,Warriors,Player 35,35.0,70.0,League,Round 2,Win
+MA00392,2026-08-14,Titans,Lions,Player 31,24.0,64.0,League,Quarter-Final,Draw
+MA00393,2026-07-25,Lions,Titans,Player 73,42.0,100.0,League,Semi-Final,Win
+MA00394,2025-01-14,Panthers,Tigers,Player 65,7.0,,Friendly,Final,Win
+MA00395,2026-06-12,Tigers,Lions,Player 59,11.0,90.0,Semi-Final,Final,Win
+MA00396,2026-06-05,Warriors,Eagles,Player 57,1.0,155.0,Semi-Final,Round 1,Win
+MA00397,2025-04-13,Sharks,Titans,Player 21,41.0,54.0,Semi-Final,Quarter-Final,Draw
+MA00398,2025-03-29,Eagles,Titans,Player 76,25.0,64.0,League,Semi-Final,Draw
+MA00399,2025-02-11,Titans,Sharks,Player 4,16.0,32.0,League,Quarter-Final,Draw
+MA00400,2025-08-16,Titans,Lions,Player 28,4.0,81.0,Friendly,Round 1,Win
+MA00401,2026-03-14,Tigers,Lions,Player 12,7.0,128.0,Friendly,Round 1,Win
+MA00402,2026-10-09,Titans,Warriors,Player 16,3.0,177.0,Friendly,Semi-Final,Draw
+MA00403,2026-04-11,Panthers,Warriors,Player 63,27.0,141.0,League,Final,Win
+MA00404,2026-02-10,Warriors,Lions,Player 19,19.0,75.0,Final,Semi-Final,Draw
+MA00405,2026-08-21,Falcons,Eagles,Player 40,17.0,76.0,Semi-Final,Semi-Final,Win
+MA00406,2025-02-10,Eagles,Falcons,Player 57,33.0,90.0,Friendly,Quarter-Final,Loss
+MA00407,2025-01-21,Titans,Tigers,Player 39,14.0,179.0,Friendly,Final,Loss
+MA00408,2025-02-22,Falcons,Warriors,Player 21,16.0,81.0,Semi-Final,Round 2,Draw
+MA00409,2026-08-05,Titans,Sharks,Player 68,28.0,62.0,Friendly,Round 2,Win
+MA00410,2025-07-28,Tigers,Lions,Player 26,26.0,164.0,Semi-Final,Semi-Final,Win
+MA00411,2025-08-14,Titans,Falcons,Player 36,31.0,121.0,Semi-Final,Semi-Final,Draw
+MA00412,2025-11-02,Sharks,Warriors,Player 18,29.0,99.0,Final,Final,Loss
+MA00413,2025-08-31,Warriors,Titans,Player 36,20.0,152.0,Final,Round 2,Draw
+MA00414,2026-10-08,Lions,Tigers,Player 3,16.0,90.0,Friendly,Round 1,Win
+MA00415,2026-03-08,Panthers,Warriors,Player 6,12.0,138.0,Friendly,Round 1,Loss
+MA00416,2026-04-16,Warriors,Lions,Player 2,1.0,76.0,Friendly,Final,Loss
+MA00417,2026-07-30,Warriors,Sharks,Player 63,35.0,89.0,League,Final,Loss
+MA00418,2026-03-05,Lions,Titans,Player 24,26.0,146.0,Friendly,Semi-Final,Loss
+MA00419,2025-10-04,Falcons,Titans,Player 36,29.0,158.0,Final,Round 1,Loss
+MA00420,2025-11-22,Lions,Warriors,Player 33,35.0,142.0,Friendly,Semi-Final,Loss
+MA00421,2025-01-05,Eagles,Eagles,Player 75,28.0,141.0,Friendly,Semi-Final,Win
+MA00422,2025-08-11,Warriors,Warriors,Player 63,2.0,79.0,Semi-Final,Semi-Final,Win
+MA00423,2026-03-10,Panthers,Falcons,Player 18,,68.0,Friendly,Quarter-Final,Draw
+MA00424,2025-06-21,Sharks,Panthers,Player 5,2.0,116.0,League,Round 1,Draw
+MA00425,2026-01-06,Falcons,Eagles,Player 15,44.0,140.0,Friendly,Final,Draw
+MA00426,2025-11-17,Titans,Lions,Player 15,9.0,150.0,Friendly,Quarter-Final,Win
+MA00427,2026-10-12,Eagles,Titans,Player 1,2.0,79.0,Final,Quarter-Final,Win
+MA00428,2026-10-14,Falcons,Sharks,Player 58,41.0,67.0,Final,Final,Loss
+MA00429,2025-12-20,Sharks,Titans,Player 55,11.0,69.0,Final,Semi-Final,Win
+MA00430,2025-07-15,Warriors,Eagles,Player 45,29.0,83.0,Friendly,Round 2,Win
+MA00431,2026-02-26,Panthers,Lions,Player 43,36.0,86.0,League,Semi-Final,Loss
+MA00432,2026-09-13,Lions,Lions,Player 22,17.0,169.0,Semi-Final,Quarter-Final,Loss
+MA00433,2026-08-08,Tigers,Lions,Player 23,4.0,89.0,Friendly,Round 2,Draw
+MA00434,2025-09-25,Titans,Titans,Player 8,12.0,35.0,Friendly,Quarter-Final,Draw
+MA00435,2025-06-30,Falcons,Eagles,Player 27,1.0,32.0,Friendly,Final,Win
+MA00436,2026-02-07,Warriors,Sharks,Player 33,18.0,62.0,Semi-Final,Final,Loss
+MA00437,2025-01-10,Tigers,Sharks,Player 24,14.0,69.0,Semi-Final,Round 1,Win
+MA00438,2025-10-01,Tigers,Panthers,Player 71,26.0,40.0,Final,Round 1,Draw
+MA00439,2026-05-17,Sharks,Sharks,Player 31,,132.0,Friendly,Round 1,Win
+MA00440,2025-12-27,Panthers,Tigers,Player 60,38.0,170.0,Final,Round 1,Draw
+MA00441,2026-04-02,Sharks,Eagles,Player 25,18.0,86.0,League,Semi-Final,Win
+MA00442,2026-01-03,Falcons,Falcons,Player 70,15.0,74.0,League,Semi-Final,Draw
+MA00443,2026-08-13,Warriors,Panthers,Player 35,9.0,124.0,Friendly,Quarter-Final,Loss
+MA00444,2026-03-02,Sharks,Sharks,Player 60,29.0,108.0,League,Semi-Final,Loss
+MA00445,2025-06-05,Sharks,Titans,Player 67,7.0,128.0,Final,Round 2,Win
+MA00446,2026-08-12,Eagles,Sharks,Player 67,40.0,160.0,Final,Round 2,Draw
+MA00447,2025-10-15,Warriors,Panthers,Player 42,24.0,176.0,League,Semi-Final,Win
+MA00448,2025-02-25,Tigers,Panthers,Player 66,38.0,69.0,Semi-Final,Quarter-Final,Loss
+MA00449,2025-02-02,Falcons,Warriors,Player 62,15.0,94.0,Semi-Final,Semi-Final,Draw
+MA00450,2026-02-15,Falcons,Sharks,Player 16,41.0,43.0,League,Round 2,Draw
+MA00451,2026-04-22,Falcons,Tigers,Player 46,28.0,118.0,Final,Final,Win
+MA00452,2025-05-31,Panthers,Warriors,Player 42,20.0,,Semi-Final,Semi-Final,Win
+MA00453,2025-05-08,Sharks,Titans,Player 22,35.0,137.0,Final,Round 1,Win
+MA00454,2025-08-29,Panthers,Eagles,Player 54,30.0,104.0,Final,Semi-Final,Draw
+MA00455,2026-01-06,Titans,Tigers,Player 77,0.0,131.0,Semi-Final,Final,Loss
+MA00456,2025-01-07,Falcons,Titans,Player 35,4.0,102.0,Semi-Final,Final,Loss
+MA00457,2025-12-04,Eagles,Warriors,Player 15,14.0,109.0,League,Semi-Final,Draw
+MA00458,2025-03-03,Warriors,Lions,Player 59,22.0,124.0,League,Round 1,Draw
+MA00459,2025-10-01,Sharks,Falcons,Player 76,24.0,149.0,League,Final,Draw
+MA00460,2025-10-02,Lions,Falcons,Player 4,39.0,49.0,League,Semi-Final,Draw
+MA00461,2025-02-02,Panthers,Tigers,Player 74,30.0,128.0,Friendly,Quarter-Final,Draw
+MA00462,2025-01-24,Eagles,Titans,Player 58,15.0,97.0,League,Final,Win
+MA00463,2026-02-10,Sharks,Eagles,Player 15,13.0,130.0,Semi-Final,Final,Loss
+MA00464,2025-08-27,Falcons,Titans,Player 30,8.0,127.0,Final,Round 1,Draw
+MA00465,2025-12-09,Falcons,Falcons,Player 13,21.0,72.0,Semi-Final,Semi-Final,Loss
+MA00466,2025-05-03,Warriors,Lions,Player 45,43.0,97.0,Friendly,Final,Draw
+MA00467,2025-06-12,Eagles,Sharks,Player 24,4.0,,League,Final,Loss
+MA00468,2025-08-03,Eagles,Warriors,Player 51,1.0,123.0,Friendly,Semi-Final,Draw
+MA00469,2026-03-19,Falcons,Eagles,Player 48,4.0,114.0,Semi-Final,Semi-Final,Draw
+MA00470,2025-10-12,Tigers,Warriors,Player 63,23.0,155.0,Final,Round 2,Win
+MA00471,2026-10-13,Titans,Eagles,Player 34,38.0,156.0,Friendly,Quarter-Final,Draw
+MA00472,2026-08-15,Falcons,Sharks,Player 48,28.0,39.0,League,Round 2,Loss
+MA00473,2026-09-15,Titans,Panthers,Player 68,24.0,53.0,Final,Round 2,Draw
+MA00474,2025-03-29,Lions,Panthers,Player 34,30.0,139.0,Semi-Final,Semi-Final,Loss
+MA00475,2026-08-18,Tigers,Eagles,Player 78,20.0,88.0,Final,Quarter-Final,Draw
+MA00476,2025-01-13,Panthers,Panthers,Player 37,43.0,177.0,Final,Round 1,Draw
+MA00477,2026-05-18,Sharks,Falcons,Player 36,19.0,135.0,Friendly,Semi-Final,Loss
+MA00478,2025-12-17,Sharks,Eagles,Player 48,36.0,62.0,Semi-Final,Round 2,Win
+MA00479,2026-06-20,Falcons,Lions,Player 2,42.0,166.0,Friendly,Round 2,Loss
+MA00480,2025-11-06,Sharks,Panthers,Player 43,20.0,46.0,Friendly,Quarter-Final,Loss
+MA00481,2026-04-23,Tigers,Lions,Player 78,19.0,159.0,Friendly,Round 1,Draw
+MA00482,2025-08-09,Warriors,Eagles,Player 50,29.0,143.0,Semi-Final,Semi-Final,Draw
+MA00483,2025-10-01,Falcons,Sharks,Player 34,11.0,121.0,Friendly,Round 1,Loss
+MA00484,2026-09-08,Panthers,Eagles,Player 37,34.0,42.0,League,Semi-Final,Draw
+MA00485,2025-05-06,Falcons,Falcons,Player 40,4.0,140.0,Final,Semi-Final,Loss
+MA00486,2026-02-13,Sharks,Panthers,Player 9,31.0,104.0,League,Round 2,Draw
+MA00487,2026-05-22,Lions,Titans,Player 50,36.0,91.0,Friendly,Final,Loss
+MA00488,2025-05-15,Eagles,Eagles,Player 10,14.0,123.0,Semi-Final,Quarter-Final,Loss
+MA00489,2026-02-17,Eagles,Warriors,Player 61,42.0,55.0,Friendly,Round 1,Draw
+MA00490,2025-12-24,Warriors,Panthers,Player 9,43.0,125.0,Final,Round 1,Draw
+MA00491,2026-06-25,Lions,Warriors,Player 38,41.0,103.0,Friendly,Round 2,Loss
+MA00492,2026-03-14,Lions,Panthers,Player 75,2.0,107.0,League,Round 1,Loss
+MA00493,2026-09-30,Titans,Tigers,Player 4,7.0,173.0,Friendly,Quarter-Final,Loss
+MA00494,2025-12-30,Falcons,Falcons,Player 5,25.0,85.0,League,Round 1,Loss
+MA00495,2025-09-21,Titans,Lions,Player 50,28.0,86.0,Final,Semi-Final,Win
+MA00496,2026-01-23,Eagles,Panthers,Player 54,28.0,157.0,League,Quarter-Final,Win
+MA00497,2026-08-28,Falcons,Sharks,Player 36,23.0,109.0,League,Semi-Final,Loss
+MA00498,2025-01-08,Titans,Eagles,Player 15,6.0,175.0,Semi-Final,Round 1,Win
+MA00499,2025-02-16,Eagles,Titans,Player 43,18.0,171.0,Friendly,Final,Draw
+MA00500,2025-04-14,Lions,Lions,Player 57,21.0,60.0,Semi-Final,Semi-Final,Loss
+MA00501,2025-06-20,Titans,Lions,Player 22,36.0,45.0,Final,Quarter-Final,Draw
+MA00502,2026-02-03,Lions,Falcons,Player 12,,,Semi-Final,Final,Draw
+MA00503,2025-11-09,Titans,Warriors,Player 1,40.0,37.0,Friendly,Quarter-Final,Draw
+MA00504,2026-01-19,Warriors,Falcons,Player 77,41.0,152.0,Semi-Final,Quarter-Final,Loss
+MA00505,2026-09-21,Lions,Panthers,Player 11,6.0,123.0,Semi-Final,Final,Loss
+MA00506,2025-01-11,Falcons,Tigers,Player 53,40.0,48.0,Semi-Final,Final,Draw
+MA00507,2026-10-13,Warriors,Warriors,Player 46,0.0,82.0,Final,Round 2,Loss
+MA00508,2025-07-20,Tigers,Warriors,Player 43,2.0,34.0,Final,Semi-Final,Draw
+MA00509,2025-12-08,Eagles,Titans,Player 52,8.0,129.0,Friendly,Round 2,Win
+MA00510,2025-04-21,Falcons,Sharks,Player 14,5.0,157.0,League,Round 1,Win
+MA00511,2026-01-25,Warriors,Falcons,Player 10,36.0,89.0,League,Round 2,Draw
+MA00512,2025-06-09,Falcons,Tigers,Player 43,14.0,141.0,Semi-Final,Round 1,Draw
+MA00513,2025-10-28,Warriors,Eagles,Player 35,41.0,106.0,Semi-Final,Round 2,Loss
+MA00514,2025-05-25,Falcons,Eagles,Player 45,28.0,133.0,Final,Round 2,Win
+MA00515,2026-08-21,Warriors,Titans,Player 50,30.0,174.0,Friendly,Quarter-Final,Win
+MA00516,2026-02-15,Panthers,Panthers,Player 78,7.0,90.0,Friendly,Final,Win
+MA00517,2026-07-26,Lions,Panthers,Player 34,0.0,100.0,Semi-Final,Round 2,Draw
+MA00518,2026-09-09,Falcons,Titans,Player 59,5.0,86.0,Final,Round 2,Loss
+MA00519,2025-06-19,Lions,Warriors,Player 56,26.0,131.0,Final,Final,Loss
+MA00520,2025-11-17,Titans,Sharks,Player 21,40.0,92.0,Final,Round 2,Draw
+MA00521,2025-02-15,Sharks,Lions,Player 74,18.0,179.0,Final,Final,Draw
+MA00522,2026-10-18,Warriors,Panthers,Player 72,24.0,125.0,Friendly,Semi-Final,Loss
+MA00523,2025-02-18,Titans,Falcons,Player 26,35.0,89.0,Semi-Final,Final,Win
+MA00524,2025-04-14,Titans,Warriors,Player 29,8.0,96.0,Final,Final,Win
+MA00525,2026-08-26,Panthers,Falcons,Player 63,33.0,31.0,Semi-Final,Semi-Final,Win
+MA00526,2025-09-22,Eagles,Falcons,Player 55,30.0,105.0,Semi-Final,Semi-Final,Win
+MA00527,2026-05-02,Eagles,Eagles,Player 19,8.0,135.0,Friendly,Semi-Final,Loss
+MA00528,2026-02-28,Warriors,Eagles,Player 14,17.0,63.0,League,Final,Draw
+MA00529,2025-04-26,Panthers,Titans,Player 46,14.0,126.0,Final,Round 1,Win
+MA00530,2026-03-12,Panthers,Warriors,Player 60,44.0,112.0,League,Round 1,Win
+MA00531,2026-04-16,Tigers,Sharks,Player 70,9.0,83.0,Friendly,Quarter-Final,Draw
+MA00532,2025-03-21,Eagles,Panthers,Player 31,42.0,151.0,League,Round 2,Win
+MA00533,2025-10-01,Eagles,Falcons,Player 70,23.0,139.0,Friendly,Semi-Final,Loss
+MA00534,2025-03-13,Panthers,Lions,Player 60,2.0,57.0,Friendly,Round 2,Loss
+MA00535,2026-01-26,Falcons,Sharks,Player 33,3.0,144.0,League,Final,Win
+MA00536,2025-03-03,Eagles,Panthers,Player 61,5.0,64.0,Friendly,Round 1,Loss
+MA00537,2026-02-05,Titans,Titans,Player 66,26.0,64.0,Friendly,Round 1,Loss
+MA00538,2026-05-08,Sharks,Eagles,Player 71,40.0,111.0,Semi-Final,Semi-Final,Draw
+MA00539,2026-04-02,Warriors,Sharks,Player 38,21.0,59.0,League,Quarter-Final,Draw
+MA00540,2025-02-17,Titans,Tigers,Player 43,17.0,37.0,League,Final,Draw
+MA00541,2025-07-09,Falcons,Warriors,Player 52,25.0,132.0,Friendly,Quarter-Final,Draw
+MA00542,2026-08-21,Eagles,Eagles,Player 23,9.0,144.0,Friendly,Final,Loss
+MA00543,2026-09-11,Panthers,Titans,Player 43,37.0,93.0,Final,Round 1,Win
+MA00544,2025-03-18,Eagles,Sharks,Player 46,14.0,78.0,Friendly,Quarter-Final,Loss
+MA00545,2026-08-11,Titans,Titans,Player 45,21.0,48.0,Semi-Final,Final,Loss
+MA00546,2025-03-09,Panthers,Warriors,Player 27,9.0,146.0,League,Round 1,Draw
+MA00547,2025-01-09,Panthers,Eagles,Player 6,35.0,46.0,Final,Final,Loss
+MA00548,2025-03-27,Eagles,Warriors,Player 42,28.0,114.0,Semi-Final,Final,Draw
+MA00549,2026-04-05,Warriors,Panthers,Player 68,42.0,30.0,Friendly,Round 1,Win
+MA00550,2026-10-30,Lions,Lions,Player 57,36.0,116.0,Friendly,Quarter-Final,Loss
+MA00551,2025-12-28,Titans,Warriors,Player 25,4.0,42.0,Friendly,Round 2,Loss
+MA00552,2025-05-17,Sharks,Tigers,Player 48,27.0,47.0,Final,Round 1,Loss
+MA00553,2025-12-06,Warriors,Tigers,Player 9,3.0,130.0,League,Quarter-Final,Win
+MA00554,2025-10-28,Titans,Titans,Player 51,29.0,78.0,Semi-Final,Round 2,Win
+MA00555,2025-03-17,Tigers,Eagles,Player 29,8.0,170.0,Final,Round 2,Win
+MA00556,2025-08-31,Tigers,Panthers,Player 45,9.0,123.0,Friendly,Final,Loss
+MA00557,2025-12-27,Tigers,Titans,Player 7,32.0,149.0,League,Semi-Final,Loss
+MA00558,2026-05-17,Tigers,Sharks,Player 34,10.0,51.0,League,Round 2,Win
+MA00559,2026-05-09,Falcons,Panthers,Player 3,28.0,102.0,League,Final,Draw
+MA00560,2025-04-25,Warriors,Warriors,Player 60,8.0,96.0,Semi-Final,Final,Loss
+MA00561,2025-01-10,Sharks,Titans,Player 30,27.0,134.0,League,Quarter-Final,Loss
+MA00562,2026-09-28,Titans,Sharks,Player 76,44.0,33.0,Friendly,Semi-Final,Loss
+MA00563,2025-10-11,Lions,Panthers,Player 40,30.0,118.0,Friendly,Final,Win
+MA00564,2025-08-28,Lions,Sharks,Player 8,9.0,157.0,Final,Round 2,Win
+MA00565,2026-02-20,Sharks,Panthers,Player 72,20.0,64.0,League,Round 1,Win
+MA00566,2025-06-13,Panthers,Titans,Player 38,10.0,70.0,League,Round 1,Draw
+MA00567,2025-04-10,Sharks,Panthers,Player 31,13.0,,Final,Round 2,Loss
+MA00568,2026-01-16,Panthers,Warriors,Player 54,19.0,144.0,Friendly,Round 1,Draw
+MA00569,2026-10-24,Lions,Falcons,Player 64,8.0,101.0,Friendly,Semi-Final,Win
+MA00570,2025-09-27,Tigers,Eagles,Player 57,11.0,154.0,Semi-Final,Final,Loss
+MA00571,2026-04-06,Panthers,Lions,Player 50,42.0,70.0,Final,Quarter-Final,Draw
+MA00572,2025-10-23,Lions,Panthers,Player 76,32.0,172.0,League,Final,Draw
+MA00573,2026-04-03,Warriors,Falcons,Player 37,11.0,171.0,Semi-Final,Semi-Final,Loss
+MA00574,2026-04-27,Panthers,Sharks,Player 36,0.0,76.0,Final,Final,Loss
+MA00575,2025-10-30,Eagles,Eagles,Player 4,15.0,71.0,Friendly,Quarter-Final,Draw
+MA00576,2025-11-07,Falcons,Sharks,Player 40,7.0,144.0,League,Round 2,Loss
+MA00577,2025-02-26,Titans,Eagles,Player 68,32.0,134.0,Friendly,Final,Win
+MA00578,2026-06-20,Eagles,Panthers,Player 23,19.0,135.0,Final,Semi-Final,Draw
+MA00579,2026-08-27,Warriors,Panthers,Player 49,33.0,79.0,Final,Round 2,Win
+MA00580,2025-01-08,Eagles,Tigers,Player 65,37.0,127.0,Friendly,Quarter-Final,Win
+MA00581,2025-02-07,Falcons,Titans,Player 18,23.0,101.0,Friendly,Round 1,Draw
+MA00582,2026-03-13,Titans,Lions,Player 1,34.0,165.0,League,Round 2,Draw
+MA00583,2026-06-05,Warriors,Tigers,Player 22,23.0,135.0,League,Semi-Final,Loss
+MA00584,2025-12-26,Eagles,Sharks,Player 4,29.0,126.0,Friendly,Round 2,Win
+MA00585,2025-04-23,Lions,Titans,Player 59,43.0,144.0,League,Quarter-Final,Draw
+MA00586,2026-04-14,Eagles,Tigers,Player 26,43.0,101.0,Final,Final,Draw
+MA00587,2026-04-26,Falcons,Lions,Player 65,20.0,65.0,Semi-Final,Semi-Final,Win
+MA00588,2025-12-21,Eagles,Panthers,Player 61,23.0,112.0,Semi-Final,Round 2,Win
+MA00589,2025-11-24,Tigers,Sharks,Player 58,40.0,112.0,Semi-Final,Round 2,Win
+MA00590,2025-12-15,Warriors,Sharks,Player 20,2.0,96.0,Semi-Final,Quarter-Final,Win
+MA00591,2025-10-31,Eagles,Lions,Player 17,44.0,,League,Semi-Final,Win
+MA00592,2026-07-04,Falcons,Eagles,Player 25,28.0,,Final,Final,Win
+MA00593,2026-10-31,Eagles,Tigers,Player 6,2.0,35.0,Final,Round 1,Win
+MA00594,2026-04-24,Tigers,Falcons,Player 27,25.0,162.0,League,Round 2,Win
+MA00595,2026-10-30,Titans,Falcons,Player 35,29.0,143.0,League,Round 1,Draw
+MA00596,2026-08-11,Eagles,Lions,Player 43,25.0,178.0,Semi-Final,Semi-Final,Draw
+MA00597,2025-02-06,Sharks,Tigers,Player 43,43.0,123.0,Final,Round 1,Draw
+MA00598,2025-10-07,Falcons,Warriors,Player 65,20.0,161.0,League,Round 1,Draw
+MA00599,2026-08-23,Titans,Warriors,Player 43,19.0,126.0,League,Semi-Final,Draw
+MA00110,2026-01-25,Titans,Eagles,Player 18,33.0,134.0,Semi-Final,Semi-Final,Win
+MA00419,2025-10-04,Falcons,Titans,Player 36,29.0,158.0,Final,Round 1,Loss
+MA00565,2026-02-20,Sharks,Panthers,Player 72,20.0,64.0,League,Round 1,Win
+MA00077,2025-01-05,Titans,Titans,Player 47,37.0,162.0,Friendly,Round 2,Loss
+MA00181,2025-08-27,Lions,Falcons,Player 53,36.0,144.0,League,Round 2,Draw
+MA00284,2026-10-16,Titans,Panthers,Player 21,10.0,115.0,Semi-Final,Semi-Final,Win
+MA00010,2026-03-06,Tigers,Tigers,Player 59,32.0,35.0,League,Final,Draw
+MA00469,2026-03-19,Falcons,Eagles,Player 48,4.0,114.0,Semi-Final,Semi-Final,Draw
+MA00078,2025-09-12,Lions,Lions,Player 7,23.0,106.0,Final,Semi-Final,Loss
